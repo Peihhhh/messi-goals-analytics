@@ -1,578 +1,578 @@
-match_id,date,season,age,club,competition,matchday,opponent,venue,started,starting_position,position_group,minutes_played,end_reason,team_goals,opponent_goals,match_result,team_goals_without_messi,shots,shots_on_target,non_penalty_shots,xg,npxg,goals_from_shots,non_penalty_goals,messi_goals,scored,position_reliable,flag_sub_with_90_minutes,shot_data_available,total_assists_in_match,dominant_goal_type,pred_scored_prob
-68353,2004-10-16,2004-05,17,FC Barcelona,LaLiga,7,Espanyol,Away,False,Right Center Midfield,Other,9,Final Whistle,1,0,W,1,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.22734370234069579
-68313,2004-10-24,2004-05,17,FC Barcelona,LaLiga,8,Osasuna,Home,False,Left Wing,Wing,18,Final Whistle,3,0,W,3,1,1,1,0.05436392,0.05436392,0,0,0,False,False,False,True,0.0,None,0.3075420376437774
-68314,2004-12-04,2004-05,17,FC Barcelona,LaLiga,14,Málaga,Home,False,Right Center Back,Other,9,Final Whistle,4,0,W,4,2,2,2,0.332755604,0.332755604,0,0,0,False,False,False,True,0.0,None,0.17691502708570955
-69153,2004-12-11,2004-05,17,FC Barcelona,LaLiga,15,Albacete,Away,False,Right Back,Other,1,Final Whistle,2,1,W,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.23125178751088654
-68315,2004-12-21,2004-05,17,FC Barcelona,LaLiga,17,Levante UD,Home,False,Right Back,Other,33,Final Whistle,2,1,W,2,2,1,2,0.0427315719999999,0.0427315719999999,0,0,0,False,False,False,True,0.0,None,0.26432886967767455
-68352,2005-04-17,2004-05,17,FC Barcelona,LaLiga,32,Getafe,Home,False,Center Forward,Forward,5,Final Whistle,2,0,W,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.42311293299890523
-68316,2005-05-01,2004-05,17,FC Barcelona,LaLiga,34,Albacete,Home,False,Center Forward,Forward,3,Final Whistle,2,0,W,1,1,1,1,0.14505877,0.14505877,1,1,1,True,False,False,True,0.0,None,0.6240884306739173
-68317,2005-10-01,2005-06,18,FC Barcelona,LaLiga,6,Real Zaragoza,Home,False,Right Wing,Wing,24,Final Whistle,2,2,D,2,1,0,1,0.02042063,0.02042063,0,0,0,False,False,False,True,0.0,None,0.2606369338497542
-68318,2005-10-22,2005-06,18,FC Barcelona,LaLiga,8,Osasuna,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,3,5,2,5,0.560408586,0.560408586,0,0,0,False,True,False,True,0.0,None,0.34867265696783434
-69164,2005-10-26,2005-06,18,FC Barcelona,LaLiga,11,Málaga,Home,False,Right Wing,Wing,29,Final Whistle,2,0,W,2,1,1,1,0.103708066,0.103708066,0,0,0,False,False,False,True,0.0,None,0.21106153530363356
-68339,2005-11-06,2005-06,18,FC Barcelona,LaLiga,10,Getafe,Away,False,Right Wing,Wing,22,Final Whistle,3,1,W,3,1,1,1,0.45258602,0.45258602,0,0,0,False,False,False,True,0.0,None,0.22885309919536856
-68319,2005-11-19,2005-06,18,FC Barcelona,LaLiga,12,Real Madrid,Away,True,Right Wing,Wing,69,Substitution - Off (Tactical),3,0,W,3,7,2,7,0.5935365189999999,0.5935365189999999,0,0,0,False,True,False,True,0.0,None,0.27320806604019243
-68354,2005-11-27,2005-06,18,FC Barcelona,LaLiga,13,Racing Santander,Home,True,Right Wing,Wing,66,Substitution - Off (Tactical),4,1,W,3,3,1,3,0.301318776,0.301318776,1,1,1,True,True,False,True,0.0,None,0.3508447600010019
-68320,2005-12-04,2005-06,18,FC Barcelona,LaLiga,14,Villarreal,Away,True,Right Wing,Wing,79,Substitution - Off (Tactical),2,0,W,2,2,1,2,0.13141808,0.13141808,0,0,0,False,True,False,True,0.0,None,0.26678974731794247
-68321,2005-12-11,2005-06,18,FC Barcelona,LaLiga,15,Sevilla,Home,True,Right Wing,Wing,62,Substitution - Off (Tactical),2,1,W,2,2,0,2,0.0257884528,0.0257884528,0,0,0,False,True,False,True,0.0,None,0.37988593730974357
-68322,2005-12-17,2005-06,18,FC Barcelona,LaLiga,16,Cádiz,Away,True,Left Wing,Wing,81,Substitution - Off (Tactical),3,1,W,3,2,0,2,0.20443786,0.20443786,0,0,0,False,True,False,True,0.0,None,0.28369067229663797
-68323,2005-12-20,2005-06,18,FC Barcelona,LaLiga,17,Celta Vigo,Home,True,Right Wing,Wing,66,Substitution - Off (Tactical),2,0,W,2,1,1,1,0.05619402,0.05619402,0,0,0,False,True,False,True,0.0,None,0.47505693612890204
-68348,2006-01-07,2005-06,18,FC Barcelona,LaLiga,18,Espanyol,Away,True,Right Wing,Wing,77,Substitution - Off (Tactical),2,1,W,2,2,0,2,0.44947075,0.44947075,0,0,0,False,True,False,True,0.0,None,0.2976984554269811
-68342,2006-01-15,2005-06,18,FC Barcelona,LaLiga,19,Athletic Club,Home,True,Right Wing,Wing,82,Substitution - Off (Tactical),2,1,W,1,4,2,4,0.6803824199999999,0.6803824199999999,1,1,1,True,True,False,True,0.0,None,0.45509946821240277
-68324,2006-01-22,2005-06,18,FC Barcelona,LaLiga,20,Deportivo Alavés,Home,False,Center Forward,Forward,18,Final Whistle,2,0,W,1,1,1,1,0.4738737,0.4738737,1,1,1,True,False,False,True,0.0,None,0.48974534546872833
-68325,2006-01-29,2005-06,18,FC Barcelona,LaLiga,21,Mallorca,Away,False,Center Forward,Forward,17,Final Whistle,3,0,W,1,2,2,2,0.2762295,0.2762295,2,2,2,True,False,False,True,0.0,None,0.5600223823949609
-68350,2006-02-05,2005-06,18,FC Barcelona,LaLiga,22,Atlético Madrid,Home,True,Right Wing,Wing,45,Substitution - Off (Tactical),1,3,L,1,1,1,1,0.020061474,0.020061474,0,0,0,False,True,False,True,0.0,None,0.419338761056526
-69172,2006-02-18,2005-06,18,FC Barcelona,LaLiga,24,Real Betis,Home,False,Center Forward,Forward,15,Final Whistle,5,1,W,4,2,2,2,0.44954214,0.44954214,1,1,1,True,False,False,True,0.0,None,0.5985544300972991
-68351,2006-02-25,2005-06,18,FC Barcelona,LaLiga,25,Real Zaragoza,Away,True,Right Wing,Wing,69,Substitution - Off (Tactical),2,0,W,2,1,0,1,0.014616117,0.014616117,0,0,0,False,True,False,True,0.0,None,0.31036474386540835
-68326,2006-08-28,2006-07,19,FC Barcelona,LaLiga,1,Celta Vigo,Away,True,Left Wing,Wing,90,Final Whistle,3,2,W,2,3,3,3,0.2359292399999999,0.2359292399999999,1,1,1,True,True,False,True,0.0,None,0.45854414794029374
-68327,2006-09-09,2006-07,19,FC Barcelona,LaLiga,2,Osasuna,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,2,2,2,0.4815572,0.4815572,1,1,1,True,True,False,True,0.0,None,0.488670813110454
-68340,2006-09-17,2006-07,19,FC Barcelona,LaLiga,3,Racing Santander,Away,True,Right Wing,Wing,64,Substitution - Off (Tactical),3,0,W,3,2,0,2,0.190587115,0.190587115,0,0,0,False,True,False,True,0.0,None,0.30592419160133827
-68328,2006-09-24,2006-07,19,FC Barcelona,LaLiga,4,Valencia,Home,True,Right Wing,Wing,84,Substitution - Off (Tactical),1,1,D,1,3,0,3,0.0629749777,0.0629749777,0,0,0,False,True,False,True,0.0,None,0.3304875617592867
-68347,2006-09-30,2006-07,19,FC Barcelona,LaLiga,5,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,3,1,W,3,1,1,1,0.21833913,0.21833913,0,0,0,False,True,False,True,0.0,None,0.30060217180036625
-68329,2006-10-15,2006-07,19,FC Barcelona,LaLiga,6,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,2,3,2,3,0.3202365,0.3202365,1,1,1,True,True,False,True,0.0,None,0.4040045658232457
-68330,2006-10-22,2006-07,19,FC Barcelona,LaLiga,7,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,0,2,L,0,4,2,4,0.47428159,0.47428159,0,0,0,False,True,False,True,0.0,None,0.30954045336657626
-69174,2006-11-04,2006-07,19,FC Barcelona,LaLiga,9,RC Deportivo La Coruña,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,2,0,2,0.114321042,0.114321042,0,0,0,False,True,False,True,0.0,None,0.3295572585860971
-68331,2006-11-12,2006-07,19,FC Barcelona,LaLiga,10,Real Zaragoza,Home,True,Right Wing,Wing,22,Substitution - Off (Injury),3,1,W,3,1,0,1,0.08329088,0.08329088,0,0,0,False,True,False,True,0.0,None,0.36898308398078344
-69154,2007-02-11,2006-07,19,FC Barcelona,LaLiga,22,Racing Santander,Home,False,Center Forward,Forward,23,Final Whistle,2,0,W,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.4015905896412774
-68332,2007-02-18,2006-07,19,FC Barcelona,LaLiga,23,Valencia,Away,False,Center Forward,Forward,35,Final Whistle,1,2,L,1,2,0,2,0.058527654,0.058527654,0,0,0,False,False,False,True,0.0,None,0.30027806247307837
-68333,2007-02-25,2006-07,19,FC Barcelona,LaLiga,24,Athletic Club,Home,False,Center Forward,Forward,24,Final Whistle,3,0,W,3,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.41973544729387124
-68334,2007-03-03,2006-07,19,FC Barcelona,LaLiga,25,Sevilla,Away,True,Left Wing,Wing,70,Substitution - Off (Tactical),1,2,L,1,1,1,1,0.022685438,0.022685438,0,0,0,False,True,False,True,0.0,None,0.34652081482265373
-68335,2007-03-10,2006-07,19,FC Barcelona,LaLiga,26,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,3,3,D,0,6,3,6,1.032769454,1.032769454,3,3,3,True,True,False,True,0.0,None,0.5235336177992366
-68341,2007-03-17,2006-07,19,FC Barcelona,LaLiga,27,Recreativo Huelva,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,3,1,3,0.213417659,0.213417659,1,1,1,True,True,False,True,0.0,None,0.5093362998005484
-69175,2007-03-31,2006-07,19,FC Barcelona,LaLiga,28,RC Deportivo La Coruña,Home,True,Right Wing,Wing,84,Substitution - Off (Tactical),2,1,W,1,2,1,2,0.452584381,0.452584381,1,1,1,True,True,False,True,0.0,None,0.5083740324704311
-69179,2007-04-07,2006-07,19,FC Barcelona,LaLiga,29,Real Zaragoza,Away,True,Left Wing,Wing,90,Final Whistle,0,1,L,0,2,2,2,0.35068314,0.35068314,0,0,0,False,True,False,True,0.0,None,0.3354792283885335
-69159,2007-04-15,2006-07,19,FC Barcelona,LaLiga,30,Mallorca,Home,True,Left Wing,Wing,90,Final Whistle,1,0,W,1,3,1,3,0.1523005615,0.1523005615,0,0,0,False,True,False,True,0.0,None,0.4312323470408259
-69155,2007-04-22,2006-07,19,FC Barcelona,LaLiga,31,Villarreal,Away,True,Right Wing,Wing,90,Final Whistle,0,2,L,0,1,1,1,0.05437806,0.05437806,0,0,0,False,True,False,True,0.0,None,0.33788601849728744
-69156,2007-04-29,2006-07,19,FC Barcelona,LaLiga,32,Levante UD,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,1,0,1,0.43383035,0.43383035,0,0,0,False,True,False,True,0.0,None,0.43194468421083315
-69160,2007-05-05,2006-07,19,FC Barcelona,LaLiga,33,Real Sociedad,Away,True,Right Wing,Wing,90,Substitution - Off (Tactical),2,0,W,2,2,0,2,0.197428025,0.197428025,0,0,0,False,True,False,True,0.0,None,0.330056791627309
-69162,2007-05-13,2006-07,19,FC Barcelona,LaLiga,34,Real Betis,Home,True,Right Wing,Wing,74,Substitution - Off (Tactical),1,1,D,1,2,0,2,0.10062328,0.10062328,0,0,0,False,True,False,True,0.0,None,0.39338775904741746
-69176,2007-05-20,2006-07,19,FC Barcelona,LaLiga,35,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,6,0,W,4,5,4,5,0.625048095,0.625048095,2,2,2,True,True,False,True,0.0,None,0.4853586785128022
-69157,2007-05-26,2006-07,19,FC Barcelona,LaLiga,36,Getafe,Home,True,Right Wing,Wing,89,Substitution - Off (Tactical),1,0,W,1,3,0,3,0.200182308,0.200182308,0,0,0,False,True,False,True,0.0,None,0.39316240219476556
-69165,2007-06-09,2006-07,19,FC Barcelona,LaLiga,37,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,2,2,D,0,6,3,6,0.929765477,0.929765477,2,2,2,True,True,False,True,0.0,None,0.516514739766521
-68336,2007-06-17,2006-07,19,FC Barcelona,LaLiga,38,Gimnàstic Tarragona,Away,True,Right Wing,Wing,81,Substitution - Off (Tactical),5,1,W,3,3,3,3,1.116933533,1.116933533,2,2,2,True,True,False,True,0.0,None,0.5738745986361778
-69180,2007-08-26,2007-08,20,FC Barcelona,LaLiga,1,Racing Santander,Away,True,Right Wing,Wing,61,Substitution - Off (Tactical),0,0,D,0,1,1,1,0.009912537,0.009912537,0,0,0,False,True,False,True,0.0,None,0.3287426166828442
-69169,2007-09-02,2007-08,20,FC Barcelona,LaLiga,2,Athletic Club,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,3,3,1,3,0.240570868,0.240570868,0,0,0,False,True,False,True,0.0,None,0.418208340624407
-69148,2007-09-22,2007-08,20,FC Barcelona,LaLiga,4,Sevilla,Home,True,Right Wing,Wing,89,Substitution - Off (Tactical),2,1,W,0,5,3,4,1.098373373,0.314873373,2,1,2,True,True,False,True,0.0,None,0.5210663166905865
-69151,2007-09-29,2007-08,20,FC Barcelona,LaLiga,6,Levante UD,Away,True,Right Wing,Wing,51,Substitution - Off (Tactical),4,1,W,3,4,2,4,0.574775304,0.574775304,1,1,1,True,True,False,True,0.0,None,0.38434156709783157
-69144,2007-10-07,2007-08,20,FC Barcelona,LaLiga,7,Atlético Madrid,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,3,3,3,0.65344309,0.65344309,1,1,1,True,True,False,True,0.0,None,0.49130843682347036
-68364,2007-10-20,2007-08,20,FC Barcelona,LaLiga,8,Villarreal,Away,True,Right Wing,Wing,90,Final Whistle,1,3,L,1,2,0,2,0.110653735,0.110653735,0,0,0,False,True,False,True,0.0,None,0.31334777771583994
-69158,2007-10-28,2007-08,20,FC Barcelona,LaLiga,9,Almería,Home,False,Left Wing,Wing,16,Final Whistle,2,0,W,1,1,1,0,0.7835,0.0,1,0,1,True,False,False,True,0.0,None,0.5194419254573412
-68363,2007-11-01,2007-08,20,FC Barcelona,LaLiga,10,Real Valladolid,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,0,0,0,0.0,0.0,0,0,0,False,True,False,True,0.0,None,0.29354866788551165
-69166,2007-11-04,2007-08,20,FC Barcelona,LaLiga,11,Real Betis,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,3,2,1,2,0.225014596,0.225014596,0,0,0,False,True,False,True,0.0,None,0.39166569872813994
-69178,2007-11-10,2007-08,20,FC Barcelona,LaLiga,12,Getafe,Away,True,Right Wing,Wing,71,Substitution - Off (Tactical),0,2,L,0,1,0,1,0.028240308,0.028240308,0,0,0,False,True,False,True,0.0,None,0.30554471052347626
-69184,2007-11-24,2007-08,20,FC Barcelona,LaLiga,13,Recreativo Huelva,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,6,3,5,1.614901004,0.8314010039999999,1,0,1,True,True,False,True,0.0,None,0.5350209411469493
-68356,2007-12-01,2007-08,20,FC Barcelona,LaLiga,14,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,4,3,4,0.263243165,0.263243165,0,0,0,False,True,False,True,0.0,None,0.33249031859476813
-69170,2007-12-09,2007-08,20,FC Barcelona,LaLiga,15,RC Deportivo La Coruña,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,2,0,2,0.044135009,0.044135009,0,0,0,False,True,False,True,0.0,None,0.4330714454757141
-69145,2007-12-15,2007-08,20,FC Barcelona,LaLiga,16,Valencia,Away,True,Left Wing,Wing,44,Substitution - Off (Injury),3,0,W,3,1,0,1,0.03182432,0.03182432,0,0,0,False,True,False,True,0.0,None,0.3157769112574769
-69173,2008-01-20,2007-08,20,FC Barcelona,LaLiga,20,Racing Santander,Home,False,Right Wing,Wing,25,Final Whistle,1,0,W,1,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.31350993394374627
-69181,2008-01-27,2007-08,20,FC Barcelona,LaLiga,21,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,3,1,3,0.0852321289999999,0.0852321289999999,0,0,0,False,True,False,True,0.0,None,0.3256312433973578
-69187,2008-02-03,2007-08,20,FC Barcelona,LaLiga,22,Osasuna,Home,True,Right Wing,Wing,67,Substitution - Off (Tactical),1,0,W,1,4,0,4,0.3176707259999999,0.3176707259999999,0,0,0,False,True,False,True,0.0,None,0.4339447520668629
-69146,2008-02-09,2007-08,20,FC Barcelona,LaLiga,23,Sevilla,Away,True,Left Wing,Wing,90,Final Whistle,1,1,D,1,3,1,3,0.270052505,0.270052505,0,0,0,False,True,False,True,0.0,None,0.3480607023033705
-69182,2008-02-16,2007-08,20,FC Barcelona,LaLiga,24,Real Zaragoza,Away,True,Right Wing,Wing,79,Substitution - Off (Tactical),2,1,W,2,0,0,0,0.0,0.0,0,0,0,False,True,False,True,0.0,None,0.32409947755232643
-68360,2008-02-24,2007-08,20,FC Barcelona,LaLiga,25,Levante UD,Home,True,Right Wing,Wing,80,Substitution - Off (Tactical),5,1,W,4,2,1,2,0.088214113,0.088214113,1,1,1,True,True,False,True,0.0,None,0.5136192064639856
-68365,2008-03-01,2007-08,20,FC Barcelona,LaLiga,26,Atlético Madrid,Away,False,Center Forward,Forward,34,Final Whistle,2,4,L,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.3309027562550196
-68358,2008-04-12,2007-08,20,FC Barcelona,LaLiga,32,Recreativo Huelva,Away,False,Right Wing,Wing,26,Final Whistle,2,2,D,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.38756495759243936
-68359,2008-04-19,2007-08,20,FC Barcelona,LaLiga,33,Espanyol,Home,False,Left Wing,Wing,45,Final Whistle,0,0,D,0,3,1,3,0.070325169,0.070325169,0,0,0,False,False,False,True,0.0,None,0.35118803107972935
-69141,2008-05-04,2007-08,20,FC Barcelona,LaLiga,35,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,5,5,3,4,1.298492562,0.514992562,1,0,1,True,True,False,True,0.0,None,0.4684496177502322
-68361,2008-05-07,2007-08,20,FC Barcelona,LaLiga,36,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,4,L,1,6,3,6,0.2392937285,0.2392937285,0,0,0,False,True,False,True,0.0,None,0.44865096597168486
-68366,2008-05-11,2007-08,20,FC Barcelona,LaLiga,37,Mallorca,Home,True,Right Wing,Wing,62,Substitution - Off (Tactical),2,3,L,2,2,1,2,0.1625322659999999,0.1625322659999999,0,0,0,False,True,False,True,0.0,None,0.438389388384778
-69186,2008-05-17,2007-08,20,FC Barcelona,LaLiga,38,Real Murcia CF,Away,True,Right Wing,Wing,90,Final Whistle,5,3,W,5,2,1,2,0.075591927,0.075591927,0,0,0,False,True,False,True,0.0,None,0.4243577602455249
-69147,2008-08-31,2008-09,21,FC Barcelona,LaLiga,1,CD Numancia de Soria,Away,True,Right Wing,Wing,90,Final Whistle,0,1,L,0,6,2,6,0.5003005890000001,0.5003005890000001,0,0,0,False,True,False,True,0.0,None,0.4432814810941368
-69215,2008-09-13,2008-09,21,FC Barcelona,LaLiga,2,Racing Santander,Home,False,Left Center Midfield,Other,32,Final Whistle,1,1,D,0,3,1,2,0.885728246,0.102228246,1,0,1,True,False,False,True,0.0,None,0.6141564874629741
-69138,2008-09-21,2008-09,21,FC Barcelona,LaLiga,3,Sporting Gijón,Away,True,Right Wing,Wing,90,Final Whistle,6,1,W,4,7,3,7,0.754413155,0.754413155,2,2,2,True,True,False,True,0.0,None,0.5040854120225184
-69207,2008-09-24,2008-09,21,FC Barcelona,LaLiga,4,Real Betis,Home,True,Right Wing,Wing,90,Final Whistle,3,2,W,3,3,1,3,0.33380239,0.33380239,0,0,0,False,True,False,True,0.0,None,0.4523656651673365
-69211,2008-09-27,2008-09,21,FC Barcelona,LaLiga,5,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,6,2,5,1.219492759,0.435992759,1,0,1,True,True,False,True,0.0,None,0.514319387456114
-69212,2008-10-04,2008-09,21,FC Barcelona,LaLiga,6,Atlético Madrid,Home,True,Right Wing,Wing,69,Substitution - Off (Tactical),6,1,W,5,3,1,3,0.70413301,0.70413301,1,1,1,True,True,False,True,0.0,None,0.5636785938268856
-69232,2008-10-25,2008-09,21,FC Barcelona,LaLiga,8,Almería,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,5,2,1,2,0.106058808,0.106058808,0,0,0,False,True,False,True,0.0,None,0.5839920056680813
-69235,2008-11-01,2008-09,21,FC Barcelona,LaLiga,9,Málaga,Away,True,Right Wing,Wing,78,Substitution - Off (Tactical),4,1,W,3,1,1,1,0.050486434,0.050486434,1,1,1,True,True,False,True,0.0,None,0.4371016841153144
-69279,2008-11-08,2008-09,21,FC Barcelona,LaLiga,10,Real Valladolid,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,6,3,1,3,0.254111447,0.254111447,0,0,0,False,True,False,True,0.0,None,0.5363994312839505
-69285,2008-11-16,2008-09,21,FC Barcelona,LaLiga,11,Recreativo Huelva,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,5,3,5,0.493170362,0.493170362,1,1,1,True,True,False,True,0.0,None,0.5707260289520129
-69171,2008-11-29,2008-09,21,FC Barcelona,LaLiga,13,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,1,6,3,6,0.22471467,0.22471467,2,2,2,True,True,False,True,0.0,None,0.5954592902990619
-69149,2008-12-06,2008-09,21,FC Barcelona,LaLiga,14,Valencia,Home,True,Right Wing,Wing,81,Substitution - Off (Tactical),4,0,W,4,2,1,2,0.19691848,0.19691848,0,0,0,False,True,False,True,0.0,None,0.5671120325027171
-69225,2008-12-13,2008-09,21,FC Barcelona,LaLiga,15,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,5,3,5,0.331278792,0.331278792,1,1,1,True,True,False,True,0.0,None,0.5755032600063414
-69228,2008-12-21,2008-09,21,FC Barcelona,LaLiga,16,Villarreal,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,2,0,2,0.081295243,0.081295243,0,0,0,False,True,False,True,0.0,None,0.4933754667620669
-69230,2009-01-11,2008-09,21,FC Barcelona,LaLiga,18,Osasuna,Away,True,Right Wing,Wing,90,Final Whistle,3,2,W,2,2,1,2,0.433450744,0.433450744,1,1,1,True,True,False,True,0.0,None,0.5673953012036972
-69183,2009-01-17,2008-09,21,FC Barcelona,LaLiga,19,RC Deportivo La Coruña,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,4,4,2,4,0.66203458,0.66203458,1,1,1,True,True,False,True,0.0,None,0.6377447450767575
-69189,2009-01-24,2008-09,21,FC Barcelona,LaLiga,20,CD Numancia de Soria,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,2,6,4,6,1.90270702,1.90270702,2,2,2,True,True,False,True,0.0,None,0.5795221442630324
-69209,2009-02-01,2008-09,21,FC Barcelona,LaLiga,21,Racing Santander,Away,False,Right Center Midfield,Other,32,Final Whistle,2,1,W,0,2,2,2,0.337182144,0.337182144,2,2,2,True,False,False,True,0.0,None,0.5857846469053832
-69231,2009-02-08,2008-09,21,FC Barcelona,LaLiga,22,Sporting Gijón,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,3,3,1,3,0.449458311,0.449458311,0,0,0,False,True,False,True,0.0,None,0.5711664950787326
-69195,2009-02-14,2008-09,21,FC Barcelona,LaLiga,23,Real Betis,Away,False,Right Wing,Wing,34,Final Whistle,2,2,D,2,3,1,3,0.2403500649999999,0.2403500649999999,0,0,0,False,False,False,True,0.0,None,0.39094683148413784
-69139,2009-02-21,2008-09,21,FC Barcelona,LaLiga,24,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,4,1,4,0.207282961,0.207282961,0,0,0,False,True,False,True,0.0,None,0.5668914485885252
-69185,2009-03-01,2008-09,21,FC Barcelona,LaLiga,25,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,3,4,L,2,3,1,3,0.7617482799999999,0.7617482799999999,1,1,1,True,True,False,True,0.0,None,0.5315931381072927
-69216,2009-03-07,2008-09,21,FC Barcelona,LaLiga,26,Athletic Club,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,2,1,1,0.8405597459999999,0.057059746,1,0,1,True,True,False,True,0.0,None,0.6157275287179816
-69177,2009-03-15,2008-09,21,FC Barcelona,LaLiga,27,Almería,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,3,1,3,0.221850926,0.221850926,0,0,0,False,True,False,True,0.0,None,0.5345431189277469
-69142,2009-03-22,2008-09,21,FC Barcelona,LaLiga,28,Málaga,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,5,4,2,4,0.987899633,0.987899633,1,1,1,True,True,False,True,0.0,None,0.4595388583809468
-69273,2009-04-04,2008-09,21,FC Barcelona,LaLiga,29,Real Valladolid,Away,False,Right Wing,Wing,32,Final Whistle,1,0,W,1,1,0,1,0.023744676,0.023744676,0,0,0,False,False,False,True,0.0,None,0.358477246594417
-69222,2009-04-11,2008-09,21,FC Barcelona,LaLiga,30,Recreativo Huelva,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,3,1,2,0.949460135,0.165960135,0,0,0,False,True,False,True,0.0,None,0.5604829190757986
-69223,2009-04-18,2008-09,21,FC Barcelona,LaLiga,31,Getafe,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,0,5,2,5,0.455026705,0.455026705,1,1,1,True,True,False,True,0.0,None,0.4899553156044606
-69251,2009-04-25,2008-09,21,FC Barcelona,LaLiga,33,Valencia,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,1,3,2,3,0.43865502,0.43865502,1,1,1,True,True,False,True,0.0,None,0.5510752232420775
-69249,2009-05-02,2008-09,21,FC Barcelona,LaLiga,34,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,6,2,W,4,7,4,7,1.717465125,1.717465125,2,2,2,True,True,False,True,0.0,None,0.5438157585687727
-69217,2009-05-10,2008-09,21,FC Barcelona,LaLiga,35,Villarreal,Home,True,Right Wing,Wing,89,Substitution - Off (Tactical),3,3,D,3,2,0,2,0.1639559099999999,0.1639559099999999,0,0,0,False,True,False,True,0.0,None,0.5320204457968412
-69229,2009-09-12,2009-10,22,FC Barcelona,LaLiga,2,Getafe,Away,False,Left Wing,Wing,33,Final Whistle,2,0,W,1,2,2,2,0.450348136,0.450348136,1,1,1,True,False,False,True,0.0,None,0.5101926995212046
-69292,2009-09-19,2009-10,22,FC Barcelona,LaLiga,3,Atlético Madrid,Home,True,Right Wing,Wing,90,Final Whistle,5,2,W,3,2,2,2,0.490275512,0.490275512,2,2,2,True,True,False,True,0.0,None,0.5946280484986337
-69254,2009-09-22,2009-10,22,FC Barcelona,LaLiga,4,Racing Santander,Away,True,Right Wing,Wing,63,Substitution - Off (Tactical),4,1,W,2,4,2,4,0.2534494967,0.2534494967,2,2,2,True,True,False,True,0.0,None,0.5180830186863122
-69255,2009-09-26,2009-10,22,FC Barcelona,LaLiga,5,Málaga,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,3,2,3,0.509085557,0.509085557,0,0,0,False,True,False,True,0.0,None,0.3980127906982643
-69256,2009-10-03,2009-10,22,FC Barcelona,LaLiga,6,Almería,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,3,1,3,0.149491329,0.149491329,0,0,0,False,True,False,True,0.0,None,0.5044261494736656
-69252,2009-10-17,2009-10,22,FC Barcelona,LaLiga,7,Valencia,Away,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,2,1,2,0.120496563,0.120496563,0,0,0,False,True,False,True,0.0,None,0.48313314176832906
-69253,2009-10-25,2009-10,22,FC Barcelona,LaLiga,8,Real Zaragoza,Home,True,Right Wing,Wing,90,Final Whistle,6,1,W,5,7,5,7,1.429974016,1.429974016,1,1,1,True,True,False,True,0.0,None,0.5836464340205171
-69277,2009-10-31,2009-10,22,FC Barcelona,LaLiga,9,Osasuna,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,6,4,6,0.5297425570000001,0.5297425570000001,0,0,0,False,True,False,True,0.0,None,0.5697009791880046
-69250,2009-11-07,2009-10,22,FC Barcelona,LaLiga,10,Mallorca,Home,False,Right Wing,Wing,40,Final Whistle,4,2,W,3,2,1,1,1.02429898,0.24079898,1,0,1,True,False,False,True,0.0,None,0.5795075673403178
-69288,2009-11-21,2009-10,22,FC Barcelona,LaLiga,11,Athletic Club,Away,True,Center Forward,Forward,75,Substitution - Off (Injury),1,1,D,1,3,2,3,0.49573931,0.49573931,0,0,0,False,True,False,True,0.0,None,0.5799461847239064
-69262,2009-11-29,2009-10,22,FC Barcelona,LaLiga,12,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,1,1,1,0.18820469,0.18820469,0,0,0,False,True,False,True,0.0,None,0.5194938098584881
-69267,2009-12-02,2009-10,22,FC Barcelona,LaLiga,15,Xerez,Away,False,Right Wing,Wing,36,Final Whistle,2,0,W,2,1,0,1,0.048491735,0.048491735,0,0,0,False,False,False,True,0.0,None,0.41358398548112113
-69218,2009-12-05,2009-10,22,FC Barcelona,LaLiga,13,RC Deportivo La Coruña,Away,True,Right Wing,Wing,90,Final Whistle,3,1,W,1,9,5,9,0.71711725,0.71711725,2,2,2,True,True,False,True,0.0,None,0.5663263139012082
-69219,2010-01-10,2009-10,22,FC Barcelona,LaLiga,17,Tenerife,Away,True,Right Wing,Wing,90,Final Whistle,5,0,W,2,7,3,7,1.735839212,1.735839212,3,3,3,True,True,False,True,0.0,None,0.5857842234082377
-69243,2010-01-16,2009-10,22,FC Barcelona,LaLiga,18,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,2,8,5,8,0.964168934,0.964168934,2,2,2,True,True,False,True,0.0,None,0.6878844194478201
-69210,2010-01-23,2009-10,22,FC Barcelona,LaLiga,19,Real Valladolid,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,3,2,3,0.276191052,0.276191052,1,1,1,True,True,False,True,0.0,None,0.507578884298559
-69220,2010-01-30,2009-10,22,FC Barcelona,LaLiga,20,Sporting Gijón,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,4,0,4,0.238244717,0.238244717,0,0,0,False,True,False,True,0.0,None,0.5278848109863724
-69240,2010-02-06,2009-10,22,FC Barcelona,LaLiga,21,Getafe,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,7,4,7,0.432291744,0.432291744,1,1,1,True,True,False,True,0.0,None,0.5956723232751551
-69237,2010-02-14,2009-10,22,FC Barcelona,LaLiga,22,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,6,3,6,0.272699939,0.272699939,0,0,0,False,True,False,True,0.0,None,0.5415680043413519
-69233,2010-02-20,2009-10,22,FC Barcelona,LaLiga,23,Racing Santander,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,4,3,2,3,0.151186227,0.151186227,0,0,0,False,True,False,True,0.0,None,0.5775532501961552
-69238,2010-02-27,2009-10,22,FC Barcelona,LaLiga,24,Málaga,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,2,1,W,1,9,3,9,1.524615681,1.524615681,1,1,1,True,True,False,True,0.0,None,0.48278871980026605
-69226,2010-03-06,2009-10,22,FC Barcelona,LaLiga,25,Almería,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,0,11,5,11,1.4042209175,1.4042209175,2,2,2,True,True,False,True,0.0,None,0.5606024282401091
-69224,2010-03-14,2009-10,22,FC Barcelona,LaLiga,26,Valencia,Home,True,Center Forward,Forward,88,Substitution - Off (Tactical),3,0,W,0,8,6,8,0.976020485,0.976020485,3,3,3,True,True,False,True,0.0,None,0.715398731842936
-69227,2010-03-21,2009-10,22,FC Barcelona,LaLiga,27,Real Zaragoza,Away,True,Right Wing,Wing,90,Final Whistle,4,2,W,1,7,4,7,0.469444322,0.469444322,3,3,3,True,True,False,True,0.0,None,0.5039824402966308
-69257,2010-03-24,2009-10,22,FC Barcelona,LaLiga,28,Osasuna,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,3,0,3,0.173086016,0.173086016,0,0,0,False,True,False,True,0.0,None,0.5907615163162933
-69298,2010-03-27,2009-10,22,FC Barcelona,LaLiga,29,Mallorca,Away,False,Right Center Midfield,Other,40,Final Whistle,1,0,W,1,2,1,2,0.307362324,0.307362324,0,0,0,False,False,False,True,0.0,None,0.3984443852534431
-69247,2010-04-03,2009-10,22,FC Barcelona,LaLiga,30,Athletic Club,Home,True,Right Center Forward,Forward,90,Final Whistle,4,1,W,3,6,2,6,1.223142475,1.223142475,1,1,1,True,True,False,True,0.0,None,0.7161896803112326
-69259,2010-04-10,2009-10,22,FC Barcelona,LaLiga,31,Real Madrid,Away,True,Center Forward,Forward,90,Final Whistle,2,0,W,1,3,3,3,0.39727602,0.39727602,1,1,1,True,True,False,True,0.0,None,0.6507331646459604
-69221,2010-04-14,2009-10,22,FC Barcelona,LaLiga,32,RC Deportivo La Coruña,Home,True,Right Center Midfield,Other,90,Final Whistle,3,0,W,3,6,2,6,0.446701331,0.446701331,0,0,0,False,True,False,True,0.0,None,0.5143093634797947
-69213,2010-04-17,2009-10,22,FC Barcelona,LaLiga,33,Espanyol,Away,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,1,0,1,0.04095161,0.04095161,0,0,0,False,True,False,True,0.0,None,0.5406100875863977
-69214,2010-04-24,2009-10,22,FC Barcelona,LaLiga,34,Xerez,Home,False,Right Wing,Wing,39,Final Whistle,3,1,W,3,2,2,2,0.11690658,0.11690658,0,0,0,False,False,False,True,0.0,None,0.4291381230159173
-69244,2010-05-01,2009-10,22,FC Barcelona,LaLiga,35,Villarreal,Away,True,Right Wing,Wing,89,Substitution - Off (Tactical),4,1,W,2,5,3,5,0.584333648,0.584333648,2,2,2,True,True,False,True,0.0,None,0.5092628130226647
-69241,2010-05-04,2009-10,22,FC Barcelona,LaLiga,36,Tenerife,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,2,4,2,4,0.7036627959999999,0.7036627959999999,2,2,2,True,True,False,True,0.0,None,0.6087844088174825
-69239,2010-05-08,2009-10,22,FC Barcelona,LaLiga,37,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,3,2,W,2,6,2,6,0.841186309,0.841186309,1,1,1,True,True,False,True,0.0,None,0.5852963930950594
-69242,2010-05-16,2009-10,22,FC Barcelona,LaLiga,38,Real Valladolid,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,2,5,4,5,1.258343748,1.258343748,2,2,2,True,True,False,True,0.0,None,0.5429549516233626
-69286,2010-08-29,2010-11,23,FC Barcelona,LaLiga,1,Racing Santander,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,4,2,4,0.6606039730000001,0.6606039730000001,1,1,1,True,True,False,True,0.0,None,0.5531344937625127
-69287,2010-09-11,2010-11,23,FC Barcelona,LaLiga,2,Hércules,Home,True,Right Wing,Wing,90,Final Whistle,0,2,L,0,3,3,3,0.425887362,0.425887362,0,0,0,False,True,False,True,0.0,None,0.46689240087646094
-69269,2010-09-19,2010-11,23,FC Barcelona,LaLiga,3,Atlético Madrid,Away,True,Center Attacking Midfield,Attacking midfield,90,Substitution - Off (Injury),2,1,W,1,4,2,4,0.82028316,0.82028316,1,1,1,True,True,False,True,0.0,None,0.572368207211763
-69236,2010-10-03,2010-11,23,FC Barcelona,LaLiga,6,Mallorca,Home,True,Center Forward,Forward,90,Final Whistle,1,1,D,0,8,2,8,0.431719148,0.431719148,1,1,1,True,True,False,True,0.0,None,0.6655823293325899
-69260,2010-10-16,2010-11,23,FC Barcelona,LaLiga,7,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,2,1,2,0.3943308,0.3943308,0,0,0,False,True,False,True,0.0,None,0.47006381720326457
-69263,2010-10-23,2010-11,23,FC Barcelona,LaLiga,8,Real Zaragoza,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,2,0,W,0,6,5,6,1.012638329,1.012638329,2,2,2,True,True,False,True,0.0,None,0.6048828321360303
-69289,2010-10-30,2010-11,23,FC Barcelona,LaLiga,9,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,3,4,2,4,0.335393342,0.335393342,2,2,2,True,True,False,True,0.0,None,0.689389798272366
-69270,2010-11-07,2010-11,23,FC Barcelona,LaLiga,10,Getafe,Away,True,Center Forward,Forward,90,Final Whistle,3,1,W,2,5,3,5,0.9467703,0.9467703,1,1,1,True,True,False,True,0.0,None,0.5814290600572799
-69308,2010-11-13,2010-11,23,FC Barcelona,LaLiga,11,Villarreal,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,1,6,3,6,1.42634289,1.42634289,2,2,2,True,True,False,True,0.0,None,0.6755336269453942
-69306,2010-11-20,2010-11,23,FC Barcelona,LaLiga,12,Almería,Away,True,Center Forward,Forward,90,Final Whistle,8,0,W,5,5,4,5,1.649684351,1.649684351,3,3,3,True,True,False,True,0.0,None,0.6164422165955823
-69299,2010-11-29,2010-11,23,FC Barcelona,LaLiga,13,Real Madrid,Home,True,Center Forward,Forward,90,Player Off (Permanent),5,0,W,5,3,0,3,0.1005542416999999,0.1005542416999999,0,0,0,False,True,False,True,0.0,None,0.5997838112073185
-69307,2010-12-04,2010-11,23,FC Barcelona,LaLiga,14,Osasuna,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,1,5,4,4,1.257252631,0.473752631,2,1,2,True,True,False,True,0.0,None,0.6742637431284006
-69302,2010-12-12,2010-11,23,FC Barcelona,LaLiga,15,Real Sociedad,Home,True,Center Forward,Forward,90,Final Whistle,5,0,W,3,8,2,8,0.826686743,0.826686743,2,2,2,True,True,False,True,0.0,None,0.7101047637074616
-69275,2010-12-18,2010-11,23,FC Barcelona,LaLiga,16,Espanyol,Away,True,Center Forward,Forward,90,Final Whistle,5,1,W,5,3,2,3,0.471674143,0.471674143,0,0,0,False,True,False,True,0.0,None,0.5551328418847226
-69280,2011-01-08,2010-11,23,FC Barcelona,LaLiga,18,RC Deportivo La Coruña,Away,True,Center Forward,Forward,90,Final Whistle,4,0,W,3,2,2,2,0.302218588,0.302218588,1,1,1,True,True,False,True,0.0,None,0.6930767506640546
-69278,2011-01-16,2010-11,23,FC Barcelona,LaLiga,19,Málaga,Home,True,Center Forward,Forward,90,Final Whistle,4,1,W,4,3,2,3,0.542954913,0.542954913,0,0,0,False,True,False,True,0.0,None,0.5713884070405363
-69295,2011-01-22,2010-11,23,FC Barcelona,LaLiga,20,Racing Santander,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,2,3,2,2,0.879767736,0.0962677359999999,1,0,1,True,True,False,True,0.0,None,0.7297770775917433
-69296,2011-01-29,2010-11,23,FC Barcelona,LaLiga,21,Hércules,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,1,10,6,10,1.6774027614,1.6774027614,2,2,2,True,True,False,True,0.0,None,0.6502328196115156
-69276,2011-02-05,2010-11,23,FC Barcelona,LaLiga,22,Atlético Madrid,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,0,7,5,7,1.602840939,1.602840939,3,3,3,True,True,False,True,0.0,None,0.7368383865498657
-69248,2011-02-12,2010-11,23,FC Barcelona,LaLiga,23,Sporting Gijón,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,4,1,4,0.220694251,0.220694251,0,0,0,False,True,False,True,0.0,None,0.6096928767547356
-69282,2011-02-20,2010-11,23,FC Barcelona,LaLiga,24,Athletic Club,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,7,3,7,0.733338811,0.733338811,1,1,1,True,True,False,True,0.0,None,0.631371896819844
-69283,2011-02-26,2010-11,23,FC Barcelona,LaLiga,25,Mallorca,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,2,2,1,2,0.51253426,0.51253426,1,1,1,True,True,False,True,0.0,None,0.7199803913313425
-69274,2011-03-02,2010-11,23,FC Barcelona,LaLiga,26,Valencia,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,1,0,W,0,8,4,8,1.496838957,1.496838957,1,1,1,True,True,False,True,0.0,None,0.6057708967469233
-69300,2011-03-05,2010-11,23,FC Barcelona,LaLiga,27,Real Zaragoza,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,4,1,4,0.56471475,0.56471475,0,0,0,False,True,False,True,0.0,None,0.5516679068544236
-69291,2011-03-13,2010-11,23,FC Barcelona,LaLiga,28,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,5,2,5,0.798313452,0.798313452,0,0,0,False,True,False,True,0.0,None,0.548440774220254
-69303,2011-03-19,2010-11,23,FC Barcelona,LaLiga,29,Getafe,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,4,1,4,0.3281624119999999,0.3281624119999999,0,0,0,False,True,False,True,0.0,None,0.5671961849420591
-69304,2011-04-02,2010-11,23,FC Barcelona,LaLiga,30,Villarreal,Away,False,Left Center Midfield,Other,38,Final Whistle,1,0,W,1,1,1,1,0.048267026,0.048267026,0,0,0,False,False,False,True,0.0,None,0.3926370176428576
-69305,2011-04-09,2010-11,23,FC Barcelona,LaLiga,31,Almería,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,1,5,3,4,1.336382113,0.552882113,2,1,2,True,True,False,True,0.0,None,0.7470954932607112
-69245,2011-04-16,2010-11,23,FC Barcelona,LaLiga,32,Real Madrid,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,0,4,3,3,1.22083048,0.43733048,1,0,1,True,True,False,True,0.0,None,0.6672570546399692
-69271,2011-04-23,2010-11,23,FC Barcelona,LaLiga,33,Osasuna,Home,False,Center Forward,Forward,31,Final Whistle,2,0,W,1,1,1,1,0.19842288,0.19842288,1,1,1,True,False,False,True,0.0,None,0.7176588635853963
-69246,2011-04-30,2010-11,23,FC Barcelona,LaLiga,34,Real Sociedad,Away,True,Center Forward,Forward,90,Final Whistle,1,2,L,1,3,1,3,0.194298277,0.194298277,0,0,0,False,True,False,True,0.0,None,0.6124307878728408
-69234,2011-05-08,2010-11,23,FC Barcelona,LaLiga,35,Espanyol,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,2,0,2,0.142251817,0.142251817,0,0,0,False,True,False,True,0.0,None,0.601059214568232
-69272,2011-05-11,2010-11,23,FC Barcelona,LaLiga,36,Levante UD,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,5,0,5,0.609875307,0.609875307,0,0,0,False,True,False,True,0.0,None,0.6067013768425895
-69268,2011-08-29,2011-12,24,FC Barcelona,LaLiga,2,Villarreal,Home,True,Center Forward,Forward,90,Final Whistle,5,0,W,3,5,5,5,1.5559121729999998,1.5559121729999998,2,2,2,True,True,False,True,0.0,None,0.6995671011419267
-69264,2011-09-10,2011-12,24,FC Barcelona,LaLiga,3,Real Sociedad,Away,False,Right Center Midfield,Other,29,Final Whistle,2,2,D,2,4,2,4,0.1800892399999999,0.1800892399999999,0,0,0,False,False,False,True,0.0,None,0.36641571706013115
-70220,2011-09-17,2011-12,24,FC Barcelona,LaLiga,4,Osasuna,Home,True,Right Center Forward,Forward,90,Final Whistle,8,0,W,5,8,6,8,2.061817247,2.061817247,3,3,3,True,True,False,True,0.0,None,0.7188883283239992
-70223,2011-09-21,2011-12,24,FC Barcelona,LaLiga,5,Valencia,Away,True,Center Forward,Forward,90,Final Whistle,2,2,D,2,2,1,2,0.062906736,0.062906736,0,0,0,False,True,False,True,0.0,None,0.46940778164062663
-69297,2011-09-24,2011-12,24,FC Barcelona,LaLiga,6,Atlético Madrid,Home,True,Center Forward,Forward,90,Final Whistle,5,0,W,2,7,5,7,1.225371041,1.225371041,3,3,3,True,True,False,True,0.0,None,0.6640746423581121
-69265,2011-10-02,2011-12,24,FC Barcelona,LaLiga,7,Sporting Gijón,Away,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,5,2,5,0.336224961,0.336224961,0,0,0,False,True,False,True,0.0,None,0.5152356684544382
-69293,2011-10-15,2011-12,24,FC Barcelona,LaLiga,8,Racing Santander,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,1,7,4,7,1.207992601,1.207992601,2,2,2,True,True,False,True,0.0,None,0.6949870022850246
-69329,2011-10-22,2011-12,24,FC Barcelona,LaLiga,9,Sevilla,Home,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,7,2,6,1.0920681034,0.3085681034,0,0,0,False,True,False,True,0.0,None,0.6655330056958455
-69318,2011-10-25,2011-12,24,FC Barcelona,LaLiga,10,Granada,Away,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,4,0,4,0.345944667,0.345944667,0,0,0,False,True,False,True,0.0,None,0.5525386827565085
-69314,2011-10-29,2011-12,24,FC Barcelona,LaLiga,11,Mallorca,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,5,0,W,2,8,4,7,1.854394393,1.070894393,3,2,3,True,True,False,True,0.0,None,0.6629976399133497
-69330,2011-11-06,2011-12,24,FC Barcelona,LaLiga,12,Athletic Club,Away,True,Center Forward,Forward,90,Final Whistle,2,2,D,1,4,2,4,0.2788745529999999,0.2788745529999999,1,1,1,True,True,False,True,0.0,None,0.6348905981812087
-69331,2011-11-19,2011-12,24,FC Barcelona,LaLiga,13,Real Zaragoza,Home,True,Center Forward,Forward,90,Final Whistle,4,0,W,3,6,3,6,1.099751974,1.099751974,1,1,1,True,True,False,True,0.0,None,0.6889711650958965
-69315,2011-11-26,2011-12,24,FC Barcelona,LaLiga,14,Getafe,Away,True,Center Forward,Forward,90,Final Whistle,0,1,L,0,6,1,6,0.574312545,0.574312545,0,0,0,False,True,False,True,0.0,None,0.5927866523718204
-69332,2011-11-29,2011-12,24,FC Barcelona,LaLiga,17,Rayo Vallecano,Home,True,Center Forward,Forward,90,Final Whistle,4,0,W,3,3,1,3,0.233997716,0.233997716,1,1,1,True,True,False,True,0.0,None,0.7777504333696199
-69333,2011-12-03,2011-12,24,FC Barcelona,LaLiga,15,Levante UD,Home,True,Center Forward,Forward,90,Final Whistle,5,0,W,4,6,2,6,1.45014694,1.45014694,1,1,1,True,True,False,True,0.0,None,0.7447863510802496
-69334,2011-12-10,2011-12,24,FC Barcelona,LaLiga,16,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,3,1,W,3,2,1,2,0.114147997,0.114147997,0,0,0,False,True,False,True,0.0,None,0.511837175161671
-69312,2012-01-08,2011-12,24,FC Barcelona,LaLiga,18,Espanyol,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,1,0,1,0.012421925,0.012421925,0,0,0,False,True,False,True,0.0,None,0.5836045625911516
-69327,2012-01-15,2011-12,24,FC Barcelona,LaLiga,19,Real Betis,Home,True,Center Forward,Forward,90,Final Whistle,4,2,W,2,5,3,4,1.489247455,0.705747455,2,1,2,True,True,False,True,0.0,None,0.7132240777923132
-69335,2012-01-22,2011-12,24,FC Barcelona,LaLiga,1,Málaga,Away,True,Center Forward,Forward,90,Final Whistle,4,1,W,1,7,5,7,1.04644607,1.04644607,3,3,3,True,True,False,True,0.0,None,0.6059929876137106
-69338,2012-01-28,2011-12,24,FC Barcelona,LaLiga,21,Villarreal,Away,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,5,2,5,0.864338768,0.864338768,0,0,0,False,True,False,True,0.0,None,0.6220988912598948
-69316,2012-02-04,2011-12,24,FC Barcelona,LaLiga,22,Real Sociedad,Home,True,Center Forward,Forward,90,Final Whistle,2,1,W,1,7,5,7,1.323852839,1.323852839,1,1,1,True,True,False,True,0.0,None,0.7267163509792341
-69336,2012-02-11,2011-12,24,FC Barcelona,LaLiga,23,Osasuna,Away,True,Right Wing,Wing,90,Final Whistle,2,3,L,2,4,3,4,0.335090931,0.335090931,0,0,0,False,True,False,True,0.0,None,0.5391184839965468
-69328,2012-02-19,2011-12,24,FC Barcelona,LaLiga,24,Valencia,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,1,10,5,10,2.114047965,2.114047965,4,4,4,True,True,False,True,0.0,None,0.7354356901819582
-69337,2012-02-26,2011-12,24,FC Barcelona,LaLiga,25,Atlético Madrid,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,1,1,1,1,0.009725652,0.009725652,1,1,1,True,True,False,True,0.0,None,0.6560409142296565
-69322,2012-03-11,2011-12,24,FC Barcelona,LaLiga,27,Racing Santander,Away,True,Center Forward,Forward,90,Final Whistle,2,0,W,0,8,4,7,1.83539188,1.05189188,2,1,2,True,True,False,True,0.0,None,0.6894688733646747
-69326,2012-03-17,2011-12,24,FC Barcelona,LaLiga,28,Sevilla,Away,True,Center Forward,Forward,90,Final Whistle,2,0,W,1,3,1,3,0.50151251,0.50151251,1,1,1,True,True,False,True,0.0,None,0.6818248212644619
-70225,2012-03-20,2011-12,24,FC Barcelona,LaLiga,29,Granada,Home,True,Center Forward,Forward,90,Final Whistle,5,3,W,2,6,4,6,0.702698979,0.702698979,3,3,3,True,True,False,True,0.0,None,0.7124930985940617
-69325,2012-03-24,2011-12,24,FC Barcelona,LaLiga,30,Mallorca,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,9,2,9,0.605745795,0.605745795,1,1,1,True,True,False,True,0.0,None,0.7170130076229101
-69323,2012-03-31,2011-12,24,FC Barcelona,LaLiga,31,Athletic Club,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,1,6,4,5,1.049341254,0.2658412539999999,1,0,1,True,True,False,True,0.0,None,0.7487054863150571
-70219,2012-04-07,2011-12,24,FC Barcelona,LaLiga,32,Real Zaragoza,Away,True,Center Forward,Forward,90,Final Whistle,4,1,W,2,7,3,6,1.53969369,0.75619369,2,1,2,True,True,False,True,0.0,None,0.6641414867901828
-69343,2012-04-10,2011-12,24,FC Barcelona,LaLiga,33,Getafe,Home,True,Right Center Forward,Forward,90,Final Whistle,4,0,W,3,5,2,5,1.345393613,1.345393613,1,1,1,True,True,False,True,0.0,None,0.7333597870538301
-70221,2012-04-14,2011-12,24,FC Barcelona,LaLiga,34,Levante UD,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,0,7,2,6,1.35171025,0.56821025,2,1,2,True,True,False,True,0.0,None,0.6516412003015953
-69324,2012-04-21,2011-12,24,FC Barcelona,LaLiga,35,Real Madrid,Home,True,Center Forward,Forward,90,Final Whistle,1,2,L,1,1,0,1,0.052641302,0.052641302,0,0,0,False,True,False,True,0.0,None,0.6716921903384947
-70224,2012-04-29,2011-12,24,FC Barcelona,LaLiga,36,Rayo Vallecano,Away,True,Center Forward,Forward,90,Final Whistle,7,0,W,5,7,3,7,1.050474995,1.050474995,2,2,2,True,True,False,True,0.0,None,0.7186029101273311
-69340,2012-05-02,2011-12,24,FC Barcelona,LaLiga,20,Málaga,Home,True,Center Forward,Forward,90,Final Whistle,4,1,W,1,6,3,4,2.642679796,1.075679796,3,1,3,True,True,False,True,0.0,None,0.5737471201415553
-69320,2012-05-05,2011-12,24,FC Barcelona,LaLiga,37,Espanyol,Home,True,Center Forward,Forward,90,Final Whistle,4,0,W,0,6,4,4,1.997831696,0.430831696,4,2,4,True,True,False,True,0.0,None,0.6634870177118123
-69319,2012-05-12,2011-12,24,FC Barcelona,LaLiga,38,Real Betis,Away,True,Center Forward,Forward,90,Final Whistle,2,2,D,2,3,0,3,0.1058033009999999,0.1058033009999999,0,0,0,False,True,False,True,0.0,None,0.6012897326554881
-70259,2012-08-19,2012-13,25,FC Barcelona,LaLiga,1,Real Sociedad,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,3,8,4,8,0.696252854,0.696252854,2,2,2,True,True,False,True,0.0,None,0.701339397755897
-70262,2012-08-26,2012-13,25,FC Barcelona,LaLiga,2,Osasuna,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,0,7,6,7,0.80078815,0.80078815,2,2,2,True,True,False,True,0.0,None,0.6849372263426542
-70286,2012-09-02,2012-13,25,FC Barcelona,LaLiga,3,Valencia,Home,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,6,1,6,0.428252801,0.428252801,0,0,0,False,True,False,True,0.0,None,0.5412113391193186
-70292,2012-09-15,2012-13,25,FC Barcelona,LaLiga,4,Getafe,Away,False,Left Center Midfield,Other,32,Final Whistle,4,1,W,2,2,2,1,1.4941737,0.7106737,2,1,2,True,False,False,True,0.0,None,0.4891434056662944
-70270,2012-09-22,2012-13,25,FC Barcelona,LaLiga,5,Granada,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,6,3,6,0.653458993,0.653458993,0,0,0,False,True,False,True,0.0,None,0.5705055850004132
-70275,2012-09-29,2012-13,25,FC Barcelona,LaLiga,6,Sevilla,Away,True,Center Forward,Forward,90,Final Whistle,3,2,W,3,5,2,5,0.391041443,0.391041443,0,0,0,False,True,False,True,0.0,None,0.5279697346725705
-70300,2012-10-07,2012-13,25,FC Barcelona,LaLiga,7,Real Madrid,Home,True,Center Forward,Forward,90,Final Whistle,2,2,D,0,4,2,4,0.785898051,0.785898051,2,2,2,True,True,False,True,0.0,None,0.6104020269927107
-70304,2012-10-20,2012-13,25,FC Barcelona,LaLiga,8,RC Deportivo La Coruña,Away,True,Center Forward,Forward,90,Final Whistle,5,4,W,2,5,4,5,0.552496099,0.552496099,3,3,3,True,True,False,True,0.0,None,0.6386019543677658
-70276,2012-10-27,2012-13,25,FC Barcelona,LaLiga,9,Rayo Vallecano,Away,True,Center Forward,Forward,90,Final Whistle,5,0,W,3,7,3,7,0.9145966576,0.9145966576,2,2,2,True,True,False,True,0.0,None,0.6573481825696014
-70308,2012-11-03,2012-13,25,FC Barcelona,LaLiga,10,Celta Vigo,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,3,5,2,5,0.484984655,0.484984655,0,0,0,False,True,False,True,0.0,None,0.6269749112185522
-266724,2012-11-11,2012-13,25,FC Barcelona,LaLiga,11,Mallorca,Away,True,Center Forward,Forward,90,Final Whistle,4,2,W,2,4,2,4,0.29851105,0.29851105,2,2,2,True,True,False,True,0.0,None,0.6513461524293703
-70309,2012-11-17,2012-13,25,FC Barcelona,LaLiga,12,Real Zaragoza,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,1,3,2,3,0.5052168029999999,0.5052168029999999,2,2,2,True,True,False,True,0.0,None,0.6773315164534567
-70280,2012-11-25,2012-13,25,FC Barcelona,LaLiga,13,Levante UD,Away,True,Center Forward,Forward,90,Final Whistle,4,0,W,2,5,3,5,0.32222157,0.32222157,2,2,2,True,True,False,True,0.0,None,0.6616036994918827
-70263,2012-12-01,2012-13,25,FC Barcelona,LaLiga,14,Athletic Club,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,3,5,3,5,0.920407667,0.920407667,2,2,2,True,True,False,True,0.0,None,0.6970129748181503
-70295,2012-12-09,2012-13,25,FC Barcelona,LaLiga,15,Real Betis,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,0,4,3,4,0.466742599,0.466742599,2,2,2,True,True,False,True,0.0,None,0.5864405393595294
-70296,2012-12-16,2012-13,25,FC Barcelona,LaLiga,16,Atlético Madrid,Home,True,Center Forward,Forward,90,Final Whistle,4,1,W,2,4,2,4,0.589616192,0.589616192,2,2,2,True,True,False,True,0.0,None,0.7062192708998741
-266015,2012-12-22,2012-13,25,FC Barcelona,LaLiga,17,Real Valladolid,Away,True,Center Forward,Forward,90,Final Whistle,3,1,W,2,7,3,7,0.508994182,0.508994182,1,1,1,True,True,False,True,0.0,None,0.6455734350856333
-266433,2013-01-06,2012-13,25,FC Barcelona,LaLiga,18,Espanyol,Home,True,Center Forward,Forward,90,Final Whistle,4,0,W,3,5,2,4,0.943399967,0.159899967,1,0,1,True,True,False,True,0.0,None,0.6944832100526149
-266827,2013-01-13,2012-13,25,FC Barcelona,LaLiga,19,Málaga,Away,True,Center Forward,Forward,90,Final Whistle,3,1,W,2,3,1,3,0.67045408,0.67045408,1,1,1,True,True,False,True,0.0,None,0.5760978048198104
-70287,2013-01-19,2012-13,25,FC Barcelona,LaLiga,20,Real Sociedad,Away,True,Center Forward,Forward,90,Final Whistle,2,3,L,1,5,2,5,0.440125042,0.440125042,1,1,1,True,True,False,True,0.0,None,0.6598388034236926
-70260,2013-01-27,2012-13,25,FC Barcelona,LaLiga,21,Osasuna,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,1,7,4,6,2.047717133,1.264217133,4,3,4,True,True,False,True,0.0,None,0.7656060378855284
-70282,2013-02-03,2012-13,25,FC Barcelona,LaLiga,22,Valencia,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,0,5,1,4,0.9083462334,0.1248462334,1,0,1,True,True,False,True,0.0,None,0.6497512808685637
-70297,2013-02-10,2012-13,25,FC Barcelona,LaLiga,23,Getafe,Home,True,Center Forward,Forward,90,Final Whistle,6,1,W,5,7,2,7,1.216882215,1.216882215,1,1,1,True,True,False,True,0.0,None,0.7157188107083697
-70294,2013-02-16,2012-13,25,FC Barcelona,LaLiga,24,Granada,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,0,7,5,7,1.365763406,1.365763406,2,2,2,True,True,False,True,0.0,None,0.6821156276321946
-70271,2013-02-23,2012-13,25,FC Barcelona,LaLiga,25,Sevilla,Home,True,Center Forward,Forward,90,Final Whistle,2,1,W,1,7,2,7,0.48630816,0.48630816,1,1,1,True,True,False,True,0.0,None,0.7625080916346387
-70272,2013-03-02,2012-13,25,FC Barcelona,LaLiga,26,Real Madrid,Away,True,Center Forward,Forward,90,Final Whistle,1,2,L,0,2,2,2,0.24504889,0.24504889,1,1,1,True,True,False,True,0.0,None,0.676146883267013
-70305,2013-03-09,2012-13,25,FC Barcelona,LaLiga,27,RC Deportivo La Coruña,Home,False,Center Forward,Forward,29,Final Whistle,2,0,W,1,1,1,1,0.32130447,0.32130447,1,1,1,True,False,False,True,0.0,None,0.6955400093048129
-70307,2013-03-17,2012-13,25,FC Barcelona,LaLiga,28,Rayo Vallecano,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,1,6,4,6,0.650216045,0.650216045,2,2,2,True,True,False,True,0.0,None,0.7897942164468127
-70256,2013-03-30,2012-13,25,FC Barcelona,LaLiga,29,Celta Vigo,Away,True,Center Forward,Forward,90,Final Whistle,2,2,D,1,4,2,4,0.234967086,0.234967086,1,1,1,True,True,False,True,0.0,None,0.6723951666033983
-267502,2013-04-27,2012-13,25,FC Barcelona,LaLiga,33,Athletic Club,Away,False,Right Center Midfield,Other,32,Final Whistle,2,2,D,1,5,1,5,0.285820818,0.285820818,1,1,1,True,False,False,True,0.0,None,0.4181413863778557
-70281,2013-05-05,2012-13,25,FC Barcelona,LaLiga,34,Real Betis,Home,False,Center Forward,Forward,35,Final Whistle,4,2,W,2,4,3,4,1.201438334,1.201438334,2,2,2,True,False,False,True,0.0,None,0.7204892327772958
-70284,2013-05-12,2012-13,25,FC Barcelona,LaLiga,35,Atlético Madrid,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,2,3,1,3,0.159934945,0.159934945,0,0,0,False,True,False,True,0.0,None,0.5973064724388156
-70277,2013-08-18,2013-14,26,FC Barcelona,LaLiga,1,Levante UD,Home,True,Center Forward,Forward,70,Substitution - Off (Tactical),7,0,W,5,7,5,6,1.662247032,0.878747032,2,1,2,True,True,False,True,0.0,None,0.7453620047885328
-70298,2013-09-01,2013-14,26,FC Barcelona,LaLiga,3,Valencia,Away,True,Center Forward,Forward,90,Final Whistle,3,2,W,0,9,7,9,2.068893799,2.068893799,3,3,3,True,True,False,True,0.0,None,0.5261725118405813
-70301,2013-09-14,2013-14,26,FC Barcelona,LaLiga,4,Sevilla,Home,True,Center Forward,Forward,90,Final Whistle,3,2,W,2,6,2,6,0.695896175,0.695896175,1,1,1,True,True,False,True,0.0,None,0.6227067188482768
-70302,2013-09-21,2013-14,26,FC Barcelona,LaLiga,5,Rayo Vallecano,Away,True,Center Forward,Forward,90,Final Whistle,4,0,W,4,3,2,3,0.1883196469999999,0.1883196469999999,0,0,0,False,True,False,True,0.0,None,0.5548681144191949
-267520,2013-09-24,2013-14,26,FC Barcelona,LaLiga,6,Real Sociedad,Home,True,Center Forward,Forward,80,Substitution - Off (Tactical),4,1,W,3,9,5,9,1.886631336,1.886631336,1,1,1,True,True,False,True,0.0,None,0.6407523965482858
-266420,2013-09-28,2013-14,26,FC Barcelona,LaLiga,7,Almería,Away,True,Center Forward,Forward,28,Substitution - Off (Injury),2,0,W,1,2,1,2,0.12971753,0.12971753,1,1,1,True,True,False,True,0.0,None,0.5781704253681843
-266462,2013-10-19,2013-14,26,FC Barcelona,LaLiga,9,Osasuna,Away,False,Right Center Midfield,Other,23,Final Whistle,0,0,D,0,2,1,2,0.128559418,0.128559418,0,0,0,False,False,False,True,0.0,None,0.37716410773016684
-70293,2013-10-26,2013-14,26,FC Barcelona,LaLiga,10,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,3,0,3,0.147840623,0.147840623,0,0,0,False,True,False,True,0.0,None,0.47916105308219
-267192,2013-10-29,2013-14,26,FC Barcelona,LaLiga,11,Celta Vigo,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,3,10,5,10,0.780440388,0.780440388,0,0,0,False,True,False,True,0.0,None,0.5569542554089456
-70283,2013-11-01,2013-14,26,FC Barcelona,LaLiga,12,Espanyol,Home,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,5,1,5,0.367243809,0.367243809,0,0,0,False,True,False,True,0.0,None,0.6111596301068115
-266883,2013-11-10,2013-14,26,FC Barcelona,LaLiga,13,Real Betis,Away,True,Center Forward,Forward,20,Substitution - Off (Injury),4,1,W,4,0,0,0,0.0,0.0,0,0,0,False,True,False,True,0.0,None,0.5541527146620657
-265830,2014-01-11,2013-14,26,FC Barcelona,LaLiga,19,Atlético Madrid,Away,False,Center Attacking Midfield,Attacking midfield,45,Final Whistle,0,0,D,0,3,1,3,0.2008993339999999,0.2008993339999999,0,0,0,False,False,False,True,0.0,None,0.4305424330897967
-70288,2014-01-19,2013-14,26,FC Barcelona,LaLiga,20,Levante UD,Away,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,6,1,6,0.43388654,0.43388654,0,0,0,False,True,False,True,0.0,None,0.6255548728349969
-70291,2014-01-26,2013-14,26,FC Barcelona,LaLiga,21,Málaga,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,3,4,0,4,0.39444056,0.39444056,0,0,0,False,True,False,True,0.0,None,0.5590907963921566
-266613,2014-02-01,2013-14,26,FC Barcelona,LaLiga,22,Valencia,Home,True,Center Forward,Forward,90,Final Whistle,2,3,L,1,8,3,7,1.373546137,0.5900461370000001,1,0,1,True,True,False,True,0.0,None,0.7180336385540718
-267675,2014-02-09,2013-14,26,FC Barcelona,LaLiga,23,Sevilla,Away,True,Center Forward,Forward,90,Final Whistle,4,1,W,2,2,2,2,0.2356757199999999,0.2356757199999999,2,2,2,True,True,False,True,0.0,None,0.683393277036394
-265918,2014-02-15,2013-14,26,FC Barcelona,LaLiga,24,Rayo Vallecano,Home,True,Center Forward,Forward,73,Substitution - Off (Tactical),6,0,W,4,6,3,6,0.82691264,0.82691264,2,2,2,True,True,False,True,0.0,None,0.7747810078326556
-265837,2014-02-22,2013-14,26,FC Barcelona,LaLiga,25,Real Sociedad,Away,True,Center Forward,Forward,90,Final Whistle,1,3,L,0,4,1,4,0.40511985,0.40511985,1,1,1,True,True,False,True,0.0,None,0.6671694662121307
-266066,2014-03-02,2013-14,26,FC Barcelona,LaLiga,26,Almería,Home,True,Center Forward,Forward,90,Final Whistle,4,1,W,3,11,2,11,1.075072997,1.075072997,1,1,1,True,True,False,True,0.0,None,0.7449028719403024
-266603,2014-03-08,2013-14,26,FC Barcelona,LaLiga,27,Real Valladolid,Away,True,Center Forward,Forward,90,Final Whistle,0,1,L,0,5,5,5,0.447862787,0.447862787,0,0,0,False,True,False,True,0.0,None,0.5374473314782348
-266074,2014-03-16,2013-14,26,FC Barcelona,LaLiga,28,Osasuna,Home,True,Center Forward,Forward,90,Final Whistle,7,0,W,4,5,4,5,0.8903083549999999,0.8903083549999999,3,3,3,True,True,False,True,0.0,None,0.7599261268947831
-265857,2014-03-23,2013-14,26,FC Barcelona,LaLiga,29,Real Madrid,Away,True,Center Forward,Forward,90,Final Whistle,4,3,W,1,6,3,4,1.853851373,0.286851373,3,1,3,True,True,False,True,0.0,None,0.669395032143998
-266274,2014-03-26,2013-14,26,FC Barcelona,LaLiga,30,Celta Vigo,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,2,3,2,3,1.00042722,1.00042722,1,1,1,True,True,False,True,0.0,None,0.7410381605639542
-70306,2014-03-29,2013-14,26,FC Barcelona,LaLiga,31,Espanyol,Away,True,Center Forward,Forward,90,Final Whistle,1,0,W,0,7,3,6,1.340332215,0.556832215,1,0,1,True,True,False,True,0.0,None,0.641072784706955
-267368,2014-04-05,2013-14,26,FC Barcelona,LaLiga,32,Real Betis,Home,True,Center Forward,Forward,90,Final Whistle,3,1,W,1,5,3,3,2.32316044,0.7561604399999999,2,1,2,True,True,False,True,0.0,None,0.7063755619047796
-267138,2014-04-12,2013-14,26,FC Barcelona,LaLiga,33,Granada,Away,True,Center Forward,Forward,90,Final Whistle,0,1,L,0,5,1,5,0.366700318,0.366700318,0,0,0,False,True,False,True,0.0,None,0.6459228336984668
-267567,2014-04-20,2013-14,26,FC Barcelona,LaLiga,34,Athletic Club,Home,True,Center Forward,Forward,90,Final Whistle,2,1,W,1,4,2,4,0.62410244,0.62410244,1,1,1,True,True,False,True,0.0,None,0.7322006263959006
-70289,2014-04-27,2013-14,26,FC Barcelona,LaLiga,35,Villarreal,Away,True,Center Forward,Forward,90,Final Whistle,3,2,W,2,7,6,7,0.7379052749999999,0.7379052749999999,1,1,1,True,True,False,True,0.0,None,0.6546784346392706
-266491,2014-05-03,2013-14,26,FC Barcelona,LaLiga,36,Getafe,Home,True,Center Forward,Forward,90,Final Whistle,2,2,D,1,5,2,5,0.453848357,0.453848357,1,1,1,True,True,False,True,0.0,None,0.7034457206867532
-266201,2014-05-11,2013-14,26,FC Barcelona,LaLiga,37,Elche,Away,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,9,4,9,0.5672126487,0.5672126487,0,0,0,False,True,False,True,0.0,None,0.5821325300874262
-266256,2014-05-17,2013-14,26,FC Barcelona,LaLiga,38,Atlético Madrid,Home,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,1,0,1,0.05139264,0.05139264,0,0,0,False,True,False,True,0.0,None,0.6406237824659207
-266921,2014-08-24,2014-15,27,FC Barcelona,LaLiga,1,Elche,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,1,3,2,3,0.410657333,0.410657333,2,2,2,True,True,False,True,0.0,None,0.6961234600562787
-266406,2014-08-31,2014-15,27,FC Barcelona,LaLiga,2,Villarreal,Away,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,8,3,8,0.556321402,0.556321402,0,0,0,False,True,False,True,0.0,None,0.5267385776372361
-70273,2014-09-13,2014-15,27,FC Barcelona,LaLiga,3,Athletic Club,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,2,0,2,0.149709164,0.149709164,0,0,0,False,True,False,True,0.0,None,0.5781830839987266
-266770,2014-09-21,2014-15,27,FC Barcelona,LaLiga,4,Levante UD,Away,True,Center Forward,Forward,90,Final Whistle,5,0,W,4,3,1,2,0.950082463,0.166582463,1,1,1,True,True,False,True,0.0,None,0.5900537451020971
-266838,2014-09-24,2014-15,27,FC Barcelona,LaLiga,5,Málaga,Away,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,2,0,2,0.19506657,0.19506657,0,0,0,False,True,False,True,0.0,None,0.44831634819788735
-266117,2014-09-27,2014-15,27,FC Barcelona,LaLiga,6,Granada,Home,True,Center Forward,Forward,90,Final Whistle,6,0,W,4,3,3,3,0.774195724,0.774195724,2,2,2,True,True,False,True,0.0,None,0.5457691086388462
-267561,2014-10-04,2014-15,27,FC Barcelona,LaLiga,7,Rayo Vallecano,Away,True,Center Forward,Forward,90,Final Whistle,2,0,W,1,7,2,7,1.122433768,1.122433768,1,1,1,True,True,False,True,0.0,None,0.6169959057765976
-265896,2014-10-18,2014-15,27,FC Barcelona,LaLiga,8,Eibar,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,2,8,6,8,1.000588638,1.000588638,1,1,1,True,True,False,True,0.0,None,0.7600423856246235
-267085,2014-10-25,2014-15,27,FC Barcelona,LaLiga,9,Real Madrid,Away,True,Center Forward,Forward,90,Final Whistle,1,3,L,1,4,2,4,0.586703702,0.586703702,0,0,0,False,True,False,True,0.0,None,0.5694127708049144
-267301,2014-11-01,2014-15,27,FC Barcelona,LaLiga,10,Celta Vigo,Home,True,Center Forward,Forward,90,Final Whistle,0,1,L,0,6,2,6,0.61068303,0.61068303,0,0,0,False,True,False,True,0.0,None,0.6226032521903552
-267499,2014-11-08,2014-15,27,FC Barcelona,LaLiga,11,Almería,Away,True,Center Forward,Forward,90,Final Whistle,2,1,W,2,6,3,6,1.28958014,1.28958014,0,0,0,False,True,False,True,0.0,None,0.566006848479235
-265835,2014-11-22,2014-15,27,FC Barcelona,LaLiga,12,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,5,1,W,2,5,5,5,1.25767633,1.25767633,3,3,3,True,True,False,True,0.0,None,0.6968007019449416
-266560,2014-11-30,2014-15,27,FC Barcelona,LaLiga,13,Valencia,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,2,0,2,0.101879001,0.101879001,0,0,0,False,True,False,True,0.0,None,0.5122297648221131
-266320,2014-12-07,2014-15,27,FC Barcelona,LaLiga,14,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,5,1,W,2,6,3,6,0.580055258,0.580055258,3,3,3,True,True,False,True,0.0,None,0.6496078796465518
-70264,2014-12-13,2014-15,27,FC Barcelona,LaLiga,15,Getafe,Away,True,Right Wing,Wing,90,Final Whistle,0,0,D,0,7,2,7,0.500564738,0.500564738,0,0,0,False,True,False,True,0.0,None,0.501785083723247
-266846,2014-12-20,2014-15,27,FC Barcelona,LaLiga,16,Córdoba CF,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,3,4,2,4,0.2660276139999999,0.2660276139999999,2,2,2,True,True,False,True,0.0,None,0.6482068622550713
-266240,2015-01-04,2014-15,27,FC Barcelona,LaLiga,17,Real Sociedad,Away,False,Right Wing,Wing,45,Final Whistle,0,1,L,0,2,0,2,0.15433899,0.15433899,0,0,0,False,False,False,True,0.0,None,0.42708018582148793
-70303,2015-01-11,2014-15,27,FC Barcelona,LaLiga,18,Atlético Madrid,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,2,7,3,7,0.680566094,0.680566094,1,1,1,True,True,False,True,0.0,None,0.6738392841207603
-266230,2015-01-18,2014-15,27,FC Barcelona,LaLiga,19,RC Deportivo La Coruña,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,1,7,4,7,0.938215832,0.938215832,3,3,3,True,True,False,True,0.0,None,0.5915913458759227
-266794,2015-01-24,2014-15,27,FC Barcelona,LaLiga,20,Elche,Away,True,Center Forward,Forward,90,Final Whistle,6,0,W,4,4,3,3,0.95505947,0.17155947,2,1,2,True,True,False,True,0.0,None,0.6045747616621143
-267597,2015-02-01,2014-15,27,FC Barcelona,LaLiga,21,Villarreal,Home,True,Right Wing,Wing,90,Final Whistle,3,2,W,2,3,1,3,0.46826843,0.46826843,1,1,1,True,True,False,True,0.0,None,0.6561384386080316
-266871,2015-02-08,2014-15,27,FC Barcelona,LaLiga,22,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,5,2,W,4,4,1,4,0.550690584,0.550690584,1,1,1,True,True,False,True,0.0,None,0.5121258167831965
-266741,2015-02-15,2014-15,27,FC Barcelona,LaLiga,23,Levante UD,Home,True,Center Forward,Forward,90,Final Whistle,5,0,W,2,9,5,8,2.130618563,1.347118563,3,2,3,True,True,False,True,0.0,None,0.7356736111210829
-266148,2015-02-21,2014-15,27,FC Barcelona,LaLiga,24,Málaga,Home,True,Right Wing,Wing,90,Final Whistle,0,1,L,0,1,0,1,0.047456406,0.047456406,0,0,0,False,True,False,True,0.0,None,0.49457862345186643
-267343,2015-02-28,2014-15,27,FC Barcelona,LaLiga,25,Granada,Away,True,Right Wing,Wing,90,Final Whistle,3,1,W,2,6,3,6,1.688542368,1.688542368,1,1,1,True,True,False,True,0.0,None,0.5700051931637711
-266916,2015-03-08,2014-15,27,FC Barcelona,LaLiga,26,Rayo Vallecano,Home,True,Right Wing,Wing,90,Final Whistle,6,1,W,3,6,4,5,2.38873202,1.60523202,3,2,3,True,True,False,True,0.0,None,0.7185814663134666
-266967,2015-03-14,2014-15,27,FC Barcelona,LaLiga,27,Eibar,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,0,4,2,3,1.03238663,0.24888663,2,1,2,True,True,False,True,0.0,None,0.7513985636728148
-267183,2015-03-22,2014-15,27,FC Barcelona,LaLiga,28,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,5,1,5,0.363670637,0.363670637,0,0,0,False,True,False,True,0.0,None,0.5453660437086754
-266929,2015-04-05,2014-15,27,FC Barcelona,LaLiga,29,Celta Vigo,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,4,1,4,0.57601948,0.57601948,0,0,0,False,True,False,True,0.0,None,0.5258663772916382
-267400,2015-04-08,2014-15,27,FC Barcelona,LaLiga,30,Almería,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,5,4,5,0.196947528,0.196947528,1,1,1,True,True,False,True,0.0,None,0.66356174125851
-266142,2015-04-11,2014-15,27,FC Barcelona,LaLiga,31,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,1,6,2,6,0.254550539,0.254550539,1,1,1,True,True,False,True,0.0,None,0.5869776417841489
-266525,2015-04-18,2014-15,27,FC Barcelona,LaLiga,32,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,4,2,4,1.44426215,1.44426215,1,1,1,True,True,False,True,0.0,None,0.6551059752853068
-266531,2015-04-25,2014-15,27,FC Barcelona,LaLiga,33,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,4,1,4,0.449668238,0.449668238,1,1,1,True,True,False,True,0.0,None,0.53476111132007
-265963,2015-04-28,2014-15,27,FC Barcelona,LaLiga,34,Getafe,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,4,5,4,4,1.054331952,0.270831952,2,1,2,True,True,False,True,0.0,None,0.6039827304286799
-265866,2015-05-02,2014-15,27,FC Barcelona,LaLiga,35,Córdoba CF,Away,True,Right Wing,Wing,90,Final Whistle,8,0,W,6,8,3,8,1.4658115550000002,1.4658115550000002,2,2,2,True,True,False,True,0.0,None,0.5495890295498659
-266045,2015-05-09,2014-15,27,FC Barcelona,LaLiga,36,Real Sociedad,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,4,2,4,0.347811118,0.347811118,0,0,0,False,True,False,True,0.0,None,0.529256099889206
-266631,2015-05-17,2014-15,27,FC Barcelona,LaLiga,37,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,0,7,4,7,0.4773118474,0.4773118474,1,1,1,True,True,False,True,0.0,None,0.5746790106616566
-267197,2015-05-23,2014-15,27,FC Barcelona,LaLiga,38,RC Deportivo La Coruña,Home,True,Right Wing,Wing,90,Final Whistle,2,2,D,0,5,4,5,1.101221037,1.101221037,2,2,2,True,True,False,True,0.0,None,0.6515651867083815
-266236,2015-08-23,2015-16,28,FC Barcelona,LaLiga,1,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,4,2,3,0.963809213,0.180309213,0,0,0,False,True,False,True,0.0,None,0.4069234263273771
-267422,2015-08-29,2015-16,28,FC Barcelona,LaLiga,2,Málaga,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,7,5,7,0.486158329,0.486158329,0,0,0,False,True,False,True,0.0,None,0.39684143314151965
-266166,2015-09-12,2015-16,28,FC Barcelona,LaLiga,3,Atlético Madrid,Away,False,Right Center Midfield,Other,31,Final Whistle,2,1,W,1,3,1,3,0.335382084,0.335382084,1,1,1,True,False,False,True,0.0,None,0.41613191306743497
-266490,2015-09-20,2015-16,28,FC Barcelona,LaLiga,4,Levante UD,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,4,1,W,2,10,4,8,2.149659115,0.582659115,2,1,2,True,True,False,True,0.0,None,0.6161860861088713
-266467,2015-09-23,2015-16,28,FC Barcelona,LaLiga,5,Celta Vigo,Away,True,Right Wing,Wing,90,Final Whistle,1,4,L,1,7,3,7,0.576519095,0.576519095,0,0,0,False,True,False,True,0.0,None,0.4402742751143816
-267611,2015-09-26,2015-16,28,FC Barcelona,LaLiga,6,Las Palmas,Home,True,Right Wing,Wing,9,Substitution - Off (Injury),2,1,W,2,0,0,0,0.0,0.0,0,0,0,False,True,False,True,0.0,None,0.5044855416836315
-266424,2015-11-21,2015-16,28,FC Barcelona,LaLiga,12,Real Madrid,Away,False,Right Center Midfield,Other,34,Final Whistle,4,0,W,4,2,0,2,0.15168181,0.15168181,0,0,0,False,False,False,True,0.0,None,0.3541405015104602
-266885,2015-11-28,2015-16,28,FC Barcelona,LaLiga,13,Real Sociedad,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,7,3,7,1.440702377,1.440702377,1,1,1,True,True,False,True,0.0,None,0.6272355422024426
-267274,2015-12-05,2015-16,28,FC Barcelona,LaLiga,14,Valencia,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,7,3,7,0.603388754,0.603388754,0,0,0,False,True,False,True,0.0,None,0.5022667197371169
-266961,2015-12-12,2015-16,28,FC Barcelona,LaLiga,15,RC Deportivo La Coruña,Home,True,Right Wing,Wing,90,Final Whistle,2,2,D,1,8,4,8,0.370696534,0.370696534,1,1,1,True,True,False,True,0.0,None,0.6788187274932582
-267327,2015-12-30,2015-16,28,FC Barcelona,LaLiga,17,Real Betis,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,6,3,6,1.0161639,1.0161639,1,1,1,True,True,False,True,0.0,None,0.6436855613038835
-266670,2016-01-02,2015-16,28,FC Barcelona,LaLiga,18,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,0,0,D,0,4,1,4,0.24276848,0.24276848,0,0,0,False,True,False,True,0.0,None,0.5152884054680397
-266620,2016-01-09,2015-16,28,FC Barcelona,LaLiga,19,Granada,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,1,5,4,5,1.614359758,1.614359758,3,3,3,True,True,False,True,0.0,None,0.6560068931679913
-266149,2016-01-17,2015-16,28,FC Barcelona,LaLiga,20,Athletic Club,Home,True,Right Wing,Wing,45,Substitution - Off (Tactical),6,0,W,5,3,1,2,1.007373506,0.223873506,1,0,1,True,True,False,True,0.0,None,0.6738439070307536
-265894,2016-01-23,2015-16,28,FC Barcelona,LaLiga,21,Málaga,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,6,2,6,0.92524156,0.92524156,1,1,1,True,True,False,True,0.0,None,0.5128460605244087
-267576,2016-01-30,2015-16,28,FC Barcelona,LaLiga,22,Atlético Madrid,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,3,2,3,0.194603379,0.194603379,1,1,1,True,True,False,True,0.0,None,0.6623672939964343
-266160,2016-02-07,2015-16,28,FC Barcelona,LaLiga,23,Levante UD,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,2,1,2,0.106996016,0.106996016,0,0,0,False,True,False,True,0.0,None,0.535498600855309
-266254,2016-02-14,2015-16,28,FC Barcelona,LaLiga,24,Celta Vigo,Home,True,Right Wing,Wing,90,Final Whistle,6,1,W,5,4,2,3,0.92752926,0.14402926,1,1,1,True,True,False,True,0.0,None,0.6750339481436941
-266815,2016-02-17,2015-16,28,FC Barcelona,LaLiga,16,Sporting Gijón,Away,True,Right Wing,Wing,90,Final Whistle,3,1,W,1,4,3,4,0.295154481,0.295154481,2,2,2,True,True,False,True,0.0,None,0.5627184093362833
-267273,2016-02-20,2015-16,28,FC Barcelona,LaLiga,25,Las Palmas,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,4,2,4,0.734862335,0.734862335,0,0,0,False,True,False,True,0.0,None,0.5138642075484345
-265839,2016-02-28,2015-16,28,FC Barcelona,LaLiga,26,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,4,2,4,0.251053301,0.251053301,1,1,1,True,True,False,True,0.0,None,0.7002785267692108
-266653,2016-03-03,2015-16,28,FC Barcelona,LaLiga,27,Rayo Vallecano,Away,True,Right Wing,Wing,90,Final Whistle,5,1,W,2,5,4,5,0.889573236,0.889573236,3,3,3,True,True,False,True,0.0,None,0.6351863793770776
-266056,2016-03-06,2015-16,28,FC Barcelona,LaLiga,28,Eibar,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,2,4,3,3,1.020402913,0.236902913,2,1,2,True,True,False,True,0.0,None,0.74544889651424
-266498,2016-03-12,2015-16,28,FC Barcelona,LaLiga,29,Getafe,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,5,6,2,5,1.051302131,0.267802131,1,1,1,True,True,False,True,0.0,None,0.6288632457984248
-266106,2016-03-20,2015-16,28,FC Barcelona,LaLiga,30,Villarreal,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,2,4,1,4,0.145452508,0.145452508,0,0,0,False,True,False,True,0.0,None,0.5271843907402194
-267533,2016-04-02,2015-16,28,FC Barcelona,LaLiga,31,Real Madrid,Home,True,Center Forward,Forward,90,Final Whistle,1,2,L,1,3,1,3,0.141151009,0.141151009,0,0,0,False,True,False,True,0.0,None,0.6704131313176612
-266664,2016-04-09,2015-16,28,FC Barcelona,LaLiga,32,Real Sociedad,Away,True,Right Wing,Wing,90,Final Whistle,0,1,L,0,7,2,7,0.514827862,0.514827862,0,0,0,False,True,False,True,0.0,None,0.47893603770006926
-266557,2016-04-17,2015-16,28,FC Barcelona,LaLiga,33,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,1,2,L,0,7,4,7,0.656713227,0.656713227,1,1,1,True,True,False,True,0.0,None,0.6551059752853068
-266310,2016-04-20,2015-16,28,FC Barcelona,LaLiga,34,RC Deportivo La Coruña,Away,True,Right Wing,Wing,90,Final Whistle,8,0,W,7,3,2,3,0.35377826,0.35377826,1,1,1,True,True,False,True,0.0,None,0.559424815346217
-265944,2016-04-23,2015-16,28,FC Barcelona,LaLiga,35,Sporting Gijón,Home,True,Right Wing,Wing,90,Final Whistle,6,0,W,5,7,2,7,1.000412557,1.000412557,1,1,1,True,True,False,True,0.0,None,0.6238441602796556
-266986,2016-04-30,2015-16,28,FC Barcelona,LaLiga,36,Real Betis,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,2,2,0,2,0.118558397,0.118558397,0,0,0,False,True,False,True,0.0,None,0.4970252509722774
-265958,2016-05-08,2015-16,28,FC Barcelona,LaLiga,37,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,4,6,2,6,0.759942805,0.759942805,1,1,1,True,True,False,True,0.0,None,0.5972372065107916
-267506,2016-05-14,2015-16,28,FC Barcelona,LaLiga,38,Granada,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,3,4,4,4,0.2173857565,0.2173857565,0,0,0,False,True,False,True,0.0,None,0.5348620126345035
-267670,2016-08-20,2016-17,29,FC Barcelona,LaLiga,1,Real Betis,Home,True,Right Wing,Wing,90,Final Whistle,6,2,W,4,12,5,12,0.977308633,0.977308633,2,2,2,True,True,False,True,0.0,None,0.5085577876958525
-266892,2016-08-28,2016-17,29,FC Barcelona,LaLiga,2,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,2,0,2,0.15294606,0.15294606,0,0,0,False,True,False,True,0.0,None,0.4084396756919562
-266669,2016-09-10,2016-17,29,FC Barcelona,LaLiga,3,Deportivo Alavés,Home,False,Left Center Midfield,Other,31,Final Whistle,1,2,L,1,3,0,3,0.1872449749999999,0.1872449749999999,0,0,0,False,False,False,True,0.0,None,0.4275467243718094
-267212,2016-09-17,2016-17,29,FC Barcelona,LaLiga,4,Leganés,Away,True,Right Wing,Wing,90,Final Whistle,5,1,W,3,6,4,5,1.478871694,0.695371694,2,1,2,True,True,False,True,0.0,None,0.5173347006593618
-267220,2016-09-21,2016-17,29,FC Barcelona,LaLiga,5,Atlético Madrid,Home,True,Right Wing,Wing,58,Substitution - Off (Injury),1,1,D,1,5,2,5,0.206104143,0.206104143,0,0,0,False,True,False,True,0.0,None,0.5721420823224651
-267492,2016-10-15,2016-17,29,FC Barcelona,LaLiga,8,RC Deportivo La Coruña,Home,False,Left Center Midfield,Other,36,Final Whistle,4,0,W,3,4,2,4,0.266188508,0.266188508,1,1,1,True,False,False,True,0.0,None,0.5969827515002748
-266033,2016-10-22,2016-17,29,FC Barcelona,LaLiga,9,Valencia,Away,True,Right Wing,Wing,90,Final Whistle,3,2,W,1,4,3,3,0.96002101,0.17652101,2,1,2,True,True,False,True,0.0,None,0.540382643766113
-267058,2016-10-29,2016-17,29,FC Barcelona,LaLiga,10,Granada,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,4,0,4,0.340743807,0.340743807,0,0,0,False,True,False,True,0.0,None,0.5979085802745484
-266989,2016-11-06,2016-17,29,FC Barcelona,LaLiga,11,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,6,3,6,0.749353683,0.749353683,1,1,1,True,True,False,True,0.0,None,0.6120485247310955
-266191,2016-11-27,2016-17,29,FC Barcelona,LaLiga,13,Real Sociedad,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,0,2,1,2,0.19853529,0.19853529,1,1,1,True,True,False,True,0.0,None,0.5351333193839513
-267076,2016-12-03,2016-17,29,FC Barcelona,LaLiga,14,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,2,1,2,0.246958554,0.246958554,0,0,0,False,True,False,True,0.0,None,0.5367178406437612
-266357,2016-12-10,2016-17,29,FC Barcelona,LaLiga,15,Osasuna,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,1,7,5,7,1.533299936,1.533299936,2,2,2,True,True,False,True,0.0,None,0.6155185367047074
-266528,2016-12-18,2016-17,29,FC Barcelona,LaLiga,16,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,3,7,2,7,0.7789807710000001,0.7789807710000001,1,1,1,True,True,False,True,0.0,None,0.6554113528169543
-266477,2017-01-08,2016-17,29,FC Barcelona,LaLiga,17,Villarreal,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,0,6,2,6,0.335623758,0.335623758,1,1,1,True,True,False,True,0.0,None,0.5674883264928586
-267395,2017-01-14,2016-17,29,FC Barcelona,LaLiga,18,Las Palmas,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,4,7,3,7,1.263817094,1.263817094,1,1,1,True,True,False,True,0.0,None,0.6488118907317331
-266731,2017-01-22,2016-17,29,FC Barcelona,LaLiga,19,Eibar,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,4,2,4,0.4476226439999999,0.4476226439999999,1,1,1,True,True,False,True,0.0,None,0.7572668571473838
-266516,2017-01-29,2016-17,29,FC Barcelona,LaLiga,20,Real Betis,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,2,0,2,0.0608039499999999,0.0608039499999999,0,0,0,False,True,False,True,0.0,None,0.515176078088233
-266874,2017-02-04,2016-17,29,FC Barcelona,LaLiga,21,Athletic Club,Home,True,Right Wing,Wing,62,Substitution - Off (Tactical),3,0,W,2,3,1,3,0.1043441393,0.1043441393,1,1,1,True,True,False,True,0.0,None,0.6697113534245158
-266273,2017-02-11,2016-17,29,FC Barcelona,LaLiga,22,Deportivo Alavés,Away,True,Right Wing,Wing,90,Final Whistle,6,0,W,5,7,2,7,0.539036253,0.539036253,1,1,1,True,True,False,True,0.0,None,0.6316063980476561
-267596,2017-02-19,2016-17,29,FC Barcelona,LaLiga,23,Leganés,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,0,6,3,5,1.6823940627,0.8988940627,2,1,2,True,True,False,True,0.0,None,0.6837751778954482
-267464,2017-02-26,2016-17,29,FC Barcelona,LaLiga,24,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,6,3,6,0.900164822,0.900164822,1,1,1,True,True,False,True,0.0,None,0.5814435124764792
-265952,2017-03-01,2016-17,29,FC Barcelona,LaLiga,25,Sporting Gijón,Home,True,Right Wing,Wing,60,Substitution - Off (Tactical),6,1,W,5,4,1,4,0.497446489,0.497446489,1,1,1,True,True,False,True,0.0,None,0.6493696602896986
-266299,2017-03-04,2016-17,29,FC Barcelona,LaLiga,26,Celta Vigo,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,3,6,3,6,0.40586193,0.40586193,2,2,2,True,True,False,True,0.0,None,0.6851596386933738
-267660,2017-03-12,2016-17,29,FC Barcelona,LaLiga,27,RC Deportivo La Coruña,Away,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,5,1,5,0.303371499,0.303371499,0,0,0,False,True,False,True,0.0,None,0.5444529037372666
-266440,2017-03-19,2016-17,29,FC Barcelona,LaLiga,28,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,4,2,W,2,8,3,7,1.564930969,0.781430969,2,1,2,True,True,False,True,0.0,None,0.6615772074890655
-266280,2017-04-05,2016-17,29,FC Barcelona,LaLiga,30,Sevilla,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,3,0,W,1,6,3,6,0.439743978,0.439743978,2,2,2,True,True,False,True,0.0,None,0.6867790527531684
-267590,2017-04-08,2016-17,29,FC Barcelona,LaLiga,31,Málaga,Away,True,Right Wing,Wing,90,Final Whistle,0,2,L,0,6,0,6,0.341832389,0.341832389,0,0,0,False,True,False,True,0.0,None,0.5116033280210295
-267373,2017-04-15,2016-17,29,FC Barcelona,LaLiga,32,Real Sociedad,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,3,2,W,1,5,3,5,1.053258739,1.053258739,2,2,2,True,True,False,True,0.0,None,0.627931304944702
-267569,2017-04-23,2016-17,29,FC Barcelona,LaLiga,33,Real Madrid,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,3,2,W,1,7,4,7,0.7625916235,0.7625916235,2,2,2,True,True,False,True,0.0,None,0.5927319753770677
-267101,2017-04-26,2016-17,29,FC Barcelona,LaLiga,34,Osasuna,Home,True,Right Center Forward,Forward,62,Substitution - Off (Tactical),7,1,W,5,4,2,4,0.516693759,0.516693759,2,2,2,True,True,False,True,0.0,None,0.7500153443046246
-267077,2017-04-29,2016-17,29,FC Barcelona,LaLiga,35,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,3,3,3,3,0.173814875,0.173814875,0,0,0,False,True,False,True,0.0,None,0.5116577156607195
-266952,2017-05-06,2016-17,29,FC Barcelona,LaLiga,36,Villarreal,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,2,6,4,5,1.024850242,0.241350242,2,1,2,True,True,False,True,0.0,None,0.6264678214789247
-267039,2017-05-14,2016-17,29,FC Barcelona,LaLiga,37,Las Palmas,Away,True,Right Wing,Wing,90,Final Whistle,4,1,W,4,6,1,6,0.389253653,0.389253653,0,0,0,False,True,False,True,0.0,None,0.4966238726717334
-267432,2017-05-21,2016-17,29,FC Barcelona,LaLiga,38,Eibar,Home,True,Right Wing,Wing,90,Final Whistle,4,2,W,2,6,3,4,2.045733928,0.478733928,2,1,2,True,True,False,True,0.0,None,0.7774091588572253
-9575,2017-08-20,2017-18,30,FC Barcelona,LaLiga,1,Real Betis,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,10,1,10,0.561071245,0.561071245,0,0,0,False,True,False,True,0.0,None,0.5593777849203471
-9581,2017-08-26,2017-18,30,FC Barcelona,LaLiga,2,Deportivo Alavés,Away,True,Center Forward,Forward,90,Final Whistle,2,0,W,0,10,7,9,1.39226096,0.60876096,2,2,2,True,True,False,True,0.0,None,0.6598971024665499
-9592,2017-09-09,2017-18,30,FC Barcelona,LaLiga,3,Espanyol,Home,True,Right Center Forward,Forward,90,Final Whistle,5,0,W,2,8,3,8,0.917648092,0.917648092,3,3,3,True,True,False,True,0.0,None,0.5972092601445712
-9602,2017-09-16,2017-18,30,FC Barcelona,LaLiga,4,Getafe,Away,True,Left Wing,Wing,90,Final Whistle,2,1,W,2,3,1,3,0.135911606,0.135911606,0,0,0,False,True,False,True,0.0,None,0.43128281613789604
-9609,2017-09-19,2017-18,30,FC Barcelona,LaLiga,5,Eibar,Home,True,Center Forward,Forward,90,Final Whistle,6,1,W,2,8,7,7,1.339929005,0.556429005,4,3,4,True,True,False,True,0.0,None,0.7003982860846324
-9620,2017-09-23,2017-18,30,FC Barcelona,LaLiga,6,Girona,Away,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,3,3,2,3,0.233433353,0.233433353,0,0,0,False,True,False,True,0.0,None,0.5055216909080094
-9636,2017-10-01,2017-18,30,FC Barcelona,LaLiga,7,Las Palmas,Home,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,1,10,6,10,2.030481447,2.030481447,2,2,2,True,True,False,True,0.0,None,0.6286674525000858
-9642,2017-10-14,2017-18,30,FC Barcelona,LaLiga,8,Atlético Madrid,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,1,6,2,6,0.435549348,0.435549348,0,0,0,False,True,False,True,0.0,None,0.531551982362052
-9650,2017-10-21,2017-18,30,FC Barcelona,LaLiga,9,Málaga,Home,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,2,3,1,3,0.177598048,0.177598048,0,0,0,False,True,False,True,0.0,None,0.4883257777394342
-9661,2017-10-28,2017-18,30,FC Barcelona,LaLiga,10,Athletic Club,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,4,2,4,0.905822085,0.905822085,1,1,1,True,True,False,True,0.0,None,0.6104077460441734
-9673,2017-11-04,2017-18,30,FC Barcelona,LaLiga,11,Sevilla,Home,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,2,5,2,5,0.3726032489999999,0.3726032489999999,0,0,0,False,True,False,True,0.0,None,0.6186715341417542
-9682,2017-11-18,2017-18,30,FC Barcelona,LaLiga,12,Leganés,Away,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,3,3,1,3,0.153929103,0.153929103,0,0,0,False,True,False,True,0.0,None,0.6231298894180822
-9695,2017-11-26,2017-18,30,FC Barcelona,LaLiga,13,Valencia,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,1,4,2,4,0.2281713189999999,0.2281713189999999,0,0,0,False,True,False,True,0.0,None,0.5260135157169414
-9700,2017-12-02,2017-18,30,FC Barcelona,LaLiga,14,Celta Vigo,Home,True,Right Center Forward,Forward,90,Final Whistle,2,2,D,1,11,3,11,1.377503615,1.377503615,1,1,1,True,True,False,True,0.0,None,0.6850630964758617
-9717,2017-12-10,2017-18,30,FC Barcelona,LaLiga,15,Villarreal,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,6,2,6,1.072775076,1.072775076,1,1,1,True,True,False,True,0.0,None,0.6057253130549848
-9726,2017-12-17,2017-18,30,FC Barcelona,LaLiga,16,RC Deportivo La Coruña,Home,True,Right Center Forward,Forward,90,Final Whistle,4,0,W,4,11,4,10,2.022355064,1.238855064,0,0,0,False,True,False,True,0.0,None,0.6605189158861616
-9736,2017-12-23,2017-18,30,FC Barcelona,LaLiga,17,Real Madrid,Away,True,Left Center Forward,Forward,90,Final Whistle,3,0,W,2,4,3,3,0.955874532,0.172374532,1,0,1,True,True,False,True,0.0,None,0.598507444787694
-9742,2018-01-07,2017-18,30,FC Barcelona,LaLiga,18,Levante UD,Home,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,2,5,2,5,0.399104935,0.399104935,1,1,1,True,True,False,True,0.0,None,0.7114597251393099
-9754,2018-01-14,2017-18,30,FC Barcelona,LaLiga,19,Real Sociedad,Away,True,Right Center Forward,Forward,90,Final Whistle,4,2,W,3,5,2,5,0.1697864339999999,0.1697864339999999,1,1,1,True,True,False,True,0.0,None,0.6371837614541663
-9765,2018-01-21,2017-18,30,FC Barcelona,LaLiga,20,Real Betis,Away,True,Right Center Forward,Forward,90,Final Whistle,5,0,W,3,4,2,4,1.05463618,1.05463618,2,2,2,True,True,False,True,0.0,None,0.6289112282039698
-9774,2018-01-28,2017-18,30,FC Barcelona,LaLiga,21,Deportivo Alavés,Home,True,Left Center Forward,Forward,90,Final Whistle,2,1,W,1,6,6,6,0.3155740793,0.3155740793,1,1,1,True,True,False,True,0.0,None,0.760031611231954
-9783,2018-02-04,2017-18,30,FC Barcelona,LaLiga,22,Espanyol,Away,False,Right Wing,Wing,32,Final Whistle,1,1,D,1,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.4129619314688655
-9794,2018-02-11,2017-18,30,FC Barcelona,LaLiga,23,Getafe,Home,True,Right Center Forward,Forward,90,Final Whistle,0,0,D,0,4,2,4,0.11591596,0.11591596,0,0,0,False,True,False,True,0.0,None,0.6508264836050236
-9799,2018-02-17,2017-18,30,FC Barcelona,LaLiga,24,Eibar,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,2,4,2,4,1.060268153,1.060268153,0,0,0,False,True,False,True,0.0,None,0.780735632731944
-9811,2018-02-24,2017-18,30,FC Barcelona,LaLiga,25,Girona,Home,True,Right Center Forward,Forward,90,Final Whistle,6,1,W,4,7,5,7,0.791669898,0.791669898,2,2,2,True,True,False,True,0.0,None,0.7230403390213027
-9827,2018-03-01,2017-18,30,FC Barcelona,LaLiga,26,Las Palmas,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,0,4,2,4,0.331438285,0.331438285,1,1,1,True,True,False,True,0.0,None,0.6600030379529943
-9837,2018-03-04,2017-18,30,FC Barcelona,LaLiga,27,Atlético Madrid,Home,True,Right Center Forward,Forward,90,Final Whistle,1,0,W,0,5,2,5,0.293265071,0.293265071,1,1,1,True,True,False,True,0.0,None,0.7200564142056257
-9855,2018-03-18,2017-18,30,FC Barcelona,LaLiga,29,Athletic Club,Home,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,9,5,9,0.538467636,0.538467636,1,1,1,True,True,False,True,0.0,None,0.7241141415288613
-9860,2018-03-31,2017-18,30,FC Barcelona,LaLiga,30,Sevilla,Away,False,Right Wing,Wing,33,Final Whistle,2,2,D,1,4,2,4,0.164278014,0.164278014,1,1,1,True,False,False,True,0.0,None,0.5418380331304887
-9870,2018-04-07,2017-18,30,FC Barcelona,LaLiga,31,Leganés,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,3,1,W,0,6,4,6,1.018058848,1.018058848,3,3,3,True,True,False,True,0.0,None,0.7081895837444317
-9880,2018-04-14,2017-18,30,FC Barcelona,LaLiga,32,Valencia,Home,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,2,6,2,6,0.518358443,0.518358443,0,0,0,False,True,False,True,0.0,None,0.6582274985006632
-9889,2018-04-17,2017-18,30,FC Barcelona,LaLiga,33,Celta Vigo,Away,False,Left Wing,Wing,31,Final Whistle,2,2,D,2,1,0,1,0.04123735,0.04123735,0,0,0,False,False,False,True,0.0,None,0.4381629469687873
-9912,2018-04-29,2017-18,30,FC Barcelona,LaLiga,35,RC Deportivo La Coruña,Away,True,Center Forward,Forward,90,Final Whistle,4,2,W,1,9,5,9,1.615336306,1.615336306,3,3,3,True,True,False,True,0.0,None,0.6596263730871135
-9924,2018-05-06,2017-18,30,FC Barcelona,LaLiga,36,Real Madrid,Home,True,Right Center Forward,Forward,90,Final Whistle,2,2,D,1,5,3,5,0.5791846279999999,0.5791846279999999,1,1,1,True,True,False,True,0.0,None,0.6142986164316214
-9928,2018-05-09,2017-18,30,FC Barcelona,LaLiga,34,Villarreal,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,4,4,1,4,0.387051994,0.387051994,1,1,1,True,True,False,True,0.0,None,0.705967117002974
-9948,2018-05-20,2017-18,30,FC Barcelona,LaLiga,38,Real Sociedad,Home,False,Left Wing,Wing,24,Final Whistle,1,0,W,1,1,1,1,0.09121557,0.09121557,0,0,0,False,False,False,True,0.0,None,0.4399630448498165
-15946,2018-08-18,2018-19,31,FC Barcelona,LaLiga,1,Deportivo Alavés,Home,True,Left Center Forward,Forward,90,Final Whistle,3,0,W,1,8,4,8,0.836280149,0.836280149,2,2,2,True,True,False,True,0.0,None,0.7180839743995152
-15956,2018-08-25,2018-19,31,FC Barcelona,LaLiga,2,Real Valladolid,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,1,0,1,0.06438187,0.06438187,0,0,0,False,True,False,True,0.0,None,0.40259768149781544
-15973,2018-09-02,2018-19,31,FC Barcelona,LaLiga,3,Huesca,Home,True,Right Wing,Wing,90,Final Whistle,8,2,W,6,7,4,7,0.7049136189999999,0.7049136189999999,2,2,2,True,True,False,True,0.0,None,0.5973216944145295
-15978,2018-09-15,2018-19,31,FC Barcelona,LaLiga,4,Real Sociedad,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,2,1,2,0.068243679,0.068243679,0,0,0,False,True,False,True,0.0,None,0.4107804019176147
-15986,2018-09-23,2018-19,31,FC Barcelona,LaLiga,5,Girona,Home,True,Right Wing,Wing,90,Final Whistle,2,2,D,1,6,4,6,0.578595606,0.578595606,1,1,1,True,True,False,True,0.0,None,0.569325916578877
-15998,2018-09-26,2018-19,31,FC Barcelona,LaLiga,6,Leganés,Away,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,2,1,2,0.13706535,0.13706535,0,0,0,False,True,False,True,0.0,None,0.4857093765706221
-16010,2018-09-29,2018-19,31,FC Barcelona,LaLiga,7,Athletic Club,Home,False,Right Center Midfield,Other,36,Final Whistle,1,1,D,1,5,1,5,0.221002568,0.221002568,0,0,0,False,False,False,True,0.0,None,0.3877404270887967
-16023,2018-10-07,2018-19,31,FC Barcelona,LaLiga,8,Valencia,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,0,6,4,6,0.300090357,0.300090357,1,1,1,True,True,False,True,0.0,None,0.5594965001817704
-16029,2018-10-20,2018-19,31,FC Barcelona,LaLiga,9,Sevilla,Home,True,Right Wing,Wing,25,Substitution - Off (Injury),4,2,W,3,2,1,2,0.18344606,0.18344606,1,1,1,True,True,False,True,0.0,None,0.6909591119777966
-16056,2018-11-11,2018-19,31,FC Barcelona,LaLiga,12,Real Betis,Home,True,Right Wing,Wing,90,Final Whistle,3,4,L,1,7,2,6,1.921975188,1.138475188,2,1,2,True,True,False,True,0.0,None,0.6328745737572176
-16073,2018-11-24,2018-19,31,FC Barcelona,LaLiga,13,Atlético Madrid,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,1,4,1,4,0.128816464,0.128816464,0,0,0,False,True,False,True,0.0,None,0.5467200557695073
-16079,2018-12-02,2018-19,31,FC Barcelona,LaLiga,14,Villarreal,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,6,4,6,0.380513742,0.380513742,0,0,0,False,True,False,True,0.0,None,0.6420891064209183
-16086,2018-12-08,2018-19,31,FC Barcelona,LaLiga,15,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,2,5,4,5,0.98561789,0.98561789,2,2,2,True,True,False,True,0.0,None,0.5592701506350356
-16095,2018-12-16,2018-19,31,FC Barcelona,LaLiga,16,Levante UD,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,5,0,W,2,7,4,7,1.119515562,1.119515562,3,3,3,True,True,False,True,0.0,None,0.6252782837057635
-16109,2018-12-22,2018-19,31,FC Barcelona,LaLiga,17,Celta Vigo,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,3,2,3,0.417709165,0.417709165,1,1,1,True,True,False,True,0.0,None,0.6918585710770228
-16120,2019-01-06,2018-19,31,FC Barcelona,LaLiga,18,Getafe,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,1,7,5,7,0.981150337,0.981150337,1,1,1,True,True,False,True,0.0,None,0.5397998308685503
-16131,2019-01-13,2018-19,31,FC Barcelona,LaLiga,19,Eibar,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,2,2,2,0.47529338,0.47529338,1,1,1,True,True,False,True,0.0,None,0.8028037805069655
-16136,2019-01-20,2018-19,31,FC Barcelona,LaLiga,20,Leganés,Home,False,Right Center Midfield,Other,27,Final Whistle,3,1,W,2,2,2,2,0.18939908,0.18939908,1,1,1,True,False,False,True,0.0,None,0.6787938703216563
-16149,2019-01-27,2018-19,31,FC Barcelona,LaLiga,21,Girona,Away,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,7,2,7,0.792253716,0.792253716,1,1,1,True,True,False,True,0.0,None,0.5349574610527792
-16157,2019-02-02,2018-19,31,FC Barcelona,LaLiga,22,Valencia,Home,True,Right Wing,Wing,90,Final Whistle,2,2,D,0,8,5,7,1.253504401,0.470004401,2,1,2,True,True,False,True,0.0,None,0.6521572145633416
-16173,2019-02-10,2018-19,31,FC Barcelona,LaLiga,23,Athletic Club,Away,True,Right Wing,Wing,90,Final Whistle,0,0,D,0,4,1,4,0.120055029,0.120055029,0,0,0,False,True,False,True,0.0,None,0.5042620768764529
-16182,2019-02-16,2018-19,31,FC Barcelona,LaLiga,24,Real Valladolid,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,0,12,5,10,2.39899334,0.83199334,1,0,1,True,True,False,True,0.0,None,0.5995232125663348
-16190,2019-02-23,2018-19,31,FC Barcelona,LaLiga,25,Sevilla,Away,True,Right Wing,Wing,90,Final Whistle,4,2,W,1,8,4,8,0.723815223,0.723815223,3,3,3,True,True,False,True,0.0,None,0.6033340751784823
-16196,2019-03-02,2018-19,31,FC Barcelona,LaLiga,26,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,6,1,6,0.9198630985,0.9198630985,0,0,0,False,True,False,True,0.0,None,0.49483892941583385
-16205,2019-03-09,2018-19,31,FC Barcelona,LaLiga,27,Rayo Vallecano,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,2,6,3,5,1.180566355,0.397066355,1,0,1,True,True,False,True,0.0,None,0.7140458017797752
-16215,2019-03-17,2018-19,31,FC Barcelona,LaLiga,28,Real Betis,Away,True,Left Center Forward,Forward,90,Final Whistle,4,1,W,1,5,4,5,0.68957348,0.68957348,3,3,3,True,True,False,True,0.0,None,0.651105676709184
-16231,2019-03-30,2018-19,31,FC Barcelona,LaLiga,29,Espanyol,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,0,6,2,6,0.6018640630000001,0.6018640630000001,2,2,2,True,True,False,True,0.0,None,0.6361914373246933
-16240,2019-04-02,2018-19,31,FC Barcelona,LaLiga,30,Villarreal,Away,False,Left Wing,Wing,30,Final Whistle,4,4,D,3,2,1,2,0.133095825,0.133095825,1,1,1,True,False,False,True,0.0,None,0.5499828594139952
-16248,2019-04-06,2018-19,31,FC Barcelona,LaLiga,31,Atlético Madrid,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,8,6,8,0.57355336,0.57355336,1,1,1,True,True,False,True,0.0,None,0.6607363885402541
-16265,2019-04-20,2018-19,31,FC Barcelona,LaLiga,33,Real Sociedad,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,3,1,3,0.15899295,0.15899295,0,0,0,False,True,False,True,0.0,None,0.5360333039801203
-16275,2019-04-23,2018-19,31,FC Barcelona,LaLiga,34,Deportivo Alavés,Away,False,Right Wing,Wing,30,Final Whistle,2,0,W,2,2,1,2,0.179508224,0.179508224,0,0,0,False,False,False,True,0.0,None,0.535477197688832
-16289,2019-04-27,2018-19,31,FC Barcelona,LaLiga,35,Levante UD,Home,False,Right Wing,Wing,45,Final Whistle,1,0,W,0,4,3,4,0.283340936,0.283340936,1,1,1,True,False,False,True,0.0,None,0.6104315608891335
-16306,2019-05-12,2018-19,31,FC Barcelona,LaLiga,37,Getafe,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,3,2,3,0.50317731,0.50317731,0,0,0,False,True,False,True,0.0,None,0.6608175400808365
-16317,2019-05-19,2018-19,31,FC Barcelona,LaLiga,38,Eibar,Away,True,Center Forward,Forward,90,Final Whistle,2,2,D,0,5,2,5,0.6708523,0.6708523,2,2,2,True,True,False,True,0.0,None,0.7404909485867971
-303666,2019-09-21,2019-20,32,FC Barcelona,LaLiga,5,Granada,Away,False,Right Wing,Wing,45,Final Whistle,0,2,L,0,2,1,2,0.1192377449999999,0.1192377449999999,0,0,0,False,False,False,True,0.0,None,0.4116552620599385
-303430,2019-09-24,2019-20,32,FC Barcelona,LaLiga,6,Villarreal,Home,True,Right Wing,Wing,45,Substitution - Off (Injury),2,1,W,2,1,0,1,0.009021396,0.009021396,0,0,0,False,True,False,True,0.0,None,0.49853514929137
-303473,2019-10-06,2019-20,32,FC Barcelona,LaLiga,8,Sevilla,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,6,3,6,0.271017611,0.271017611,1,1,1,True,True,False,True,0.0,None,0.6850941850966401
-303700,2019-10-19,2019-20,32,FC Barcelona,LaLiga,9,Eibar,Away,True,Right Wing,Wing,90,Final Whistle,3,0,W,2,3,1,3,0.238421892,0.238421892,1,1,1,True,True,False,True,0.0,None,0.7290326854998213
-303600,2019-10-29,2019-20,32,FC Barcelona,LaLiga,11,Real Valladolid,Home,True,Right Wing,Wing,90,Final Whistle,5,1,W,3,6,4,6,0.387700745,0.387700745,2,2,2,True,True,False,True,0.0,None,0.6104707028787171
-303504,2019-11-02,2019-20,32,FC Barcelona,LaLiga,12,Levante UD,Away,True,Right Wing,Wing,90,Final Whistle,1,3,L,0,5,3,4,1.658233143,0.8747331429999999,1,0,1,True,True,False,True,0.0,None,0.5669360135998428
-303487,2019-11-09,2019-20,32,FC Barcelona,LaLiga,13,Celta Vigo,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,1,5,5,4,1.012307169,0.228807169,3,2,3,True,True,False,True,0.0,None,0.6801629487865642
-303715,2019-11-23,2019-20,32,FC Barcelona,LaLiga,14,Leganés,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,2,1,W,2,1,1,1,0.11079634,0.11079634,0,0,0,False,True,False,True,0.0,None,0.6086053858162536
-303524,2019-12-01,2019-20,32,FC Barcelona,LaLiga,15,Atlético Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,0,3,2,3,0.1744826059999999,0.1744826059999999,1,1,1,True,True,False,True,0.0,None,0.5816910297478268
-303451,2019-12-07,2019-20,32,FC Barcelona,LaLiga,16,Mallorca,Home,True,Right Wing,Wing,90,Final Whistle,5,2,W,2,7,4,7,0.3794963725,0.3794963725,3,3,3,True,True,False,True,0.0,None,0.66630021671825
-303664,2019-12-14,2019-20,32,FC Barcelona,LaLiga,17,Real Sociedad,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,2,1,0,1,0.05115923,0.05115923,0,0,0,False,True,False,True,0.0,None,0.4811972856906751
-303596,2019-12-18,2019-20,32,FC Barcelona,LaLiga,10,Real Madrid,Home,True,Right Wing,Wing,90,Final Whistle,0,0,D,0,2,0,2,0.150314386,0.150314386,0,0,0,False,True,False,True,0.0,None,0.4759241589439617
-303517,2019-12-21,2019-20,32,FC Barcelona,LaLiga,18,Deportivo Alavés,Home,True,Right Wing,Wing,90,Final Whistle,4,1,W,3,4,1,4,0.483923127,0.483923127,1,1,1,True,True,False,True,0.0,None,0.7011833304233958
-303652,2020-01-04,2019-20,32,FC Barcelona,LaLiga,19,Espanyol,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,2,5,3,5,0.224617965,0.224617965,0,0,0,False,True,False,True,0.0,None,0.5127707336129587
-303610,2020-01-19,2019-20,32,FC Barcelona,LaLiga,20,Granada,Home,True,Right Center Forward,Forward,90,Final Whistle,1,0,W,0,9,2,9,0.896358654,0.896358654,1,1,1,True,True,False,True,0.0,None,0.7013893616332526
-303400,2020-01-25,2019-20,32,FC Barcelona,LaLiga,21,Valencia,Away,True,Right Center Forward,Forward,90,Final Whistle,0,2,L,0,11,4,11,0.8109663570000001,0.8109663570000001,0,0,0,False,True,False,True,0.0,None,0.5675096103922896
-303682,2020-02-02,2019-20,32,FC Barcelona,LaLiga,22,Levante UD,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,10,5,10,0.983463906,0.983463906,0,0,0,False,True,False,True,0.0,None,0.6196102632728401
-303707,2020-02-09,2019-20,32,FC Barcelona,LaLiga,23,Real Betis,Away,True,Right Center Forward,Forward,90,Final Whistle,3,2,W,3,4,3,4,0.543542128,0.543542128,0,0,0,False,True,False,True,0.0,None,0.6080691605294909
-303377,2020-02-15,2019-20,32,FC Barcelona,LaLiga,24,Getafe,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,6,2,6,0.527065878,0.527065878,0,0,0,False,True,False,True,0.0,None,0.5794001155234475
-303731,2020-02-22,2019-20,32,FC Barcelona,LaLiga,25,Eibar,Home,True,Right Wing,Wing,90,Final Whistle,5,0,W,1,5,4,5,1.653811434,1.653811434,4,4,4,True,True,False,True,0.0,None,0.7943246613617803
-303470,2020-03-01,2019-20,32,FC Barcelona,LaLiga,26,Real Madrid,Away,True,Right Center Forward,Forward,90,Final Whistle,0,2,L,0,3,2,3,0.267124139,0.267124139,0,0,0,False,True,False,True,0.0,None,0.596871330783519
-303479,2020-03-07,2019-20,32,FC Barcelona,LaLiga,27,Real Sociedad,Home,True,Center Forward,Forward,90,Final Whistle,1,0,W,0,6,2,5,1.433491179,0.649991179,1,0,1,True,True,False,True,0.0,None,0.6844288396262498
-303548,2020-06-13,2019-20,32,FC Barcelona,LaLiga,28,Mallorca,Away,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,3,1,3,0.262102205,0.262102205,1,1,1,True,True,False,True,0.0,None,0.5834497001585183
-303532,2020-06-16,2019-20,32,FC Barcelona,LaLiga,29,Leganés,Home,True,Right Wing,Wing,90,Final Whistle,2,0,W,1,3,2,2,0.857033536,0.073533536,1,0,1,True,True,False,True,0.0,None,0.6847123240186844
-303674,2020-06-19,2019-20,32,FC Barcelona,LaLiga,30,Sevilla,Away,True,Right Center Forward,Forward,90,Final Whistle,0,0,D,0,4,2,4,0.17641387,0.17641387,0,0,0,False,True,False,True,0.0,None,0.6259845774512539
-303493,2020-06-23,2019-20,32,FC Barcelona,LaLiga,31,Athletic Club,Home,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,7,1,7,0.3385115409999999,0.3385115409999999,0,0,0,False,True,False,True,0.0,None,0.6312848300180052
-303516,2020-06-27,2019-20,32,FC Barcelona,LaLiga,32,Celta Vigo,Away,True,Right Wing,Wing,90,Final Whistle,2,2,D,2,7,0,7,0.509679651,0.509679651,0,0,0,False,True,False,True,0.0,None,0.5339721598790635
-303696,2020-06-30,2019-20,32,FC Barcelona,LaLiga,33,Atlético Madrid,Home,True,Right Center Forward,Forward,90,Final Whistle,2,2,D,1,6,2,5,0.976289266,0.192789266,1,0,1,True,True,False,True,0.0,None,0.6940349766971795
-303725,2020-07-05,2019-20,32,FC Barcelona,LaLiga,34,Villarreal,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,4,1,W,4,4,2,4,0.301127407,0.301127407,0,0,0,False,True,False,True,0.0,None,0.5606022619652108
-303615,2020-07-08,2019-20,32,FC Barcelona,LaLiga,35,Espanyol,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,1,0,W,1,4,1,4,0.248133583,0.248133583,0,0,0,False,True,False,True,0.0,None,0.5639708984203812
-303680,2020-07-11,2019-20,32,FC Barcelona,LaLiga,36,Real Valladolid,Away,True,Right Center Forward,Forward,90,Final Whistle,1,0,W,1,3,1,3,0.110995823,0.110995823,0,0,0,False,True,False,True,0.0,None,0.49727865834108104
-303634,2020-07-16,2019-20,32,FC Barcelona,LaLiga,37,Osasuna,Home,True,Right Wing,Wing,90,Final Whistle,1,2,L,0,9,2,9,0.5349235476,0.5349235476,1,1,1,True,True,False,True,0.0,None,0.6277129401976961
-303421,2020-07-19,2019-20,32,FC Barcelona,LaLiga,38,Deportivo Alavés,Away,True,Right Wing,Wing,90,Final Whistle,5,0,W,3,4,2,4,0.8216801069999999,0.8216801069999999,2,2,2,True,True,False,True,0.0,None,0.6131713464852921
-3773593,2020-09-27,2020-21,33,FC Barcelona,LaLiga,3,Villarreal,Home,True,Center Forward,Forward,90,Final Whistle,4,0,W,3,7,4,6,1.607357622,0.823857622,1,0,1,True,True,False,True,0.0,None,0.6191615290173126
-3773466,2020-10-01,2020-21,33,FC Barcelona,LaLiga,4,Celta Vigo,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,3,2,1,2,0.198667724,0.198667724,0,0,0,False,True,False,True,0.0,None,0.4892055788425215
-3773672,2020-10-04,2020-21,33,FC Barcelona,LaLiga,5,Sevilla,Home,True,Center Forward,Forward,90,Final Whistle,1,1,D,1,3,1,3,0.148368593,0.148368593,0,0,0,False,True,False,True,0.0,None,0.5641260554662356
-3773587,2020-10-17,2020-21,33,FC Barcelona,LaLiga,6,Getafe,Away,True,Right Wing,Wing,90,Final Whistle,0,1,L,0,3,1,3,0.247974656,0.247974656,0,0,0,False,True,False,True,0.0,None,0.38855160721580273
-3773585,2020-10-24,2020-21,33,FC Barcelona,LaLiga,7,Real Madrid,Home,True,Left Center Forward,Forward,90,Final Whistle,1,3,L,1,3,2,3,0.524035245,0.524035245,0,0,0,False,True,False,True,0.0,None,0.5124991292426467
-3773386,2020-10-31,2020-21,33,FC Barcelona,LaLiga,8,Deportivo Alavés,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,1,1,D,1,10,4,10,0.6366345760000001,0.6366345760000001,0,0,0,False,True,False,True,0.0,None,0.6250045086770427
-3773477,2020-11-07,2020-21,33,FC Barcelona,LaLiga,9,Real Betis,Home,False,Right Center Forward,Forward,45,Final Whistle,5,2,W,3,3,3,2,1.2010214,0.4175214,2,1,2,True,False,False,True,0.0,None,0.6429974542606925
-3773656,2020-11-21,2020-21,33,FC Barcelona,LaLiga,10,Atlético Madrid,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,0,1,L,0,3,1,3,0.311527051,0.311527051,0,0,0,False,True,False,True,0.0,None,0.5258677981767796
-3773547,2020-11-29,2020-21,33,FC Barcelona,LaLiga,11,Osasuna,Home,True,Right Wing,Wing,90,Final Whistle,4,0,W,3,5,2,5,0.312438228,0.312438228,1,1,1,True,True,False,True,0.0,None,0.650255459772263
-3773428,2020-12-05,2020-21,33,FC Barcelona,LaLiga,12,Cádiz,Away,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,10,5,10,0.474568404,0.474568404,0,0,0,False,True,False,True,0.0,None,0.5057147982109466
-3773660,2020-12-13,2020-21,33,FC Barcelona,LaLiga,13,Levante UD,Home,True,Center Forward,Forward,90,Final Whistle,1,0,W,0,12,6,12,0.981735524,0.981735524,1,1,1,True,True,False,True,0.0,None,0.7092930733516373
-3773523,2020-12-16,2020-21,33,FC Barcelona,LaLiga,19,Real Sociedad,Home,True,Center Forward,Forward,90,Final Whistle,2,1,W,2,3,1,3,0.209398615,0.209398615,0,0,0,False,True,False,True,0.0,None,0.665782517712274
-3773377,2020-12-19,2020-21,33,FC Barcelona,LaLiga,14,Valencia,Home,True,Center Forward,Forward,90,Final Whistle,2,2,D,1,9,4,8,1.952160229,1.168660229,1,1,1,True,True,False,True,0.0,None,0.6437430637154942
-3773571,2020-12-22,2020-21,33,FC Barcelona,LaLiga,15,Real Valladolid,Away,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,3,0,W,2,11,7,11,1.477243009,1.477243009,1,1,1,True,True,False,True,0.0,None,0.5816485474592749
-3773552,2021-01-03,2020-21,33,FC Barcelona,LaLiga,17,Huesca,Away,True,Right Wing,Wing,90,Final Whistle,1,0,W,1,8,2,8,0.552899838,0.552899838,0,0,0,False,True,False,True,0.0,None,0.5614916660236776
-3764661,2021-01-06,2020-21,33,FC Barcelona,LaLiga,2,Athletic Club,Away,True,Center Forward,Forward,90,Final Whistle,3,2,W,1,5,2,5,0.587680071,0.587680071,2,2,2,True,True,False,True,0.0,None,0.6122567436856409
-3773565,2021-01-09,2020-21,33,FC Barcelona,LaLiga,18,Granada,Away,True,Center Forward,Forward,64,Substitution - Off (Tactical),4,0,W,2,2,2,2,0.149173036,0.149173036,2,2,2,True,True,False,True,0.0,None,0.6468878929948227
-3773403,2021-01-31,2020-21,33,FC Barcelona,LaLiga,21,Athletic Club,Home,True,Center Forward,Forward,90,Final Whistle,2,1,W,1,4,2,4,0.666552209,0.666552209,1,1,1,True,True,False,True,0.0,None,0.7273430865869573
-3773631,2021-02-07,2020-21,33,FC Barcelona,LaLiga,22,Real Betis,Away,False,Left Center Midfield,Other,34,Final Whistle,3,2,W,2,2,1,2,0.1204161679999999,0.1204161679999999,1,1,1,True,False,False,True,0.0,None,0.5526965616302754
-3773526,2021-02-13,2020-21,33,FC Barcelona,LaLiga,23,Deportivo Alavés,Home,True,Center Forward,Forward,90,Final Whistle,5,1,W,3,7,5,7,0.337128524,0.337128524,2,2,2,True,True,False,True,0.0,None,0.7571231816163587
-3773415,2021-02-21,2020-21,33,FC Barcelona,LaLiga,24,Cádiz,Home,True,Center Forward,Forward,90,Final Whistle,1,1,D,0,8,3,7,1.2896634989999998,0.506163499,1,0,1,True,True,False,True,0.0,None,0.7051393677491148
-3764440,2021-02-24,2020-21,33,FC Barcelona,LaLiga,1,Elche,Home,True,Center Forward,Forward,90,Final Whistle,3,0,W,1,3,2,3,0.99237994,0.99237994,2,2,2,True,True,False,True,0.0,None,0.6866197812992305
-3773625,2021-02-27,2020-21,33,FC Barcelona,LaLiga,25,Sevilla,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,4,3,4,1.37223315,1.37223315,1,1,1,True,True,False,True,0.0,None,0.6664619118820775
-3773665,2021-03-06,2020-21,33,FC Barcelona,LaLiga,26,Osasuna,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,2,5,2,5,0.334773407,0.334773407,0,0,0,False,True,False,True,0.0,None,0.6974379994633657
-3773369,2021-03-15,2020-21,33,FC Barcelona,LaLiga,27,Huesca,Home,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,4,1,W,2,6,2,6,0.26730737,0.26730737,2,2,2,True,True,False,True,0.0,None,0.6821951839930251
-3773597,2021-03-21,2020-21,33,FC Barcelona,LaLiga,28,Real Sociedad,Away,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,6,1,W,4,5,3,5,0.714400317,0.714400317,2,2,2,True,True,False,True,0.0,None,0.5692660579574247
-3773474,2021-04-05,2020-21,33,FC Barcelona,LaLiga,29,Real Valladolid,Home,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,1,0,W,1,7,2,7,0.454569214,0.454569214,0,0,0,False,True,False,True,0.0,None,0.624863270069714
-3773497,2021-04-10,2020-21,33,FC Barcelona,LaLiga,30,Real Madrid,Away,True,Right Wing,Wing,90,Final Whistle,1,2,L,1,7,2,7,0.45617774,0.45617774,0,0,0,False,True,False,True,0.0,None,0.473884601877165
-3773661,2021-04-22,2020-21,33,FC Barcelona,LaLiga,31,Getafe,Home,True,Right Center Forward,Forward,90,Final Whistle,5,2,W,3,7,4,7,0.62483985,0.62483985,2,2,2,True,True,False,True,0.0,None,0.6943758175108754
-3773689,2021-04-25,2020-21,33,FC Barcelona,LaLiga,32,Villarreal,Away,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,2,3,1,3,0.146236506,0.146236506,0,0,0,False,True,False,True,0.0,None,0.6269443409516874
-3773586,2021-04-29,2020-21,33,FC Barcelona,LaLiga,33,Granada,Home,True,Right Center Forward,Forward,90,Final Whistle,1,2,L,0,6,2,6,0.638382439,0.638382439,1,1,1,True,True,False,True,0.0,None,0.7077137843109089
-3773695,2021-05-02,2020-21,33,FC Barcelona,LaLiga,34,Valencia,Away,True,Right Center Forward,Forward,90,Final Whistle,3,2,W,1,5,3,4,1.41125648,0.62775648,2,2,2,True,True,False,True,0.0,None,0.580286399509185
-3773372,2021-05-08,2020-21,33,FC Barcelona,LaLiga,35,Atlético Madrid,Home,True,Right Center Forward,Forward,90,Final Whistle,0,0,D,0,3,2,3,0.1784817719999999,0.1784817719999999,0,0,0,False,True,False,True,0.0,None,0.6778940559827604
-3773387,2021-05-11,2020-21,33,FC Barcelona,LaLiga,36,Levante UD,Away,True,Left Center Forward,Forward,90,Final Whistle,3,3,D,2,6,1,6,0.603065645,0.603065645,1,1,1,True,True,False,True,0.0,None,0.606566129539265
-3773457,2021-05-16,2020-21,33,FC Barcelona,LaLiga,37,Celta Vigo,Home,True,Left Center Forward,Forward,90,Final Whistle,1,2,L,0,8,2,8,0.689255626,0.689255626,1,1,1,True,True,False,True,0.0,None,0.7066056958992787
-3802696,2021-08-29,2021-22,34,Paris Saint-Germain,Ligue 1,4,Stade de Reims,Away,False,Left Wing,Wing,25,Final Whistle,2,0,W,2,0,0,0,0.0,0.0,0,0,0,False,False,False,True,0.0,None,0.25085716465683355
-3802752,2021-09-19,2021-22,34,Paris Saint-Germain,Ligue 1,6,Lyon,Home,True,Center Attacking Midfield,Attacking midfield,75,Substitution - Off (Tactical),2,1,W,2,4,2,4,0.412827836,0.412827836,0,0,0,False,True,False,True,0.0,None,0.3795089129339663
-3802809,2021-10-03,2021-22,34,Paris Saint-Germain,Ligue 1,9,Rennes,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,0,2,L,0,5,0,5,0.374509999,0.374509999,0,0,0,False,True,False,True,0.0,None,0.31245305124676276
-3802902,2021-10-24,2021-22,34,Paris Saint-Germain,Ligue 1,11,Olympique de Marseille,Away,True,Right Wing,Wing,90,Final Whistle,0,0,D,0,4,2,4,0.56594533,0.56594533,0,0,0,False,True,False,True,0.0,None,0.4042643528358963
-3802699,2021-10-29,2021-22,34,Paris Saint-Germain,Ligue 1,12,Lille,Home,True,Center Forward,Forward,45,Substitution - Off (Tactical),2,1,W,2,2,0,2,0.156500045,0.156500045,0,0,0,False,True,False,True,0.0,None,0.5020040677898246
-3802984,2021-11-20,2021-22,34,Paris Saint-Germain,Ligue 1,14,Nantes,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,2,6,4,6,0.7767999560000001,0.7767999560000001,1,1,1,True,True,False,True,0.0,None,0.5391860974195926
-3802837,2021-11-28,2021-22,34,Paris Saint-Germain,Ligue 1,15,Saint-Étienne,Away,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,3,1,W,3,3,1,3,0.520442206,0.520442206,0,0,0,False,True,False,True,0.0,None,0.411932523178645
-3802793,2021-12-01,2021-22,34,Paris Saint-Germain,Ligue 1,16,OGC Nice,Home,True,Center Forward,Forward,90,Final Whistle,0,0,D,0,6,1,6,0.319452385,0.319452385,0,0,0,False,True,False,True,0.0,None,0.5140017596391855
-3802685,2021-12-04,2021-22,34,Paris Saint-Germain,Ligue 1,17,Lens,Away,True,Right Wing,Wing,90,Final Whistle,1,1,D,1,5,0,5,0.32540041,0.32540041,0,0,0,False,True,False,True,0.0,None,0.4002813790020274
-3802683,2021-12-12,2021-22,34,Paris Saint-Germain,Ligue 1,18,AS Monaco,Home,True,Center Forward,Forward,90,Final Whistle,2,0,W,2,4,0,4,0.293860601,0.293860601,0,0,0,False,True,False,True,0.0,None,0.44016223692443884
-3802690,2021-12-22,2021-22,34,Paris Saint-Germain,Ligue 1,19,Lorient,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,1,4,2,4,0.35864499,0.35864499,0,0,0,False,True,False,True,0.0,None,0.39268387491045775
-3802802,2022-01-23,2021-22,34,Paris Saint-Germain,Ligue 1,22,Stade de Reims,Home,False,Right Wing,Wing,28,Final Whistle,4,0,W,4,1,0,1,0.06734042,0.06734042,0,0,0,False,False,False,True,0.0,None,0.2882880726792844
-3802907,2022-02-06,2021-22,34,Paris Saint-Germain,Ligue 1,23,Lille,Away,True,Center Forward,Forward,90,Final Whistle,5,1,W,4,5,3,5,0.87160969,0.87160969,1,1,1,True,True,False,True,0.0,None,0.5775212951669699
-3802795,2022-02-11,2021-22,34,Paris Saint-Germain,Ligue 1,24,Rennes,Home,True,Center Forward,Forward,90,Final Whistle,1,0,W,1,2,0,2,0.063632633,0.063632633,0,0,0,False,True,False,True,0.0,None,0.38291929014377774
-3802839,2022-02-19,2021-22,34,Paris Saint-Germain,Ligue 1,25,Nantes,Away,True,Right Wing,Wing,90,Final Whistle,1,3,L,1,3,1,3,0.55850399,0.55850399,0,0,0,False,True,False,True,0.0,None,0.4081679487023786
-3802709,2022-02-26,2021-22,34,Paris Saint-Germain,Ligue 1,26,Saint-Étienne,Home,True,Right Wing,Wing,90,Final Whistle,3,1,W,3,4,1,4,0.428272636,0.428272636,0,0,0,False,True,False,True,0.0,None,0.4163213536201706
-3802805,2022-03-05,2021-22,34,Paris Saint-Germain,Ligue 1,27,OGC Nice,Away,True,Center Forward,Forward,90,Final Whistle,0,1,L,0,0,0,0,0.0,0.0,0,0,0,False,True,False,True,0.0,None,0.5068396364513568
-3802904,2022-03-13,2021-22,34,Paris Saint-Germain,Ligue 1,28,Bordeaux,Home,True,Right Wing,Wing,90,Final Whistle,3,0,W,3,2,0,2,0.1413527799999999,0.1413527799999999,0,0,0,False,True,False,True,0.0,None,0.47175605618324434
-3802818,2022-04-03,2021-22,34,Paris Saint-Germain,Ligue 1,30,Lorient,Home,True,Right Wing,Wing,90,Final Whistle,5,1,W,4,4,1,4,0.3118264109999999,0.3118264109999999,1,1,1,True,True,False,True,0.0,None,0.4052705680761185
-3803000,2022-04-09,2021-22,34,Paris Saint-Germain,Ligue 1,31,Clermont Foot,Away,True,Right Wing,Wing,90,Final Whistle,6,1,W,6,2,1,2,0.19873539,0.19873539,0,0,0,False,True,False,True,0.0,None,0.4057773778555454
-3802983,2022-04-17,2021-22,34,Paris Saint-Germain,Ligue 1,32,Olympique de Marseille,Home,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,1,0,1,0.06354929,0.06354929,0,0,0,False,True,False,True,0.0,None,0.42661993482437005
-3802676,2022-04-23,2021-22,34,Paris Saint-Germain,Ligue 1,34,Lens,Home,True,Right Wing,Wing,90,Final Whistle,1,1,D,0,4,3,4,0.175371262,0.175371262,1,1,1,True,True,False,True,0.0,None,0.4489618727101247
-3802643,2022-04-29,2021-22,34,Paris Saint-Germain,Ligue 1,35,Strasbourg,Away,True,Right Wing,Wing,90,Final Whistle,3,3,D,3,3,2,3,0.14446403,0.14446403,0,0,0,False,True,False,True,0.0,None,0.39469633766351514
-3802930,2022-05-08,2021-22,34,Paris Saint-Germain,Ligue 1,36,Troyes,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,2,2,D,2,6,0,6,0.426028283,0.426028283,0,0,0,False,True,False,True,0.0,None,0.40424593811743537
-3802665,2022-05-14,2021-22,34,Paris Saint-Germain,Ligue 1,37,Montpellier,Away,True,Center Forward,Forward,90,Final Whistle,4,0,W,2,6,4,6,1.5085825700000002,1.5085825700000002,2,2,2,True,True,False,True,0.0,None,0.5732587851415393
-3802948,2022-05-21,2021-22,34,Paris Saint-Germain,Ligue 1,38,Metz,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,5,0,W,5,3,0,3,0.199959268,0.199959268,0,0,0,False,True,False,True,0.0,None,0.41308812396017835
-3837650,2022-08-06,2022-23,35,Paris Saint-Germain,Ligue 1,1,Clermont Foot,Away,True,Center Forward,Forward,90,Final Whistle,5,0,W,3,6,4,6,1.035569205,1.035569205,2,2,2,True,True,False,True,0.0,None,0.5973984795989997
-3837659,2022-08-13,2022-23,35,Paris Saint-Germain,Ligue 1,2,Montpellier,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,5,2,W,5,5,3,5,0.427126812,0.427126812,0,0,0,False,True,False,True,0.0,None,0.5048166111287716
-3837662,2022-08-21,2022-23,35,Paris Saint-Germain,Ligue 1,3,Lille,Away,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,7,1,W,6,2,2,2,0.46675142,0.46675142,1,1,1,True,True,False,True,0.0,None,0.5250833919292809
-3837680,2022-08-28,2022-23,35,Paris Saint-Germain,Ligue 1,4,AS Monaco,Home,True,Right Attacking Midfield,Attacking midfield,86,Substitution - Off (Tactical),1,1,D,1,2,0,2,0.071626976,0.071626976,0,0,0,False,True,False,True,0.0,None,0.34757728499691015
-3837683,2022-08-31,2022-23,35,Paris Saint-Germain,Ligue 1,5,Toulouse,Away,True,Right Attacking Midfield,Attacking midfield,82,Substitution - Off (Tactical),3,0,W,3,7,4,7,0.69807559,0.69807559,0,0,0,False,True,False,True,0.0,None,0.4073921268489628
-3837695,2022-09-03,2022-23,35,Paris Saint-Germain,Ligue 1,6,Nantes,Away,True,Center Forward,Forward,90,Final Whistle,3,0,W,3,6,1,6,0.5405571060000001,0.5405571060000001,0,0,0,False,True,False,True,0.0,None,0.4599822734969865
-3837706,2022-09-10,2022-23,35,Paris Saint-Germain,Ligue 1,7,Stade Brestois,Home,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,1,0,W,1,4,2,4,0.54584869,0.54584869,0,0,0,False,True,False,True,0.0,None,0.37527148927000387
-3837717,2022-09-18,2022-23,35,Paris Saint-Germain,Ligue 1,8,Lyon,Away,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,1,0,W,0,7,4,7,0.76011993,0.76011993,1,1,1,True,True,False,True,0.0,None,0.5162205769819972
-3837727,2022-10-01,2022-23,35,Paris Saint-Germain,Ligue 1,9,OGC Nice,Home,True,Right Attacking Midfield,Attacking midfield,87,Substitution - Off (Tactical),2,1,W,1,4,2,4,0.180701265,0.180701265,1,1,1,True,True,False,True,0.0,None,0.5357684837380653
-3837747,2022-10-16,2022-23,35,Paris Saint-Germain,Ligue 1,11,Olympique de Marseille,Home,True,Right Center Forward,Forward,79,Substitution - Off (Tactical),1,0,W,1,6,3,6,0.552639616,0.552639616,0,0,0,False,True,False,True,0.0,None,0.5498330465311415
-3837752,2022-10-21,2022-23,35,Paris Saint-Germain,Ligue 1,12,AC Ajaccio,Away,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,2,2,2,2,0.958432877,0.958432877,1,1,1,True,True,False,True,0.0,None,0.5598214913341915
-3837771,2022-10-29,2022-23,35,Paris Saint-Germain,Ligue 1,13,Troyes,Home,True,Right Wing,Wing,90,Final Whistle,4,3,W,3,3,2,3,0.118562646,0.118562646,1,1,1,True,True,False,True,0.0,None,0.4787773898200275
-3837785,2022-11-13,2022-23,35,Paris Saint-Germain,Ligue 1,15,Auxerre,Home,True,Right Center Forward,Forward,74,Substitution - Off (Tactical),5,0,W,5,2,0,2,0.13843819,0.13843819,0,0,0,False,True,False,True,0.0,None,0.4878364081697911
-3837818,2023-01-11,2022-23,35,Paris Saint-Germain,Ligue 1,18,Angers,Home,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,2,0,W,1,2,1,2,0.39105531,0.39105531,1,1,1,True,True,False,True,0.0,None,0.5206269972661601
-3837827,2023-01-15,2022-23,35,Paris Saint-Germain,Ligue 1,19,Rennes,Away,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,0,1,L,0,3,0,3,0.269571465,0.269571465,0,0,0,False,True,False,True,0.0,None,0.3227908654959768
-3837839,2023-01-29,2022-23,35,Paris Saint-Germain,Ligue 1,20,Stade de Reims,Home,True,Center Attacking Midfield,Attacking midfield,90,Final Whistle,1,1,D,1,4,0,4,0.442446386,0.442446386,0,0,0,False,True,False,True,0.0,None,0.3813714531710182
-3837844,2023-02-01,2022-23,35,Paris Saint-Germain,Ligue 1,21,Montpellier,Away,True,Right Center Forward,Forward,90,Final Whistle,3,1,W,2,9,2,9,1.208648089,1.208648089,1,1,1,True,True,False,True,0.0,None,0.6316665322719164
-3837859,2023-02-04,2022-23,35,Paris Saint-Germain,Ligue 1,22,Toulouse,Home,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,1,6,1,6,0.428056654,0.428056654,1,1,1,True,True,False,True,0.0,None,0.6113268925560902
-3837876,2023-02-19,2022-23,35,Paris Saint-Germain,Ligue 1,24,Lille,Home,True,Right Center Forward,Forward,90,Final Whistle,4,3,W,3,2,2,2,0.294154605,0.294154605,1,1,1,True,True,False,True,0.0,None,0.5534773957389433
-3837885,2023-02-26,2022-23,35,Paris Saint-Germain,Ligue 1,25,Olympique de Marseille,Away,True,Right Center Forward,Forward,90,Final Whistle,3,0,W,2,2,1,2,0.83443721,0.83443721,1,1,1,True,True,False,True,0.0,None,0.6410460009945932
-3837896,2023-03-04,2022-23,35,Paris Saint-Germain,Ligue 1,26,Nantes,Home,True,Right Center Forward,Forward,90,Final Whistle,4,2,W,3,7,4,7,0.5319496015,0.5319496015,1,1,1,True,True,False,True,0.0,None,0.6060280170319883
-3837902,2023-03-11,2022-23,35,Paris Saint-Germain,Ligue 1,27,Stade Brestois,Away,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,2,4,1,4,0.28589495,0.28589495,0,0,0,False,True,False,True,0.0,None,0.5105512032000354
-3837918,2023-03-19,2022-23,35,Paris Saint-Germain,Ligue 1,28,Rennes,Home,True,Right Center Forward,Forward,90,Final Whistle,0,2,L,0,4,2,4,0.271216963,0.271216963,0,0,0,False,True,False,True,0.0,None,0.3730942149098008
-3837928,2023-04-02,2022-23,35,Paris Saint-Germain,Ligue 1,29,Lyon,Home,True,Right Center Forward,Forward,90,Final Whistle,0,1,L,0,3,1,3,0.108429745,0.108429745,0,0,0,False,True,False,True,0.0,None,0.4655165082864654
-3837938,2023-04-08,2022-23,35,Paris Saint-Germain,Ligue 1,30,OGC Nice,Away,True,Right Center Forward,Forward,90,Final Whistle,2,0,W,1,3,2,3,0.209205546,0.209205546,1,1,1,True,True,False,True,0.0,None,0.5898324262076193
-3837947,2023-04-15,2022-23,35,Paris Saint-Germain,Ligue 1,31,Lens,Home,True,Right Center Forward,Forward,90,Final Whistle,3,1,W,2,5,1,5,0.502830342,0.502830342,1,1,1,True,True,False,True,0.0,None,0.5488358131493719
-3837954,2023-04-21,2022-23,35,Paris Saint-Germain,Ligue 1,32,Angers,Away,True,Right Center Forward,Forward,90,Final Whistle,2,1,W,2,2,1,2,0.260472054,0.260472054,0,0,0,False,True,False,True,0.0,None,0.5951994709635948
-3837963,2023-04-30,2022-23,35,Paris Saint-Germain,Ligue 1,33,Lorient,Home,True,Right Center Forward,Forward,90,Final Whistle,1,3,L,1,1,0,1,0.039323296,0.039323296,0,0,0,False,True,False,True,0.0,None,0.4017428691906182
-3837987,2023-05-13,2022-23,35,Paris Saint-Germain,Ligue 1,35,AC Ajaccio,Home,True,Right Attacking Midfield,Attacking midfield,90,Final Whistle,5,0,W,5,3,0,3,0.169274428,0.169274428,0,0,0,False,True,False,True,0.0,None,0.4866769491660426
-3837998,2023-05-21,2022-23,35,Paris Saint-Germain,Ligue 1,36,Auxerre,Away,True,Right Wing,Wing,90,Final Whistle,2,1,W,2,4,1,4,0.294325232,0.294325232,0,0,0,False,True,False,True,0.0,None,0.3788067989332552
-3838004,2023-05-27,2022-23,35,Paris Saint-Germain,Ligue 1,37,Strasbourg,Away,True,Right Center Forward,Forward,90,Final Whistle,1,1,D,0,3,1,3,0.301137106,0.301137106,1,1,1,True,True,False,True,0.0,None,0.598586842009103
-3838017,2023-06-03,2022-23,35,Paris Saint-Germain,Ligue 1,38,Clermont Foot,Home,True,Right Center Forward,Forward,90,Final Whistle,2,3,L,2,6,3,6,0.529808187,0.529808187,0,0,0,False,True,False,True,0.0,None,0.5467611128452329
+match_id,date,season,age,club,opponent,venue,started,position_group,messi_goals,scored,pred_scored_prob,pred_goals_if_scored,expected_goals
+68353,2004-10-16,2004-05,17,FC Barcelona,Espanyol,Away,False,Other,0,False,0.22734370234069579,0.0,0.0
+68313,2004-10-24,2004-05,17,FC Barcelona,Osasuna,Home,False,Wing,0,False,0.3075420376437774,0.0,0.0
+68314,2004-12-04,2004-05,17,FC Barcelona,Málaga,Home,False,Other,0,False,0.17691502708570955,0.0,0.0
+69153,2004-12-11,2004-05,17,FC Barcelona,Albacete,Away,False,Other,0,False,0.23125178751088654,0.0,0.0
+68315,2004-12-21,2004-05,17,FC Barcelona,Levante UD,Home,False,Other,0,False,0.26432886967767455,0.0,0.0
+68352,2005-04-17,2004-05,17,FC Barcelona,Getafe,Home,False,Forward,0,False,0.42311293299890523,0.0,0.0
+68316,2005-05-01,2004-05,17,FC Barcelona,Albacete,Home,False,Forward,1,True,0.6240884306739173,1.09,0.68
+68317,2005-10-01,2005-06,18,FC Barcelona,Real Zaragoza,Home,False,Wing,0,False,0.2606369338497542,0.0,0.0
+68318,2005-10-22,2005-06,18,FC Barcelona,Osasuna,Home,True,Wing,0,False,0.34867265696783434,0.0,0.0
+69164,2005-10-26,2005-06,18,FC Barcelona,Málaga,Home,False,Wing,0,False,0.21106153530363356,0.0,0.0
+68339,2005-11-06,2005-06,18,FC Barcelona,Getafe,Away,False,Wing,0,False,0.22885309919536856,0.0,0.0
+68319,2005-11-19,2005-06,18,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.27320806604019243,0.0,0.0
+68354,2005-11-27,2005-06,18,FC Barcelona,Racing Santander,Home,True,Wing,1,True,0.3508447600010019,0.0,0.0
+68320,2005-12-04,2005-06,18,FC Barcelona,Villarreal,Away,True,Wing,0,False,0.26678974731794247,0.0,0.0
+68321,2005-12-11,2005-06,18,FC Barcelona,Sevilla,Home,True,Wing,0,False,0.37988593730974357,0.0,0.0
+68322,2005-12-17,2005-06,18,FC Barcelona,Cádiz,Away,True,Wing,0,False,0.28369067229663797,0.0,0.0
+68323,2005-12-20,2005-06,18,FC Barcelona,Celta Vigo,Home,True,Wing,0,False,0.47505693612890204,0.0,0.0
+68348,2006-01-07,2005-06,18,FC Barcelona,Espanyol,Away,True,Wing,0,False,0.2976984554269811,0.0,0.0
+68342,2006-01-15,2005-06,18,FC Barcelona,Athletic Club,Home,True,Wing,1,True,0.45509946821240277,0.0,0.0
+68324,2006-01-22,2005-06,18,FC Barcelona,Deportivo Alavés,Home,False,Forward,1,True,0.48974534546872833,0.0,0.0
+68325,2006-01-29,2005-06,18,FC Barcelona,Mallorca,Away,False,Forward,2,True,0.5600223823949609,1.51,0.85
+68350,2006-02-05,2005-06,18,FC Barcelona,Atlético Madrid,Home,True,Wing,0,False,0.419338761056526,0.0,0.0
+69172,2006-02-18,2005-06,18,FC Barcelona,Real Betis,Home,False,Forward,1,True,0.5985544300972991,1.29,0.77
+68351,2006-02-25,2005-06,18,FC Barcelona,Real Zaragoza,Away,True,Wing,0,False,0.31036474386540835,0.0,0.0
+68326,2006-08-28,2006-07,19,FC Barcelona,Celta Vigo,Away,True,Wing,1,True,0.45854414794029374,0.0,0.0
+68327,2006-09-09,2006-07,19,FC Barcelona,Osasuna,Home,True,Wing,1,True,0.488670813110454,0.0,0.0
+68340,2006-09-17,2006-07,19,FC Barcelona,Racing Santander,Away,True,Wing,0,False,0.30592419160133827,0.0,0.0
+68328,2006-09-24,2006-07,19,FC Barcelona,Valencia,Home,True,Wing,0,False,0.3304875617592867,0.0,0.0
+68347,2006-09-30,2006-07,19,FC Barcelona,Athletic Club,Away,True,Wing,0,False,0.30060217180036625,0.0,0.0
+68329,2006-10-15,2006-07,19,FC Barcelona,Sevilla,Home,True,Wing,1,True,0.4040045658232457,0.0,0.0
+68330,2006-10-22,2006-07,19,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.30954045336657626,0.0,0.0
+69174,2006-11-04,2006-07,19,FC Barcelona,RC Deportivo La Coruña,Away,True,Wing,0,False,0.3295572585860971,0.0,0.0
+68331,2006-11-12,2006-07,19,FC Barcelona,Real Zaragoza,Home,True,Wing,0,False,0.36898308398078344,0.0,0.0
+69154,2007-02-11,2006-07,19,FC Barcelona,Racing Santander,Home,False,Forward,0,False,0.4015905896412774,0.0,0.0
+68332,2007-02-18,2006-07,19,FC Barcelona,Valencia,Away,False,Forward,0,False,0.30027806247307837,0.0,0.0
+68333,2007-02-25,2006-07,19,FC Barcelona,Athletic Club,Home,False,Forward,0,False,0.41973544729387124,0.0,0.0
+68334,2007-03-03,2006-07,19,FC Barcelona,Sevilla,Away,True,Wing,0,False,0.34652081482265373,0.0,0.0
+68335,2007-03-10,2006-07,19,FC Barcelona,Real Madrid,Home,True,Wing,3,True,0.5235336177992366,1.63,0.85
+68341,2007-03-17,2006-07,19,FC Barcelona,Recreativo Huelva,Away,True,Wing,1,True,0.5093362998005484,1.06,0.54
+69175,2007-03-31,2006-07,19,FC Barcelona,RC Deportivo La Coruña,Home,True,Wing,1,True,0.5083740324704311,1.08,0.55
+69179,2007-04-07,2006-07,19,FC Barcelona,Real Zaragoza,Away,True,Wing,0,False,0.3354792283885335,0.0,0.0
+69159,2007-04-15,2006-07,19,FC Barcelona,Mallorca,Home,True,Wing,0,False,0.4312323470408259,0.0,0.0
+69155,2007-04-22,2006-07,19,FC Barcelona,Villarreal,Away,True,Wing,0,False,0.33788601849728744,0.0,0.0
+69156,2007-04-29,2006-07,19,FC Barcelona,Levante UD,Home,True,Wing,0,False,0.43194468421083315,0.0,0.0
+69160,2007-05-05,2006-07,19,FC Barcelona,Real Sociedad,Away,True,Wing,0,False,0.330056791627309,0.0,0.0
+69162,2007-05-13,2006-07,19,FC Barcelona,Real Betis,Home,True,Wing,0,False,0.39338775904741746,0.0,0.0
+69176,2007-05-20,2006-07,19,FC Barcelona,Atlético Madrid,Away,True,Wing,2,True,0.4853586785128022,0.0,0.0
+69157,2007-05-26,2006-07,19,FC Barcelona,Getafe,Home,True,Wing,0,False,0.39316240219476556,0.0,0.0
+69165,2007-06-09,2006-07,19,FC Barcelona,Espanyol,Home,True,Wing,2,True,0.516514739766521,1.65,0.85
+68336,2007-06-17,2006-07,19,FC Barcelona,Gimnàstic Tarragona,Away,True,Wing,2,True,0.5738745986361778,1.66,0.95
+69180,2007-08-26,2007-08,20,FC Barcelona,Racing Santander,Away,True,Wing,0,False,0.3287426166828442,0.0,0.0
+69169,2007-09-02,2007-08,20,FC Barcelona,Athletic Club,Home,True,Wing,0,False,0.418208340624407,0.0,0.0
+69148,2007-09-22,2007-08,20,FC Barcelona,Sevilla,Home,True,Wing,2,True,0.5210663166905865,1.74,0.91
+69151,2007-09-29,2007-08,20,FC Barcelona,Levante UD,Away,True,Wing,1,True,0.38434156709783157,0.0,0.0
+69144,2007-10-07,2007-08,20,FC Barcelona,Atlético Madrid,Home,True,Wing,1,True,0.49130843682347036,0.0,0.0
+68364,2007-10-20,2007-08,20,FC Barcelona,Villarreal,Away,True,Wing,0,False,0.31334777771583994,0.0,0.0
+69158,2007-10-28,2007-08,20,FC Barcelona,Almería,Home,False,Wing,1,True,0.5194419254573412,1.18,0.61
+68363,2007-11-01,2007-08,20,FC Barcelona,Real Valladolid,Away,True,Wing,0,False,0.29354866788551165,0.0,0.0
+69166,2007-11-04,2007-08,20,FC Barcelona,Real Betis,Home,True,Wing,0,False,0.39166569872813994,0.0,0.0
+69178,2007-11-10,2007-08,20,FC Barcelona,Getafe,Away,True,Wing,0,False,0.30554471052347626,0.0,0.0
+69184,2007-11-24,2007-08,20,FC Barcelona,Recreativo Huelva,Home,True,Wing,1,True,0.5350209411469493,1.69,0.9
+68356,2007-12-01,2007-08,20,FC Barcelona,Espanyol,Away,True,Wing,0,False,0.33249031859476813,0.0,0.0
+69170,2007-12-09,2007-08,20,FC Barcelona,RC Deportivo La Coruña,Home,True,Wing,0,False,0.4330714454757141,0.0,0.0
+69145,2007-12-15,2007-08,20,FC Barcelona,Valencia,Away,True,Wing,0,False,0.3157769112574769,0.0,0.0
+69173,2008-01-20,2007-08,20,FC Barcelona,Racing Santander,Home,False,Wing,0,False,0.31350993394374627,0.0,0.0
+69181,2008-01-27,2007-08,20,FC Barcelona,Athletic Club,Away,True,Wing,0,False,0.3256312433973578,0.0,0.0
+69187,2008-02-03,2007-08,20,FC Barcelona,Osasuna,Home,True,Wing,0,False,0.4339447520668629,0.0,0.0
+69146,2008-02-09,2007-08,20,FC Barcelona,Sevilla,Away,True,Wing,0,False,0.3480607023033705,0.0,0.0
+69182,2008-02-16,2007-08,20,FC Barcelona,Real Zaragoza,Away,True,Wing,0,False,0.32409947755232643,0.0,0.0
+68360,2008-02-24,2007-08,20,FC Barcelona,Levante UD,Home,True,Wing,1,True,0.5136192064639856,1.06,0.54
+68365,2008-03-01,2007-08,20,FC Barcelona,Atlético Madrid,Away,False,Forward,0,False,0.3309027562550196,0.0,0.0
+68358,2008-04-12,2007-08,20,FC Barcelona,Recreativo Huelva,Away,False,Wing,0,False,0.38756495759243936,0.0,0.0
+68359,2008-04-19,2007-08,20,FC Barcelona,Espanyol,Home,False,Wing,0,False,0.35118803107972935,0.0,0.0
+69141,2008-05-04,2007-08,20,FC Barcelona,Valencia,Home,True,Wing,1,True,0.4684496177502322,0.0,0.0
+68361,2008-05-07,2007-08,20,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.44865096597168486,0.0,0.0
+68366,2008-05-11,2007-08,20,FC Barcelona,Mallorca,Home,True,Wing,0,False,0.438389388384778,0.0,0.0
+69186,2008-05-17,2007-08,20,FC Barcelona,Real Murcia CF,Away,True,Wing,0,False,0.4243577602455249,0.0,0.0
+69147,2008-08-31,2008-09,21,FC Barcelona,CD Numancia de Soria,Away,True,Wing,0,False,0.4432814810941368,0.0,0.0
+69215,2008-09-13,2008-09,21,FC Barcelona,Racing Santander,Home,False,Other,1,True,0.6141564874629741,1.29,0.79
+69138,2008-09-21,2008-09,21,FC Barcelona,Sporting Gijón,Away,True,Wing,2,True,0.5040854120225184,1.67,0.84
+69207,2008-09-24,2008-09,21,FC Barcelona,Real Betis,Home,True,Wing,0,False,0.4523656651673365,0.0,0.0
+69211,2008-09-27,2008-09,21,FC Barcelona,Espanyol,Away,True,Wing,1,True,0.514319387456114,1.73,0.89
+69212,2008-10-04,2008-09,21,FC Barcelona,Atlético Madrid,Home,True,Wing,1,True,0.5636785938268856,1.3,0.73
+69232,2008-10-25,2008-09,21,FC Barcelona,Almería,Home,True,Wing,0,False,0.5839920056680813,1.07,0.62
+69235,2008-11-01,2008-09,21,FC Barcelona,Málaga,Away,True,Wing,1,True,0.4371016841153144,0.0,0.0
+69279,2008-11-08,2008-09,21,FC Barcelona,Real Valladolid,Home,True,Wing,0,False,0.5363994312839505,1.1,0.59
+69285,2008-11-16,2008-09,21,FC Barcelona,Recreativo Huelva,Away,True,Wing,1,True,0.5707260289520129,1.32,0.75
+69171,2008-11-29,2008-09,21,FC Barcelona,Sevilla,Away,True,Wing,2,True,0.5954592902990619,1.51,0.9
+69149,2008-12-06,2008-09,21,FC Barcelona,Valencia,Home,True,Wing,0,False,0.5671120325027171,1.06,0.6
+69225,2008-12-13,2008-09,21,FC Barcelona,Real Madrid,Home,True,Wing,1,True,0.5755032600063414,1.32,0.76
+69228,2008-12-21,2008-09,21,FC Barcelona,Villarreal,Away,True,Wing,0,False,0.4933754667620669,0.0,0.0
+69230,2009-01-11,2008-09,21,FC Barcelona,Osasuna,Away,True,Wing,1,True,0.5673953012036972,1.12,0.64
+69183,2009-01-17,2008-09,21,FC Barcelona,RC Deportivo La Coruña,Home,True,Wing,1,True,0.6377447450767575,1.24,0.79
+69189,2009-01-24,2008-09,21,FC Barcelona,CD Numancia de Soria,Home,True,Wing,2,True,0.5795221442630324,2.04,1.18
+69209,2009-02-01,2008-09,21,FC Barcelona,Racing Santander,Away,False,Other,2,True,0.5857846469053832,1.08,0.63
+69231,2009-02-08,2008-09,21,FC Barcelona,Sporting Gijón,Home,True,Wing,0,False,0.5711664950787326,1.07,0.61
+69195,2009-02-14,2008-09,21,FC Barcelona,Real Betis,Away,False,Wing,0,False,0.39094683148413784,0.0,0.0
+69139,2009-02-21,2008-09,21,FC Barcelona,Espanyol,Home,True,Wing,0,False,0.5668914485885252,1.16,0.66
+69185,2009-03-01,2008-09,21,FC Barcelona,Atlético Madrid,Away,True,Wing,1,True,0.5315931381072927,1.2,0.64
+69216,2009-03-07,2008-09,21,FC Barcelona,Athletic Club,Home,True,Wing,1,True,0.6157275287179816,1.16,0.71
+69177,2009-03-15,2008-09,21,FC Barcelona,Almería,Away,True,Wing,0,False,0.5345431189277469,1.07,0.57
+69142,2009-03-22,2008-09,21,FC Barcelona,Málaga,Home,True,Wing,1,True,0.4595388583809468,0.0,0.0
+69273,2009-04-04,2008-09,21,FC Barcelona,Real Valladolid,Away,False,Wing,0,False,0.358477246594417,0.0,0.0
+69222,2009-04-11,2008-09,21,FC Barcelona,Recreativo Huelva,Home,True,Wing,0,False,0.5604829190757986,1.24,0.69
+69223,2009-04-18,2008-09,21,FC Barcelona,Getafe,Away,True,Wing,1,True,0.4899553156044606,0.0,0.0
+69251,2009-04-25,2008-09,21,FC Barcelona,Valencia,Away,True,Wing,1,True,0.5510752232420775,1.07,0.59
+69249,2009-05-02,2008-09,21,FC Barcelona,Real Madrid,Away,True,Wing,2,True,0.5438157585687727,2.12,1.15
+69217,2009-05-10,2008-09,21,FC Barcelona,Villarreal,Home,True,Wing,0,False,0.5320204457968412,1.07,0.57
+69229,2009-09-12,2009-10,22,FC Barcelona,Getafe,Away,False,Wing,1,True,0.5101926995212046,1.13,0.58
+69292,2009-09-19,2009-10,22,FC Barcelona,Atlético Madrid,Home,True,Wing,2,True,0.5946280484986337,1.29,0.77
+69254,2009-09-22,2009-10,22,FC Barcelona,Racing Santander,Away,True,Wing,2,True,0.5180830186863122,1.14,0.59
+69255,2009-09-26,2009-10,22,FC Barcelona,Málaga,Away,True,Wing,0,False,0.3980127906982643,0.0,0.0
+69256,2009-10-03,2009-10,22,FC Barcelona,Almería,Home,True,Wing,0,False,0.5044261494736656,1.07,0.54
+69252,2009-10-17,2009-10,22,FC Barcelona,Valencia,Away,True,Forward,0,False,0.48313314176832906,0.0,0.0
+69253,2009-10-25,2009-10,22,FC Barcelona,Real Zaragoza,Home,True,Wing,1,True,0.5836464340205171,1.47,0.86
+69277,2009-10-31,2009-10,22,FC Barcelona,Osasuna,Away,True,Wing,0,False,0.5697009791880046,1.44,0.82
+69250,2009-11-07,2009-10,22,FC Barcelona,Mallorca,Home,False,Wing,1,True,0.5795075673403178,1.39,0.81
+69288,2009-11-21,2009-10,22,FC Barcelona,Athletic Club,Away,True,Forward,0,False,0.5799461847239064,1.12,0.65
+69262,2009-11-29,2009-10,22,FC Barcelona,Real Madrid,Home,True,Wing,0,False,0.5194938098584881,1.07,0.56
+69267,2009-12-02,2009-10,22,FC Barcelona,Xerez,Away,False,Wing,0,False,0.41358398548112113,0.0,0.0
+69218,2009-12-05,2009-10,22,FC Barcelona,RC Deportivo La Coruña,Away,True,Wing,2,True,0.5663263139012082,1.74,0.99
+69219,2010-01-10,2009-10,22,FC Barcelona,Tenerife,Away,True,Wing,3,True,0.5857842234082377,2.02,1.18
+69243,2010-01-16,2009-10,22,FC Barcelona,Sevilla,Home,True,Wing,2,True,0.6878844194478201,1.65,1.14
+69210,2010-01-23,2009-10,22,FC Barcelona,Real Valladolid,Away,True,Wing,1,True,0.507578884298559,1.09,0.55
+69220,2010-01-30,2009-10,22,FC Barcelona,Sporting Gijón,Away,True,Wing,0,False,0.5278848109863724,1.11,0.59
+69240,2010-02-06,2009-10,22,FC Barcelona,Getafe,Home,True,Wing,1,True,0.5956723232751551,1.23,0.73
+69237,2010-02-14,2009-10,22,FC Barcelona,Atlético Madrid,Away,True,Wing,0,False,0.5415680043413519,1.32,0.71
+69233,2010-02-20,2009-10,22,FC Barcelona,Racing Santander,Home,True,Wing,0,False,0.5775532501961552,1.06,0.61
+69238,2010-02-27,2009-10,22,FC Barcelona,Málaga,Home,True,Attacking midfield,1,True,0.48278871980026605,0.0,0.0
+69226,2010-03-06,2009-10,22,FC Barcelona,Almería,Away,True,Wing,2,True,0.5606024282401091,1.49,0.84
+69224,2010-03-14,2009-10,22,FC Barcelona,Valencia,Home,True,Forward,3,True,0.715398731842936,1.69,1.21
+69227,2010-03-21,2009-10,22,FC Barcelona,Real Zaragoza,Away,True,Wing,3,True,0.5039824402966308,2.05,1.03
+69257,2010-03-24,2009-10,22,FC Barcelona,Osasuna,Home,True,Wing,0,False,0.5907615163162933,1.12,0.66
+69298,2010-03-27,2009-10,22,FC Barcelona,Mallorca,Away,False,Other,0,False,0.3984443852534431,0.0,0.0
+69247,2010-04-03,2009-10,22,FC Barcelona,Athletic Club,Home,True,Forward,1,True,0.7161896803112326,1.41,1.01
+69259,2010-04-10,2009-10,22,FC Barcelona,Real Madrid,Away,True,Forward,1,True,0.6507331646459604,1.08,0.7
+69221,2010-04-14,2009-10,22,FC Barcelona,RC Deportivo La Coruña,Home,True,Other,0,False,0.5143093634797947,1.34,0.69
+69213,2010-04-17,2009-10,22,FC Barcelona,Espanyol,Away,True,Forward,0,False,0.5406100875863977,1.11,0.6
+69214,2010-04-24,2009-10,22,FC Barcelona,Xerez,Home,False,Wing,0,False,0.4291381230159173,0.0,0.0
+69244,2010-05-01,2009-10,22,FC Barcelona,Villarreal,Away,True,Wing,2,True,0.5092628130226647,1.56,0.79
+69241,2010-05-04,2009-10,22,FC Barcelona,Tenerife,Home,True,Wing,2,True,0.6087844088174825,1.45,0.88
+69239,2010-05-08,2009-10,22,FC Barcelona,Sevilla,Away,True,Wing,1,True,0.5852963930950594,1.59,0.93
+69242,2010-05-16,2009-10,22,FC Barcelona,Real Valladolid,Home,True,Wing,2,True,0.5429549516233626,1.68,0.91
+69286,2010-08-29,2010-11,23,FC Barcelona,Racing Santander,Away,True,Wing,1,True,0.5531344937625127,1.37,0.76
+69287,2010-09-11,2010-11,23,FC Barcelona,Hércules,Home,True,Wing,0,False,0.46689240087646094,0.0,0.0
+69269,2010-09-19,2010-11,23,FC Barcelona,Atlético Madrid,Away,True,Attacking midfield,1,True,0.572368207211763,1.33,0.76
+69236,2010-10-03,2010-11,23,FC Barcelona,Mallorca,Home,True,Forward,1,True,0.6655823293325899,1.52,1.01
+69260,2010-10-16,2010-11,23,FC Barcelona,Valencia,Home,True,Wing,0,False,0.47006381720326457,0.0,0.0
+69263,2010-10-23,2010-11,23,FC Barcelona,Real Zaragoza,Away,True,Attacking midfield,2,True,0.6048828321360303,1.64,0.99
+69289,2010-10-30,2010-11,23,FC Barcelona,Sevilla,Home,True,Wing,2,True,0.689389798272366,1.27,0.88
+69270,2010-11-07,2010-11,23,FC Barcelona,Getafe,Away,True,Forward,1,True,0.5814290600572799,1.49,0.87
+69308,2010-11-13,2010-11,23,FC Barcelona,Villarreal,Home,True,Forward,2,True,0.6755336269453942,1.47,0.99
+69306,2010-11-20,2010-11,23,FC Barcelona,Almería,Away,True,Forward,3,True,0.6164422165955823,2.57,1.58
+69299,2010-11-29,2010-11,23,FC Barcelona,Real Madrid,Home,True,Forward,0,False,0.5997838112073185,1.09,0.65
+69307,2010-12-04,2010-11,23,FC Barcelona,Osasuna,Away,True,Forward,2,True,0.6742637431284006,1.77,1.19
+69302,2010-12-12,2010-11,23,FC Barcelona,Real Sociedad,Home,True,Forward,2,True,0.7101047637074616,1.58,1.12
+69275,2010-12-18,2010-11,23,FC Barcelona,Espanyol,Away,True,Forward,0,False,0.5551328418847226,1.21,0.67
+69280,2011-01-08,2010-11,23,FC Barcelona,RC Deportivo La Coruña,Away,True,Forward,1,True,0.6930767506640546,1.1,0.76
+69278,2011-01-16,2010-11,23,FC Barcelona,Málaga,Home,True,Forward,0,False,0.5713884070405363,1.12,0.64
+69295,2011-01-22,2010-11,23,FC Barcelona,Racing Santander,Home,True,Forward,1,True,0.7297770775917433,1.19,0.87
+69296,2011-01-29,2010-11,23,FC Barcelona,Hércules,Away,True,Forward,2,True,0.6502328196115156,2.2,1.43
+69276,2011-02-05,2010-11,23,FC Barcelona,Atlético Madrid,Home,True,Forward,3,True,0.7368383865498657,1.67,1.23
+69248,2011-02-12,2010-11,23,FC Barcelona,Sporting Gijón,Away,True,Forward,0,False,0.6096928767547356,1.13,0.69
+69282,2011-02-20,2010-11,23,FC Barcelona,Athletic Club,Home,True,Wing,1,True,0.631371896819844,1.46,0.92
+69283,2011-02-26,2010-11,23,FC Barcelona,Mallorca,Away,True,Forward,1,True,0.7199803913313425,1.4,1.01
+69274,2011-03-02,2010-11,23,FC Barcelona,Valencia,Away,True,Attacking midfield,1,True,0.6057708967469233,1.6,0.97
+69300,2011-03-05,2010-11,23,FC Barcelona,Real Zaragoza,Home,True,Wing,0,False,0.5516679068544236,1.72,0.95
+69291,2011-03-13,2010-11,23,FC Barcelona,Sevilla,Away,True,Wing,0,False,0.548440774220254,1.67,0.92
+69303,2011-03-19,2010-11,23,FC Barcelona,Getafe,Home,True,Wing,0,False,0.5671961849420591,1.12,0.64
+69304,2011-04-02,2010-11,23,FC Barcelona,Villarreal,Away,False,Other,0,False,0.3926370176428576,0.0,0.0
+69305,2011-04-09,2010-11,23,FC Barcelona,Almería,Home,True,Forward,2,True,0.7470954932607112,1.46,1.09
+69245,2011-04-16,2010-11,23,FC Barcelona,Real Madrid,Away,True,Forward,1,True,0.6672570546399692,1.39,0.93
+69271,2011-04-23,2010-11,23,FC Barcelona,Osasuna,Home,False,Forward,1,True,0.7176588635853963,1.14,0.82
+69246,2011-04-30,2010-11,23,FC Barcelona,Real Sociedad,Away,True,Forward,0,False,0.6124307878728408,1.08,0.66
+69234,2011-05-08,2010-11,23,FC Barcelona,Espanyol,Home,True,Forward,0,False,0.601059214568232,1.12,0.67
+69272,2011-05-11,2010-11,23,FC Barcelona,Levante UD,Away,True,Forward,0,False,0.6067013768425895,1.47,0.89
+69268,2011-08-29,2011-12,24,FC Barcelona,Villarreal,Home,True,Forward,2,True,0.6995671011419267,1.8,1.26
+69264,2011-09-10,2011-12,24,FC Barcelona,Real Sociedad,Away,False,Other,0,False,0.36641571706013115,0.0,0.0
+70220,2011-09-17,2011-12,24,FC Barcelona,Osasuna,Home,True,Forward,3,True,0.7188883283239992,3.04,2.19
+70223,2011-09-21,2011-12,24,FC Barcelona,Valencia,Away,True,Forward,0,False,0.46940778164062663,0.0,0.0
+69297,2011-09-24,2011-12,24,FC Barcelona,Atlético Madrid,Home,True,Forward,3,True,0.6640746423581121,1.49,0.99
+69265,2011-10-02,2011-12,24,FC Barcelona,Sporting Gijón,Away,True,Forward,0,False,0.5152356684544382,1.3,0.67
+69293,2011-10-15,2011-12,24,FC Barcelona,Racing Santander,Home,True,Forward,2,True,0.6949870022850246,1.52,1.06
+69329,2011-10-22,2011-12,24,FC Barcelona,Sevilla,Home,True,Forward,0,False,0.6655330056958455,1.59,1.06
+69318,2011-10-25,2011-12,24,FC Barcelona,Granada,Away,True,Forward,0,False,0.5525386827565085,1.59,0.88
+69314,2011-10-29,2011-12,24,FC Barcelona,Mallorca,Home,True,Attacking midfield,3,True,0.6629976399133497,2.05,1.36
+69330,2011-11-06,2011-12,24,FC Barcelona,Athletic Club,Away,True,Forward,1,True,0.6348905981812087,1.15,0.73
+69331,2011-11-19,2011-12,24,FC Barcelona,Real Zaragoza,Home,True,Forward,1,True,0.6889711650958965,1.52,1.05
+69315,2011-11-26,2011-12,24,FC Barcelona,Getafe,Away,True,Forward,0,False,0.5927866523718204,1.31,0.78
+69332,2011-11-29,2011-12,24,FC Barcelona,Rayo Vallecano,Home,True,Forward,1,True,0.7777504333696199,1.11,0.86
+69333,2011-12-03,2011-12,24,FC Barcelona,Levante UD,Home,True,Forward,1,True,0.7447863510802496,1.43,1.07
+69334,2011-12-10,2011-12,24,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.511837175161671,1.09,0.56
+69312,2012-01-08,2011-12,24,FC Barcelona,Espanyol,Away,True,Forward,0,False,0.5836045625911516,1.14,0.67
+69327,2012-01-15,2011-12,24,FC Barcelona,Real Betis,Home,True,Forward,2,True,0.7132240777923132,1.62,1.16
+69335,2012-01-22,2011-12,24,FC Barcelona,Málaga,Away,True,Forward,3,True,0.6059929876137106,2.21,1.34
+69338,2012-01-28,2011-12,24,FC Barcelona,Villarreal,Away,True,Forward,0,False,0.6220988912598948,1.5,0.93
+69316,2012-02-04,2011-12,24,FC Barcelona,Real Sociedad,Home,True,Forward,1,True,0.7267163509792341,1.37,1.0
+69336,2012-02-11,2011-12,24,FC Barcelona,Osasuna,Away,True,Wing,0,False,0.5391184839965468,1.2,0.65
+69328,2012-02-19,2011-12,24,FC Barcelona,Valencia,Home,True,Forward,4,True,0.7354356901819582,3.3,2.43
+69337,2012-02-26,2011-12,24,FC Barcelona,Atlético Madrid,Away,True,Forward,1,True,0.6560409142296565,1.12,0.73
+69322,2012-03-11,2011-12,24,FC Barcelona,Racing Santander,Away,True,Forward,2,True,0.6894688733646747,2.21,1.52
+69326,2012-03-17,2011-12,24,FC Barcelona,Sevilla,Away,True,Forward,1,True,0.6818248212644619,1.15,0.78
+70225,2012-03-20,2011-12,24,FC Barcelona,Granada,Home,True,Forward,3,True,0.7124930985940617,1.84,1.31
+69325,2012-03-24,2011-12,24,FC Barcelona,Mallorca,Away,True,Forward,1,True,0.7170130076229101,1.47,1.05
+69323,2012-03-31,2011-12,24,FC Barcelona,Athletic Club,Home,True,Forward,1,True,0.7487054863150571,1.46,1.09
+70219,2012-04-07,2011-12,24,FC Barcelona,Real Zaragoza,Away,True,Forward,2,True,0.6641414867901828,1.7,1.13
+69343,2012-04-10,2011-12,24,FC Barcelona,Getafe,Home,True,Forward,1,True,0.7333597870538301,1.4,1.03
+70221,2012-04-14,2011-12,24,FC Barcelona,Levante UD,Away,True,Forward,2,True,0.6516412003015953,1.49,0.97
+69324,2012-04-21,2011-12,24,FC Barcelona,Real Madrid,Home,True,Forward,0,False,0.6716921903384947,1.08,0.73
+70224,2012-04-29,2011-12,24,FC Barcelona,Rayo Vallecano,Away,True,Forward,2,True,0.7186029101273311,1.63,1.17
+69340,2012-05-02,2011-12,24,FC Barcelona,Málaga,Home,True,Forward,3,True,0.5737471201415553,2.77,1.59
+69320,2012-05-05,2011-12,24,FC Barcelona,Espanyol,Home,True,Forward,4,True,0.6634870177118123,2.2,1.46
+69319,2012-05-12,2011-12,24,FC Barcelona,Real Betis,Away,True,Forward,0,False,0.6012897326554881,1.36,0.82
+70259,2012-08-19,2012-13,25,FC Barcelona,Real Sociedad,Home,True,Forward,2,True,0.701339397755897,1.85,1.3
+70262,2012-08-26,2012-13,25,FC Barcelona,Osasuna,Away,True,Forward,2,True,0.6849372263426542,1.85,1.27
+70286,2012-09-02,2012-13,25,FC Barcelona,Valencia,Home,True,Forward,0,False,0.5412113391193186,1.5,0.81
+70292,2012-09-15,2012-13,25,FC Barcelona,Getafe,Away,False,Other,2,True,0.4891434056662944,0.0,0.0
+70270,2012-09-22,2012-13,25,FC Barcelona,Granada,Home,True,Forward,0,False,0.5705055850004132,1.67,0.95
+70275,2012-09-29,2012-13,25,FC Barcelona,Sevilla,Away,True,Forward,0,False,0.5279697346725705,1.41,0.74
+70300,2012-10-07,2012-13,25,FC Barcelona,Real Madrid,Home,True,Forward,2,True,0.6104020269927107,1.31,0.8
+70304,2012-10-20,2012-13,25,FC Barcelona,RC Deportivo La Coruña,Away,True,Forward,3,True,0.6386019543677658,1.4,0.89
+70276,2012-10-27,2012-13,25,FC Barcelona,Rayo Vallecano,Away,True,Forward,2,True,0.6573481825696014,1.64,1.08
+70308,2012-11-03,2012-13,25,FC Barcelona,Celta Vigo,Home,True,Forward,0,False,0.6269749112185522,1.38,0.87
+266724,2012-11-11,2012-13,25,FC Barcelona,Mallorca,Away,True,Forward,2,True,0.6513461524293703,1.56,1.02
+70309,2012-11-17,2012-13,25,FC Barcelona,Real Zaragoza,Home,True,Forward,2,True,0.6773315164534567,1.7,1.15
+70280,2012-11-25,2012-13,25,FC Barcelona,Levante UD,Away,True,Forward,2,True,0.6616036994918827,1.38,0.91
+70263,2012-12-01,2012-13,25,FC Barcelona,Athletic Club,Home,True,Forward,2,True,0.6970129748181503,1.55,1.08
+70295,2012-12-09,2012-13,25,FC Barcelona,Real Betis,Away,True,Forward,2,True,0.5864405393595294,1.41,0.83
+70296,2012-12-16,2012-13,25,FC Barcelona,Atlético Madrid,Home,True,Forward,2,True,0.7062192708998741,1.4,0.99
+266015,2012-12-22,2012-13,25,FC Barcelona,Real Valladolid,Away,True,Forward,1,True,0.6455734350856333,1.27,0.82
+266433,2013-01-06,2012-13,25,FC Barcelona,Espanyol,Home,True,Forward,1,True,0.6944832100526149,1.58,1.1
+266827,2013-01-13,2012-13,25,FC Barcelona,Málaga,Away,True,Forward,1,True,0.5760978048198104,1.2,0.69
+70287,2013-01-19,2012-13,25,FC Barcelona,Real Sociedad,Away,True,Forward,1,True,0.6598388034236926,1.23,0.81
+70260,2013-01-27,2012-13,25,FC Barcelona,Osasuna,Home,True,Forward,4,True,0.7656060378855284,3.37,2.58
+70282,2013-02-03,2012-13,25,FC Barcelona,Valencia,Away,True,Forward,1,True,0.6497512808685637,1.53,0.99
+70297,2013-02-10,2012-13,25,FC Barcelona,Getafe,Home,True,Forward,1,True,0.7157188107083697,1.4,1.0
+70294,2013-02-16,2012-13,25,FC Barcelona,Granada,Away,True,Forward,2,True,0.6821156276321946,1.52,1.04
+70271,2013-02-23,2012-13,25,FC Barcelona,Sevilla,Home,True,Forward,1,True,0.7625080916346387,1.34,1.02
+70272,2013-03-02,2012-13,25,FC Barcelona,Real Madrid,Away,True,Forward,1,True,0.676146883267013,1.1,0.74
+70305,2013-03-09,2012-13,25,FC Barcelona,RC Deportivo La Coruña,Home,False,Forward,1,True,0.6955400093048129,1.09,0.76
+70307,2013-03-17,2012-13,25,FC Barcelona,Rayo Vallecano,Home,True,Forward,2,True,0.7897942164468127,1.59,1.26
+70256,2013-03-30,2012-13,25,FC Barcelona,Celta Vigo,Away,True,Forward,1,True,0.6723951666033983,1.13,0.76
+267502,2013-04-27,2012-13,25,FC Barcelona,Athletic Club,Away,False,Other,1,True,0.4181413863778557,0.0,0.0
+70281,2013-05-05,2012-13,25,FC Barcelona,Real Betis,Home,False,Forward,2,True,0.7204892327772958,1.6,1.15
+70284,2013-05-12,2012-13,25,FC Barcelona,Atlético Madrid,Away,True,Forward,0,False,0.5973064724388156,1.11,0.66
+70277,2013-08-18,2013-14,26,FC Barcelona,Levante UD,Home,True,Forward,2,True,0.7453620047885328,2.21,1.65
+70298,2013-09-01,2013-14,26,FC Barcelona,Valencia,Away,True,Forward,3,True,0.5261725118405813,2.85,1.5
+70301,2013-09-14,2013-14,26,FC Barcelona,Sevilla,Home,True,Forward,1,True,0.6227067188482768,1.59,0.99
+70302,2013-09-21,2013-14,26,FC Barcelona,Rayo Vallecano,Away,True,Forward,0,False,0.5548681144191949,1.15,0.64
+267520,2013-09-24,2013-14,26,FC Barcelona,Real Sociedad,Home,True,Forward,1,True,0.6407523965482858,1.63,1.04
+266420,2013-09-28,2013-14,26,FC Barcelona,Almería,Away,True,Forward,1,True,0.5781704253681843,1.1,0.64
+266462,2013-10-19,2013-14,26,FC Barcelona,Osasuna,Away,False,Other,0,False,0.37716410773016684,0.0,0.0
+70293,2013-10-26,2013-14,26,FC Barcelona,Real Madrid,Home,True,Wing,0,False,0.47916105308219,0.0,0.0
+267192,2013-10-29,2013-14,26,FC Barcelona,Celta Vigo,Away,True,Forward,0,False,0.5569542554089456,1.54,0.86
+70283,2013-11-01,2013-14,26,FC Barcelona,Espanyol,Home,True,Forward,0,False,0.6111596301068115,1.51,0.92
+266883,2013-11-10,2013-14,26,FC Barcelona,Real Betis,Away,True,Forward,0,False,0.5541527146620657,1.26,0.7
+265830,2014-01-11,2013-14,26,FC Barcelona,Atlético Madrid,Away,False,Attacking midfield,0,False,0.4305424330897967,0.0,0.0
+70288,2014-01-19,2013-14,26,FC Barcelona,Levante UD,Away,True,Forward,0,False,0.6255548728349969,1.25,0.78
+70291,2014-01-26,2013-14,26,FC Barcelona,Málaga,Home,True,Forward,0,False,0.5590907963921566,1.14,0.64
+266613,2014-02-01,2013-14,26,FC Barcelona,Valencia,Home,True,Forward,1,True,0.7180336385540718,1.42,1.02
+267675,2014-02-09,2013-14,26,FC Barcelona,Sevilla,Away,True,Forward,2,True,0.683393277036394,1.26,0.86
+265918,2014-02-15,2013-14,26,FC Barcelona,Rayo Vallecano,Home,True,Forward,2,True,0.7747810078326556,1.57,1.22
+265837,2014-02-22,2013-14,26,FC Barcelona,Real Sociedad,Away,True,Forward,1,True,0.6671694662121307,1.14,0.76
+266066,2014-03-02,2013-14,26,FC Barcelona,Almería,Home,True,Forward,1,True,0.7449028719403024,1.43,1.07
+266603,2014-03-08,2013-14,26,FC Barcelona,Real Valladolid,Away,True,Forward,0,False,0.5374473314782348,1.3,0.7
+266074,2014-03-16,2013-14,26,FC Barcelona,Osasuna,Home,True,Forward,3,True,0.7599261268947831,2.07,1.57
+265857,2014-03-23,2013-14,26,FC Barcelona,Real Madrid,Away,True,Forward,3,True,0.669395032143998,2.4,1.61
+266274,2014-03-26,2013-14,26,FC Barcelona,Celta Vigo,Home,True,Forward,1,True,0.7410381605639542,1.28,0.95
+70306,2014-03-29,2013-14,26,FC Barcelona,Espanyol,Away,True,Forward,1,True,0.641072784706955,1.42,0.91
+267368,2014-04-05,2013-14,26,FC Barcelona,Real Betis,Home,True,Forward,2,True,0.7063755619047796,2.42,1.71
+267138,2014-04-12,2013-14,26,FC Barcelona,Granada,Away,True,Forward,0,False,0.6459228336984668,1.49,0.96
+267567,2014-04-20,2013-14,26,FC Barcelona,Athletic Club,Home,True,Forward,1,True,0.7322006263959006,1.25,0.92
+70289,2014-04-27,2013-14,26,FC Barcelona,Villarreal,Away,True,Forward,1,True,0.6546784346392706,1.52,1.0
+266491,2014-05-03,2013-14,26,FC Barcelona,Getafe,Home,True,Forward,1,True,0.7034457206867532,1.22,0.86
+266201,2014-05-11,2013-14,26,FC Barcelona,Elche,Away,True,Forward,0,False,0.5821325300874262,1.28,0.75
+266256,2014-05-17,2013-14,26,FC Barcelona,Atlético Madrid,Home,True,Forward,0,False,0.6406237824659207,1.25,0.8
+266921,2014-08-24,2014-15,27,FC Barcelona,Elche,Home,True,Forward,2,True,0.6961234600562787,1.57,1.09
+266406,2014-08-31,2014-15,27,FC Barcelona,Villarreal,Away,True,Forward,0,False,0.5267385776372361,1.49,0.78
+70273,2014-09-13,2014-15,27,FC Barcelona,Athletic Club,Home,True,Forward,0,False,0.5781830839987266,1.2,0.69
+266770,2014-09-21,2014-15,27,FC Barcelona,Levante UD,Away,True,Forward,1,True,0.5900537451020971,1.3,0.77
+266838,2014-09-24,2014-15,27,FC Barcelona,Málaga,Away,True,Forward,0,False,0.44831634819788735,0.0,0.0
+266117,2014-09-27,2014-15,27,FC Barcelona,Granada,Home,True,Forward,2,True,0.5457691086388462,1.63,0.89
+267561,2014-10-04,2014-15,27,FC Barcelona,Rayo Vallecano,Away,True,Forward,1,True,0.6169959057765976,1.59,0.98
+265896,2014-10-18,2014-15,27,FC Barcelona,Eibar,Home,True,Forward,1,True,0.7600423856246235,1.59,1.21
+267085,2014-10-25,2014-15,27,FC Barcelona,Real Madrid,Away,True,Forward,0,False,0.5694127708049144,1.34,0.76
+267301,2014-11-01,2014-15,27,FC Barcelona,Celta Vigo,Home,True,Forward,0,False,0.6226032521903552,1.6,1.0
+267499,2014-11-08,2014-15,27,FC Barcelona,Almería,Away,True,Forward,0,False,0.566006848479235,1.51,0.85
+265835,2014-11-22,2014-15,27,FC Barcelona,Sevilla,Home,True,Wing,3,True,0.6968007019449416,1.87,1.3
+266560,2014-11-30,2014-15,27,FC Barcelona,Valencia,Away,True,Wing,0,False,0.5122297648221131,1.07,0.55
+266320,2014-12-07,2014-15,27,FC Barcelona,Espanyol,Home,True,Wing,3,True,0.6496078796465518,1.91,1.24
+70264,2014-12-13,2014-15,27,FC Barcelona,Getafe,Away,True,Wing,0,False,0.501785083723247,1.3,0.65
+266846,2014-12-20,2014-15,27,FC Barcelona,Córdoba CF,Home,True,Wing,2,True,0.6482068622550713,1.43,0.93
+266240,2015-01-04,2014-15,27,FC Barcelona,Real Sociedad,Away,False,Wing,0,False,0.42708018582148793,0.0,0.0
+70303,2015-01-11,2014-15,27,FC Barcelona,Atlético Madrid,Home,True,Wing,1,True,0.6738392841207603,1.45,0.98
+266230,2015-01-18,2014-15,27,FC Barcelona,RC Deportivo La Coruña,Away,True,Wing,3,True,0.5915913458759227,1.91,1.13
+266794,2015-01-24,2014-15,27,FC Barcelona,Elche,Away,True,Forward,2,True,0.6045747616621143,1.57,0.95
+267597,2015-02-01,2014-15,27,FC Barcelona,Villarreal,Home,True,Wing,1,True,0.6561384386080316,1.08,0.71
+266871,2015-02-08,2014-15,27,FC Barcelona,Athletic Club,Away,True,Wing,1,True,0.5121258167831965,1.11,0.57
+266741,2015-02-15,2014-15,27,FC Barcelona,Levante UD,Home,True,Forward,3,True,0.7356736111210829,2.82,2.07
+266148,2015-02-21,2014-15,27,FC Barcelona,Málaga,Home,True,Wing,0,False,0.49457862345186643,0.0,0.0
+267343,2015-02-28,2014-15,27,FC Barcelona,Granada,Away,True,Wing,1,True,0.5700051931637711,2.29,1.31
+266916,2015-03-08,2014-15,27,FC Barcelona,Rayo Vallecano,Home,True,Wing,3,True,0.7185814663134666,2.56,1.84
+266967,2015-03-14,2014-15,27,FC Barcelona,Eibar,Away,True,Wing,2,True,0.7513985636728148,1.66,1.25
+267183,2015-03-22,2014-15,27,FC Barcelona,Real Madrid,Home,True,Wing,0,False,0.5453660437086754,1.33,0.73
+266929,2015-04-05,2014-15,27,FC Barcelona,Celta Vigo,Away,True,Wing,0,False,0.5258663772916382,1.13,0.59
+267400,2015-04-08,2014-15,27,FC Barcelona,Almería,Home,True,Wing,1,True,0.66356174125851,1.27,0.84
+266142,2015-04-11,2014-15,27,FC Barcelona,Sevilla,Away,True,Wing,1,True,0.5869776417841489,1.46,0.86
+266525,2015-04-18,2014-15,27,FC Barcelona,Valencia,Home,True,Wing,1,True,0.6551059752853068,1.35,0.88
+266531,2015-04-25,2014-15,27,FC Barcelona,Espanyol,Away,True,Wing,1,True,0.53476111132007,1.15,0.61
+265963,2015-04-28,2014-15,27,FC Barcelona,Getafe,Home,True,Wing,2,True,0.6039827304286799,1.63,0.98
+265866,2015-05-02,2014-15,27,FC Barcelona,Córdoba CF,Away,True,Wing,2,True,0.5495890295498659,1.64,0.9
+266045,2015-05-09,2014-15,27,FC Barcelona,Real Sociedad,Home,True,Wing,0,False,0.529256099889206,1.15,0.61
+266631,2015-05-17,2014-15,27,FC Barcelona,Atlético Madrid,Away,True,Wing,1,True,0.5746790106616566,1.32,0.76
+267197,2015-05-23,2014-15,27,FC Barcelona,RC Deportivo La Coruña,Home,True,Wing,2,True,0.6515651867083815,1.87,1.22
+266236,2015-08-23,2015-16,28,FC Barcelona,Athletic Club,Away,True,Wing,0,False,0.4069234263273771,0.0,0.0
+267422,2015-08-29,2015-16,28,FC Barcelona,Málaga,Home,True,Wing,0,False,0.39684143314151965,0.0,0.0
+266166,2015-09-12,2015-16,28,FC Barcelona,Atlético Madrid,Away,False,Other,1,True,0.41613191306743497,0.0,0.0
+266490,2015-09-20,2015-16,28,FC Barcelona,Levante UD,Home,True,Attacking midfield,2,True,0.6161860861088713,2.65,1.63
+266467,2015-09-23,2015-16,28,FC Barcelona,Celta Vigo,Away,True,Wing,0,False,0.4402742751143816,0.0,0.0
+267611,2015-09-26,2015-16,28,FC Barcelona,Las Palmas,Home,True,Wing,0,False,0.5044855416836315,1.08,0.54
+266424,2015-11-21,2015-16,28,FC Barcelona,Real Madrid,Away,False,Other,0,False,0.3541405015104602,0.0,0.0
+266885,2015-11-28,2015-16,28,FC Barcelona,Real Sociedad,Home,True,Wing,1,True,0.6272355422024426,1.51,0.95
+267274,2015-12-05,2015-16,28,FC Barcelona,Valencia,Away,True,Wing,0,False,0.5022667197371169,1.59,0.8
+266961,2015-12-12,2015-16,28,FC Barcelona,RC Deportivo La Coruña,Home,True,Wing,1,True,0.6788187274932582,1.42,0.96
+267327,2015-12-30,2015-16,28,FC Barcelona,Real Betis,Home,True,Wing,1,True,0.6436855613038835,1.67,1.07
+266670,2016-01-02,2015-16,28,FC Barcelona,Espanyol,Away,True,Wing,0,False,0.5152884054680397,1.17,0.6
+266620,2016-01-09,2015-16,28,FC Barcelona,Granada,Home,True,Wing,3,True,0.6560068931679913,2.27,1.49
+266149,2016-01-17,2015-16,28,FC Barcelona,Athletic Club,Home,True,Wing,1,True,0.6738439070307536,1.28,0.86
+265894,2016-01-23,2015-16,28,FC Barcelona,Málaga,Away,True,Wing,1,True,0.5128460605244087,1.68,0.86
+267576,2016-01-30,2015-16,28,FC Barcelona,Atlético Madrid,Home,True,Wing,1,True,0.6623672939964343,1.1,0.73
+266160,2016-02-07,2015-16,28,FC Barcelona,Levante UD,Away,True,Wing,0,False,0.535498600855309,1.06,0.57
+266254,2016-02-14,2015-16,28,FC Barcelona,Celta Vigo,Home,True,Wing,1,True,0.6750339481436941,1.46,0.99
+266815,2016-02-17,2015-16,28,FC Barcelona,Sporting Gijón,Away,True,Wing,2,True,0.5627184093362833,1.18,0.66
+267273,2016-02-20,2015-16,28,FC Barcelona,Las Palmas,Away,True,Wing,0,False,0.5138642075484345,1.36,0.7
+265839,2016-02-28,2015-16,28,FC Barcelona,Sevilla,Home,True,Wing,1,True,0.7002785267692108,1.22,0.85
+266653,2016-03-03,2015-16,28,FC Barcelona,Rayo Vallecano,Away,True,Wing,3,True,0.6351863793770776,1.98,1.26
+266056,2016-03-06,2015-16,28,FC Barcelona,Eibar,Away,True,Wing,2,True,0.74544889651424,1.64,1.22
+266498,2016-03-12,2015-16,28,FC Barcelona,Getafe,Home,True,Wing,1,True,0.6288632457984248,1.53,0.96
+266106,2016-03-20,2015-16,28,FC Barcelona,Villarreal,Away,True,Wing,0,False,0.5271843907402194,1.12,0.59
+267533,2016-04-02,2015-16,28,FC Barcelona,Real Madrid,Home,True,Forward,0,False,0.6704131313176612,1.07,0.72
+266664,2016-04-09,2015-16,28,FC Barcelona,Real Sociedad,Away,True,Wing,0,False,0.47893603770006926,0.0,0.0
+266557,2016-04-17,2015-16,28,FC Barcelona,Valencia,Home,True,Wing,1,True,0.6551059752853068,1.44,0.94
+266310,2016-04-20,2015-16,28,FC Barcelona,RC Deportivo La Coruña,Away,True,Wing,1,True,0.559424815346217,1.09,0.61
+265944,2016-04-23,2015-16,28,FC Barcelona,Sporting Gijón,Home,True,Wing,1,True,0.6238441602796556,1.59,0.99
+266986,2016-04-30,2015-16,28,FC Barcelona,Real Betis,Away,True,Wing,0,False,0.4970252509722774,0.0,0.0
+265958,2016-05-08,2015-16,28,FC Barcelona,Espanyol,Home,True,Wing,1,True,0.5972372065107916,1.54,0.92
+267506,2016-05-14,2015-16,28,FC Barcelona,Granada,Away,True,Wing,0,False,0.5348620126345035,1.61,0.86
+267670,2016-08-20,2016-17,29,FC Barcelona,Real Betis,Home,True,Wing,2,True,0.5085577876958525,1.88,0.96
+266892,2016-08-28,2016-17,29,FC Barcelona,Athletic Club,Away,True,Wing,0,False,0.4084396756919562,0.0,0.0
+266669,2016-09-10,2016-17,29,FC Barcelona,Deportivo Alavés,Home,False,Other,0,False,0.4275467243718094,0.0,0.0
+267212,2016-09-17,2016-17,29,FC Barcelona,Leganés,Away,True,Wing,2,True,0.5173347006593618,1.8,0.93
+267220,2016-09-21,2016-17,29,FC Barcelona,Atlético Madrid,Home,True,Wing,0,False,0.5721420823224651,1.32,0.76
+267492,2016-10-15,2016-17,29,FC Barcelona,RC Deportivo La Coruña,Home,False,Other,1,True,0.5969827515002748,1.13,0.67
+266033,2016-10-22,2016-17,29,FC Barcelona,Valencia,Away,True,Wing,2,True,0.540382643766113,1.34,0.72
+267058,2016-10-29,2016-17,29,FC Barcelona,Granada,Home,True,Wing,0,False,0.5979085802745484,1.53,0.91
+266989,2016-11-06,2016-17,29,FC Barcelona,Sevilla,Away,True,Wing,1,True,0.6120485247310955,1.6,0.98
+266191,2016-11-27,2016-17,29,FC Barcelona,Real Sociedad,Away,True,Wing,1,True,0.5351333193839513,1.06,0.57
+267076,2016-12-03,2016-17,29,FC Barcelona,Real Madrid,Home,True,Wing,0,False,0.5367178406437612,1.08,0.58
+266357,2016-12-10,2016-17,29,FC Barcelona,Osasuna,Away,True,Wing,2,True,0.6155185367047074,1.8,1.11
+266528,2016-12-18,2016-17,29,FC Barcelona,Espanyol,Home,True,Wing,1,True,0.6554113528169543,1.56,1.02
+266477,2017-01-08,2016-17,29,FC Barcelona,Villarreal,Away,True,Wing,1,True,0.5674883264928586,1.34,0.76
+267395,2017-01-14,2016-17,29,FC Barcelona,Las Palmas,Home,True,Wing,1,True,0.6488118907317331,1.47,0.95
+266731,2017-01-22,2016-17,29,FC Barcelona,Eibar,Away,True,Wing,1,True,0.7572668571473838,1.14,0.86
+266516,2017-01-29,2016-17,29,FC Barcelona,Real Betis,Away,True,Wing,0,False,0.515176078088233,1.21,0.62
+266874,2017-02-04,2016-17,29,FC Barcelona,Athletic Club,Home,True,Wing,1,True,0.6697113534245158,1.06,0.71
+266273,2017-02-11,2016-17,29,FC Barcelona,Deportivo Alavés,Away,True,Wing,1,True,0.6316063980476561,1.28,0.81
+267596,2017-02-19,2016-17,29,FC Barcelona,Leganés,Home,True,Wing,2,True,0.6837751778954482,2.1,1.44
+267464,2017-02-26,2016-17,29,FC Barcelona,Atlético Madrid,Away,True,Wing,1,True,0.5814435124764792,1.6,0.93
+265952,2017-03-01,2016-17,29,FC Barcelona,Sporting Gijón,Home,True,Wing,1,True,0.6493696602896986,1.12,0.73
+266299,2017-03-04,2016-17,29,FC Barcelona,Celta Vigo,Home,True,Wing,2,True,0.6851596386933738,1.4,0.96
+267660,2017-03-12,2016-17,29,FC Barcelona,RC Deportivo La Coruña,Away,True,Wing,0,False,0.5444529037372666,1.38,0.75
+266440,2017-03-19,2016-17,29,FC Barcelona,Valencia,Home,True,Wing,2,True,0.6615772074890655,1.75,1.16
+266280,2017-04-05,2016-17,29,FC Barcelona,Sevilla,Home,True,Attacking midfield,2,True,0.6867790527531684,1.42,0.98
+267590,2017-04-08,2016-17,29,FC Barcelona,Málaga,Away,True,Wing,0,False,0.5116033280210295,1.34,0.69
+267373,2017-04-15,2016-17,29,FC Barcelona,Real Sociedad,Home,True,Attacking midfield,2,True,0.627931304944702,1.64,1.03
+267569,2017-04-23,2016-17,29,FC Barcelona,Real Madrid,Away,True,Attacking midfield,2,True,0.5927319753770677,1.56,0.92
+267101,2017-04-26,2016-17,29,FC Barcelona,Osasuna,Home,True,Forward,2,True,0.7500153443046246,1.31,0.98
+267077,2017-04-29,2016-17,29,FC Barcelona,Espanyol,Away,True,Wing,0,False,0.5116577156607195,1.11,0.57
+266952,2017-05-06,2016-17,29,FC Barcelona,Villarreal,Home,True,Wing,2,True,0.6264678214789247,1.67,1.05
+267039,2017-05-14,2016-17,29,FC Barcelona,Las Palmas,Away,True,Wing,0,False,0.4966238726717334,0.0,0.0
+267432,2017-05-21,2016-17,29,FC Barcelona,Eibar,Home,True,Wing,2,True,0.7774091588572253,2.36,1.83
+9575,2017-08-20,2017-18,30,FC Barcelona,Real Betis,Home,True,Forward,0,False,0.5593777849203471,1.62,0.91
+9581,2017-08-26,2017-18,30,FC Barcelona,Deportivo Alavés,Away,True,Forward,2,True,0.6598971024665499,1.67,1.1
+9592,2017-09-09,2017-18,30,FC Barcelona,Espanyol,Home,True,Forward,3,True,0.5972092601445712,2.16,1.29
+9602,2017-09-16,2017-18,30,FC Barcelona,Getafe,Away,True,Wing,0,False,0.43128281613789604,0.0,0.0
+9609,2017-09-19,2017-18,30,FC Barcelona,Eibar,Home,True,Forward,4,True,0.7003982860846324,1.53,1.07
+9620,2017-09-23,2017-18,30,FC Barcelona,Girona,Away,True,Forward,0,False,0.5055216909080094,1.13,0.57
+9636,2017-10-01,2017-18,30,FC Barcelona,Las Palmas,Home,True,Forward,2,True,0.6286674525000858,2.07,1.3
+9642,2017-10-14,2017-18,30,FC Barcelona,Atlético Madrid,Away,True,Forward,0,False,0.531551982362052,1.35,0.72
+9650,2017-10-21,2017-18,30,FC Barcelona,Málaga,Home,True,Forward,0,False,0.4883257777394342,0.0,0.0
+9661,2017-10-28,2017-18,30,FC Barcelona,Athletic Club,Away,True,Forward,1,True,0.6104077460441734,1.29,0.79
+9673,2017-11-04,2017-18,30,FC Barcelona,Sevilla,Home,True,Forward,0,False,0.6186715341417542,1.44,0.89
+9682,2017-11-18,2017-18,30,FC Barcelona,Leganés,Away,True,Forward,0,False,0.6231298894180822,1.1,0.69
+9695,2017-11-26,2017-18,30,FC Barcelona,Valencia,Away,True,Forward,0,False,0.5260135157169414,1.18,0.62
+9700,2017-12-02,2017-18,30,FC Barcelona,Celta Vigo,Home,True,Forward,1,True,0.6850630964758617,1.47,1.01
+9717,2017-12-10,2017-18,30,FC Barcelona,Villarreal,Away,True,Forward,1,True,0.6057253130549848,1.6,0.97
+9726,2017-12-17,2017-18,30,FC Barcelona,RC Deportivo La Coruña,Home,True,Forward,0,False,0.6605189158861616,2.22,1.47
+9736,2017-12-23,2017-18,30,FC Barcelona,Real Madrid,Away,True,Forward,1,True,0.598507444787694,1.32,0.79
+9742,2018-01-07,2017-18,30,FC Barcelona,Levante UD,Home,True,Forward,1,True,0.7114597251393099,1.24,0.88
+9754,2018-01-14,2017-18,30,FC Barcelona,Real Sociedad,Away,True,Forward,1,True,0.6371837614541663,1.25,0.8
+9765,2018-01-21,2017-18,30,FC Barcelona,Real Betis,Away,True,Forward,2,True,0.6289112282039698,1.64,1.03
+9774,2018-01-28,2017-18,30,FC Barcelona,Deportivo Alavés,Home,True,Forward,1,True,0.760031611231954,1.28,0.97
+9783,2018-02-04,2017-18,30,FC Barcelona,Espanyol,Away,False,Wing,0,False,0.4129619314688655,0.0,0.0
+9794,2018-02-11,2017-18,30,FC Barcelona,Getafe,Home,True,Forward,0,False,0.6508264836050236,1.11,0.72
+9799,2018-02-17,2017-18,30,FC Barcelona,Eibar,Away,True,Forward,0,False,0.780735632731944,1.58,1.23
+9811,2018-02-24,2017-18,30,FC Barcelona,Girona,Home,True,Forward,2,True,0.7230403390213027,1.58,1.14
+9827,2018-03-01,2017-18,30,FC Barcelona,Las Palmas,Away,True,Forward,1,True,0.6600030379529943,1.13,0.75
+9837,2018-03-04,2017-18,30,FC Barcelona,Atlético Madrid,Home,True,Forward,1,True,0.7200564142056257,1.29,0.93
+9855,2018-03-18,2017-18,30,FC Barcelona,Athletic Club,Home,True,Forward,1,True,0.7241141415288613,1.19,0.86
+9860,2018-03-31,2017-18,30,FC Barcelona,Sevilla,Away,False,Wing,1,True,0.5418380331304887,1.18,0.64
+9870,2018-04-07,2017-18,30,FC Barcelona,Leganés,Home,True,Attacking midfield,3,True,0.7081895837444317,2.0,1.42
+9880,2018-04-14,2017-18,30,FC Barcelona,Valencia,Home,True,Forward,0,False,0.6582274985006632,1.27,0.84
+9889,2018-04-17,2017-18,30,FC Barcelona,Celta Vigo,Away,False,Wing,0,False,0.4381629469687873,0.0,0.0
+9912,2018-04-29,2017-18,30,FC Barcelona,RC Deportivo La Coruña,Away,True,Forward,3,True,0.6596263730871135,2.55,1.68
+9924,2018-05-06,2017-18,30,FC Barcelona,Real Madrid,Home,True,Forward,1,True,0.6142986164316214,1.27,0.78
+9928,2018-05-09,2017-18,30,FC Barcelona,Villarreal,Home,True,Forward,1,True,0.705967117002974,1.17,0.83
+9948,2018-05-20,2017-18,30,FC Barcelona,Real Sociedad,Home,False,Wing,0,False,0.4399630448498165,0.0,0.0
+15946,2018-08-18,2018-19,31,FC Barcelona,Deportivo Alavés,Home,True,Forward,2,True,0.7180839743995152,1.88,1.35
+15956,2018-08-25,2018-19,31,FC Barcelona,Real Valladolid,Away,True,Wing,0,False,0.40259768149781544,0.0,0.0
+15973,2018-09-02,2018-19,31,FC Barcelona,Huesca,Home,True,Wing,2,True,0.5973216944145295,1.83,1.09
+15978,2018-09-15,2018-19,31,FC Barcelona,Real Sociedad,Away,True,Wing,0,False,0.4107804019176147,0.0,0.0
+15986,2018-09-23,2018-19,31,FC Barcelona,Girona,Home,True,Wing,1,True,0.569325916578877,1.37,0.78
+15998,2018-09-26,2018-19,31,FC Barcelona,Leganés,Away,True,Wing,0,False,0.4857093765706221,0.0,0.0
+16010,2018-09-29,2018-19,31,FC Barcelona,Athletic Club,Home,False,Other,0,False,0.3877404270887967,0.0,0.0
+16023,2018-10-07,2018-19,31,FC Barcelona,Valencia,Away,True,Wing,1,True,0.5594965001817704,1.36,0.76
+16029,2018-10-20,2018-19,31,FC Barcelona,Sevilla,Home,True,Wing,1,True,0.6909591119777966,1.15,0.79
+16056,2018-11-11,2018-19,31,FC Barcelona,Real Betis,Home,True,Wing,2,True,0.6328745737572176,1.84,1.16
+16073,2018-11-24,2018-19,31,FC Barcelona,Atlético Madrid,Away,True,Forward,0,False,0.5467200557695073,1.18,0.65
+16079,2018-12-02,2018-19,31,FC Barcelona,Villarreal,Home,True,Forward,0,False,0.6420891064209183,1.46,0.94
+16086,2018-12-08,2018-19,31,FC Barcelona,Espanyol,Away,True,Wing,2,True,0.5592701506350356,1.74,0.97
+16095,2018-12-16,2018-19,31,FC Barcelona,Levante UD,Away,True,Attacking midfield,3,True,0.6252782837057635,1.8,1.13
+16109,2018-12-22,2018-19,31,FC Barcelona,Celta Vigo,Home,True,Wing,1,True,0.6918585710770228,1.07,0.74
+16120,2019-01-06,2018-19,31,FC Barcelona,Getafe,Away,True,Wing,1,True,0.5397998308685503,1.55,0.84
+16131,2019-01-13,2018-19,31,FC Barcelona,Eibar,Home,True,Wing,1,True,0.8028037805069655,1.09,0.88
+16136,2019-01-20,2018-19,31,FC Barcelona,Leganés,Home,False,Other,1,True,0.6787938703216563,1.06,0.72
+16149,2019-01-27,2018-19,31,FC Barcelona,Girona,Away,True,Wing,1,True,0.5349574610527792,1.59,0.85
+16157,2019-02-02,2018-19,31,FC Barcelona,Valencia,Home,True,Wing,2,True,0.6521572145633416,1.6,1.04
+16173,2019-02-10,2018-19,31,FC Barcelona,Athletic Club,Away,True,Wing,0,False,0.5042620768764529,1.09,0.55
+16182,2019-02-16,2018-19,31,FC Barcelona,Real Valladolid,Home,True,Wing,1,True,0.5995232125663348,1.78,1.07
+16190,2019-02-23,2018-19,31,FC Barcelona,Sevilla,Away,True,Wing,3,True,0.6033340751784823,1.99,1.2
+16196,2019-03-02,2018-19,31,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.49483892941583385,0.0,0.0
+16205,2019-03-09,2018-19,31,FC Barcelona,Rayo Vallecano,Home,True,Wing,1,True,0.7140458017797752,1.65,1.18
+16215,2019-03-17,2018-19,31,FC Barcelona,Real Betis,Away,True,Forward,3,True,0.651105676709184,2.0,1.3
+16231,2019-03-30,2018-19,31,FC Barcelona,Espanyol,Home,True,Wing,2,True,0.6361914373246933,1.66,1.06
+16240,2019-04-02,2018-19,31,FC Barcelona,Villarreal,Away,False,Wing,1,True,0.5499828594139952,1.06,0.58
+16248,2019-04-06,2018-19,31,FC Barcelona,Atlético Madrid,Home,True,Wing,1,True,0.6607363885402541,1.28,0.85
+16265,2019-04-20,2018-19,31,FC Barcelona,Real Sociedad,Home,True,Wing,0,False,0.5360333039801203,1.06,0.57
+16275,2019-04-23,2018-19,31,FC Barcelona,Deportivo Alavés,Away,False,Wing,0,False,0.535477197688832,1.11,0.59
+16289,2019-04-27,2018-19,31,FC Barcelona,Levante UD,Home,False,Wing,1,True,0.6104315608891335,1.15,0.7
+16306,2019-05-12,2018-19,31,FC Barcelona,Getafe,Home,True,Forward,0,False,0.6608175400808365,1.14,0.75
+16317,2019-05-19,2018-19,31,FC Barcelona,Eibar,Away,True,Forward,2,True,0.7404909485867971,1.63,1.21
+303666,2019-09-21,2019-20,32,FC Barcelona,Granada,Away,False,Wing,0,False,0.4116552620599385,0.0,0.0
+303430,2019-09-24,2019-20,32,FC Barcelona,Villarreal,Home,True,Wing,0,False,0.49853514929137,0.0,0.0
+303473,2019-10-06,2019-20,32,FC Barcelona,Sevilla,Home,True,Wing,1,True,0.6850941850966401,1.39,0.95
+303700,2019-10-19,2019-20,32,FC Barcelona,Eibar,Away,True,Wing,1,True,0.7290326854998213,1.09,0.79
+303600,2019-10-29,2019-20,32,FC Barcelona,Real Valladolid,Home,True,Wing,2,True,0.6104707028787171,1.48,0.9
+303504,2019-11-02,2019-20,32,FC Barcelona,Levante UD,Away,True,Wing,1,True,0.5669360135998428,1.89,1.07
+303487,2019-11-09,2019-20,32,FC Barcelona,Celta Vigo,Home,True,Wing,3,True,0.6801629487865642,1.85,1.26
+303715,2019-11-23,2019-20,32,FC Barcelona,Leganés,Away,True,Attacking midfield,0,False,0.6086053858162536,1.06,0.65
+303524,2019-12-01,2019-20,32,FC Barcelona,Atlético Madrid,Away,True,Wing,1,True,0.5816910297478268,1.1,0.64
+303451,2019-12-07,2019-20,32,FC Barcelona,Mallorca,Home,True,Wing,3,True,0.66630021671825,2.03,1.35
+303664,2019-12-14,2019-20,32,FC Barcelona,Real Sociedad,Away,True,Wing,0,False,0.4811972856906751,0.0,0.0
+303596,2019-12-18,2019-20,32,FC Barcelona,Real Madrid,Home,True,Wing,0,False,0.4759241589439617,0.0,0.0
+303517,2019-12-21,2019-20,32,FC Barcelona,Deportivo Alavés,Home,True,Wing,1,True,0.7011833304233958,1.14,0.8
+303652,2020-01-04,2019-20,32,FC Barcelona,Espanyol,Away,True,Wing,0,False,0.5127707336129587,1.37,0.7
+303610,2020-01-19,2019-20,32,FC Barcelona,Granada,Home,True,Forward,1,True,0.7013893616332526,1.42,1.0
+303400,2020-01-25,2019-20,32,FC Barcelona,Valencia,Away,True,Forward,0,False,0.5675096103922896,1.4,0.79
+303682,2020-02-02,2019-20,32,FC Barcelona,Levante UD,Home,True,Wing,0,False,0.6196102632728401,1.47,0.91
+303707,2020-02-09,2019-20,32,FC Barcelona,Real Betis,Away,True,Forward,0,False,0.6080691605294909,1.35,0.82
+303377,2020-02-15,2019-20,32,FC Barcelona,Getafe,Home,True,Wing,0,False,0.5794001155234475,1.28,0.74
+303731,2020-02-22,2019-20,32,FC Barcelona,Eibar,Home,True,Wing,4,True,0.7943246613617803,2.98,2.37
+303470,2020-03-01,2019-20,32,FC Barcelona,Real Madrid,Away,True,Forward,0,False,0.596871330783519,1.09,0.65
+303479,2020-03-07,2019-20,32,FC Barcelona,Real Sociedad,Home,True,Forward,1,True,0.6844288396262498,1.4,0.96
+303548,2020-06-13,2019-20,32,FC Barcelona,Mallorca,Away,True,Wing,1,True,0.5834497001585183,1.29,0.75
+303532,2020-06-16,2019-20,32,FC Barcelona,Leganés,Home,True,Wing,1,True,0.6847123240186844,1.25,0.86
+303674,2020-06-19,2019-20,32,FC Barcelona,Sevilla,Away,True,Forward,0,False,0.6259845774512539,1.18,0.74
+303493,2020-06-23,2019-20,32,FC Barcelona,Athletic Club,Home,True,Wing,0,False,0.6312848300180052,1.3,0.82
+303516,2020-06-27,2019-20,32,FC Barcelona,Celta Vigo,Away,True,Wing,0,False,0.5339721598790635,1.33,0.71
+303696,2020-06-30,2019-20,32,FC Barcelona,Atlético Madrid,Home,True,Forward,1,True,0.6940349766971795,1.45,1.01
+303725,2020-07-05,2019-20,32,FC Barcelona,Villarreal,Away,True,Attacking midfield,0,False,0.5606022619652108,1.17,0.66
+303615,2020-07-08,2019-20,32,FC Barcelona,Espanyol,Home,True,Attacking midfield,0,False,0.5639708984203812,1.19,0.67
+303680,2020-07-11,2019-20,32,FC Barcelona,Real Valladolid,Away,True,Forward,0,False,0.49727865834108104,0.0,0.0
+303634,2020-07-16,2019-20,32,FC Barcelona,Osasuna,Home,True,Wing,1,True,0.6277129401976961,1.3,0.82
+303421,2020-07-19,2019-20,32,FC Barcelona,Deportivo Alavés,Away,True,Wing,2,True,0.6131713464852921,1.58,0.97
+3773593,2020-09-27,2020-21,33,FC Barcelona,Villarreal,Home,True,Forward,1,True,0.6191615290173126,1.48,0.92
+3773466,2020-10-01,2020-21,33,FC Barcelona,Celta Vigo,Away,True,Forward,0,False,0.4892055788425215,0.0,0.0
+3773672,2020-10-04,2020-21,33,FC Barcelona,Sevilla,Home,True,Forward,0,False,0.5641260554662356,1.21,0.68
+3773587,2020-10-17,2020-21,33,FC Barcelona,Getafe,Away,True,Wing,0,False,0.38855160721580273,0.0,0.0
+3773585,2020-10-24,2020-21,33,FC Barcelona,Real Madrid,Home,True,Forward,0,False,0.5124991292426467,1.17,0.6
+3773386,2020-10-31,2020-21,33,FC Barcelona,Deportivo Alavés,Away,True,Attacking midfield,0,False,0.6250045086770427,1.38,0.86
+3773477,2020-11-07,2020-21,33,FC Barcelona,Real Betis,Home,False,Forward,2,True,0.6429974542606925,1.47,0.95
+3773656,2020-11-21,2020-21,33,FC Barcelona,Atlético Madrid,Away,True,Attacking midfield,0,False,0.5258677981767796,1.13,0.59
+3773547,2020-11-29,2020-21,33,FC Barcelona,Osasuna,Home,True,Wing,1,True,0.650255459772263,1.42,0.92
+3773428,2020-12-05,2020-21,33,FC Barcelona,Cádiz,Away,True,Wing,0,False,0.5057147982109466,1.28,0.65
+3773660,2020-12-13,2020-21,33,FC Barcelona,Levante UD,Home,True,Forward,1,True,0.7092930733516373,1.35,0.96
+3773523,2020-12-16,2020-21,33,FC Barcelona,Real Sociedad,Home,True,Forward,0,False,0.665782517712274,1.09,0.73
+3773377,2020-12-19,2020-21,33,FC Barcelona,Valencia,Home,True,Forward,1,True,0.6437430637154942,1.55,1.0
+3773571,2020-12-22,2020-21,33,FC Barcelona,Real Valladolid,Away,True,Attacking midfield,1,True,0.5816485474592749,1.31,0.76
+3773552,2021-01-03,2020-21,33,FC Barcelona,Huesca,Away,True,Wing,0,False,0.5614916660236776,1.42,0.8
+3764661,2021-01-06,2020-21,33,FC Barcelona,Athletic Club,Away,True,Forward,2,True,0.6122567436856409,1.58,0.97
+3773565,2021-01-09,2020-21,33,FC Barcelona,Granada,Away,True,Forward,2,True,0.6468878929948227,1.59,1.03
+3773403,2021-01-31,2020-21,33,FC Barcelona,Athletic Club,Home,True,Forward,1,True,0.7273430865869573,1.17,0.85
+3773631,2021-02-07,2020-21,33,FC Barcelona,Real Betis,Away,False,Other,1,True,0.5526965616302754,1.2,0.66
+3773526,2021-02-13,2020-21,33,FC Barcelona,Deportivo Alavés,Home,True,Forward,2,True,0.7571231816163587,1.32,1.0
+3773415,2021-02-21,2020-21,33,FC Barcelona,Cádiz,Home,True,Forward,1,True,0.7051393677491148,1.28,0.9
+3764440,2021-02-24,2020-21,33,FC Barcelona,Elche,Home,True,Forward,2,True,0.6866197812992305,1.72,1.18
+3773625,2021-02-27,2020-21,33,FC Barcelona,Sevilla,Away,True,Forward,1,True,0.6664619118820775,1.39,0.93
+3773665,2021-03-06,2020-21,33,FC Barcelona,Osasuna,Away,True,Forward,0,False,0.6974379994633657,1.42,0.99
+3773369,2021-03-15,2020-21,33,FC Barcelona,Huesca,Home,True,Attacking midfield,2,True,0.6821951839930251,1.52,1.04
+3773597,2021-03-21,2020-21,33,FC Barcelona,Real Sociedad,Away,True,Attacking midfield,2,True,0.5692660579574247,1.73,0.98
+3773474,2021-04-05,2020-21,33,FC Barcelona,Real Valladolid,Home,True,Attacking midfield,0,False,0.624863270069714,1.31,0.82
+3773497,2021-04-10,2020-21,33,FC Barcelona,Real Madrid,Away,True,Wing,0,False,0.473884601877165,0.0,0.0
+3773661,2021-04-22,2020-21,33,FC Barcelona,Getafe,Home,True,Forward,2,True,0.6943758175108754,1.45,1.01
+3773689,2021-04-25,2020-21,33,FC Barcelona,Villarreal,Away,True,Forward,0,False,0.6269443409516874,1.07,0.67
+3773586,2021-04-29,2020-21,33,FC Barcelona,Granada,Home,True,Forward,1,True,0.7077137843109089,1.45,1.03
+3773695,2021-05-02,2020-21,33,FC Barcelona,Valencia,Away,True,Forward,2,True,0.580286399509185,1.46,0.85
+3773372,2021-05-08,2020-21,33,FC Barcelona,Atlético Madrid,Home,True,Forward,0,False,0.6778940559827604,1.09,0.74
+3773387,2021-05-11,2020-21,33,FC Barcelona,Levante UD,Away,True,Forward,1,True,0.606566129539265,1.4,0.85
+3773457,2021-05-16,2020-21,33,FC Barcelona,Celta Vigo,Home,True,Forward,1,True,0.7066056958992787,1.43,1.01
+3802696,2021-08-29,2021-22,34,Paris Saint-Germain,Stade de Reims,Away,False,Wing,0,False,0.25085716465683355,0.0,0.0
+3802752,2021-09-19,2021-22,34,Paris Saint-Germain,Lyon,Home,True,Attacking midfield,0,False,0.3795089129339663,0.0,0.0
+3802809,2021-10-03,2021-22,34,Paris Saint-Germain,Rennes,Away,True,Attacking midfield,0,False,0.31245305124676276,0.0,0.0
+3802902,2021-10-24,2021-22,34,Paris Saint-Germain,Olympique de Marseille,Away,True,Wing,0,False,0.4042643528358963,0.0,0.0
+3802699,2021-10-29,2021-22,34,Paris Saint-Germain,Lille,Home,True,Forward,0,False,0.5020040677898246,1.11,0.56
+3802984,2021-11-20,2021-22,34,Paris Saint-Germain,Nantes,Home,True,Wing,1,True,0.5391860974195926,1.5,0.81
+3802837,2021-11-28,2021-22,34,Paris Saint-Germain,Saint-Étienne,Away,True,Attacking midfield,0,False,0.411932523178645,0.0,0.0
+3802793,2021-12-01,2021-22,34,Paris Saint-Germain,OGC Nice,Home,True,Forward,0,False,0.5140017596391855,1.41,0.72
+3802685,2021-12-04,2021-22,34,Paris Saint-Germain,Lens,Away,True,Wing,0,False,0.4002813790020274,0.0,0.0
+3802683,2021-12-12,2021-22,34,Paris Saint-Germain,AS Monaco,Home,True,Forward,0,False,0.44016223692443884,0.0,0.0
+3802690,2021-12-22,2021-22,34,Paris Saint-Germain,Lorient,Away,True,Forward,0,False,0.39268387491045775,0.0,0.0
+3802802,2022-01-23,2021-22,34,Paris Saint-Germain,Stade de Reims,Home,False,Wing,0,False,0.2882880726792844,0.0,0.0
+3802907,2022-02-06,2021-22,34,Paris Saint-Germain,Lille,Away,True,Forward,1,True,0.5775212951669699,1.4,0.81
+3802795,2022-02-11,2021-22,34,Paris Saint-Germain,Rennes,Home,True,Forward,0,False,0.38291929014377774,0.0,0.0
+3802839,2022-02-19,2021-22,34,Paris Saint-Germain,Nantes,Away,True,Wing,0,False,0.4081679487023786,0.0,0.0
+3802709,2022-02-26,2021-22,34,Paris Saint-Germain,Saint-Étienne,Home,True,Wing,0,False,0.4163213536201706,0.0,0.0
+3802805,2022-03-05,2021-22,34,Paris Saint-Germain,OGC Nice,Away,True,Forward,0,False,0.5068396364513568,1.07,0.54
+3802904,2022-03-13,2021-22,34,Paris Saint-Germain,Bordeaux,Home,True,Wing,0,False,0.47175605618324434,0.0,0.0
+3802818,2022-04-03,2021-22,34,Paris Saint-Germain,Lorient,Home,True,Wing,1,True,0.4052705680761185,0.0,0.0
+3803000,2022-04-09,2021-22,34,Paris Saint-Germain,Clermont Foot,Away,True,Wing,0,False,0.4057773778555454,0.0,0.0
+3802983,2022-04-17,2021-22,34,Paris Saint-Germain,Olympique de Marseille,Home,True,Wing,0,False,0.42661993482437005,0.0,0.0
+3802676,2022-04-23,2021-22,34,Paris Saint-Germain,Lens,Home,True,Wing,1,True,0.4489618727101247,0.0,0.0
+3802643,2022-04-29,2021-22,34,Paris Saint-Germain,Strasbourg,Away,True,Wing,0,False,0.39469633766351514,0.0,0.0
+3802930,2022-05-08,2021-22,34,Paris Saint-Germain,Troyes,Home,True,Attacking midfield,0,False,0.40424593811743537,0.0,0.0
+3802665,2022-05-14,2021-22,34,Paris Saint-Germain,Montpellier,Away,True,Forward,2,True,0.5732587851415393,1.61,0.92
+3802948,2022-05-21,2021-22,34,Paris Saint-Germain,Metz,Home,True,Attacking midfield,0,False,0.41308812396017835,0.0,0.0
+3837650,2022-08-06,2022-23,35,Paris Saint-Germain,Clermont Foot,Away,True,Forward,2,True,0.5973984795989997,1.83,1.09
+3837659,2022-08-13,2022-23,35,Paris Saint-Germain,Montpellier,Home,True,Attacking midfield,0,False,0.5048166111287716,1.43,0.72
+3837662,2022-08-21,2022-23,35,Paris Saint-Germain,Lille,Away,True,Attacking midfield,1,True,0.5250833919292809,1.13,0.59
+3837680,2022-08-28,2022-23,35,Paris Saint-Germain,AS Monaco,Home,True,Attacking midfield,0,False,0.34757728499691015,0.0,0.0
+3837683,2022-08-31,2022-23,35,Paris Saint-Germain,Toulouse,Away,True,Attacking midfield,0,False,0.4073921268489628,0.0,0.0
+3837695,2022-09-03,2022-23,35,Paris Saint-Germain,Nantes,Away,True,Forward,0,False,0.4599822734969865,0.0,0.0
+3837706,2022-09-10,2022-23,35,Paris Saint-Germain,Stade Brestois,Home,True,Attacking midfield,0,False,0.37527148927000387,0.0,0.0
+3837717,2022-09-18,2022-23,35,Paris Saint-Germain,Lyon,Away,True,Attacking midfield,1,True,0.5162205769819972,1.44,0.74
+3837727,2022-10-01,2022-23,35,Paris Saint-Germain,OGC Nice,Home,True,Attacking midfield,1,True,0.5357684837380653,1.12,0.6
+3837747,2022-10-16,2022-23,35,Paris Saint-Germain,Olympique de Marseille,Home,True,Forward,0,False,0.5498330465311415,1.34,0.74
+3837752,2022-10-21,2022-23,35,Paris Saint-Germain,AC Ajaccio,Away,True,Forward,1,True,0.5598214913341915,1.21,0.68
+3837771,2022-10-29,2022-23,35,Paris Saint-Germain,Troyes,Home,True,Wing,1,True,0.4787773898200275,0.0,0.0
+3837785,2022-11-13,2022-23,35,Paris Saint-Germain,Auxerre,Home,True,Forward,0,False,0.4878364081697911,0.0,0.0
+3837818,2023-01-11,2022-23,35,Paris Saint-Germain,Angers,Home,True,Attacking midfield,1,True,0.5206269972661601,1.08,0.56
+3837827,2023-01-15,2022-23,35,Paris Saint-Germain,Rennes,Away,True,Attacking midfield,0,False,0.3227908654959768,0.0,0.0
+3837839,2023-01-29,2022-23,35,Paris Saint-Germain,Stade de Reims,Home,True,Attacking midfield,0,False,0.3813714531710182,0.0,0.0
+3837844,2023-02-01,2022-23,35,Paris Saint-Germain,Montpellier,Away,True,Forward,1,True,0.6316665322719164,1.3,0.82
+3837859,2023-02-04,2022-23,35,Paris Saint-Germain,Toulouse,Home,True,Forward,1,True,0.6113268925560902,1.22,0.75
+3837876,2023-02-19,2022-23,35,Paris Saint-Germain,Lille,Home,True,Forward,1,True,0.5534773957389433,1.09,0.6
+3837885,2023-02-26,2022-23,35,Paris Saint-Germain,Olympique de Marseille,Away,True,Forward,1,True,0.6410460009945932,1.19,0.76
+3837896,2023-03-04,2022-23,35,Paris Saint-Germain,Nantes,Home,True,Forward,1,True,0.6060280170319883,1.24,0.75
+3837902,2023-03-11,2022-23,35,Paris Saint-Germain,Stade Brestois,Away,True,Forward,0,False,0.5105512032000354,1.14,0.58
+3837918,2023-03-19,2022-23,35,Paris Saint-Germain,Rennes,Home,True,Forward,0,False,0.3730942149098008,0.0,0.0
+3837928,2023-04-02,2022-23,35,Paris Saint-Germain,Lyon,Home,True,Forward,0,False,0.4655165082864654,0.0,0.0
+3837938,2023-04-08,2022-23,35,Paris Saint-Germain,OGC Nice,Away,True,Forward,1,True,0.5898324262076193,1.07,0.63
+3837947,2023-04-15,2022-23,35,Paris Saint-Germain,Lens,Home,True,Forward,1,True,0.5488358131493719,1.2,0.66
+3837954,2023-04-21,2022-23,35,Paris Saint-Germain,Angers,Away,True,Forward,0,False,0.5951994709635948,1.08,0.64
+3837963,2023-04-30,2022-23,35,Paris Saint-Germain,Lorient,Home,True,Forward,0,False,0.4017428691906182,0.0,0.0
+3837987,2023-05-13,2022-23,35,Paris Saint-Germain,AC Ajaccio,Home,True,Attacking midfield,0,False,0.4866769491660426,0.0,0.0
+3837998,2023-05-21,2022-23,35,Paris Saint-Germain,Auxerre,Away,True,Wing,0,False,0.3788067989332552,0.0,0.0
+3838004,2023-05-27,2022-23,35,Paris Saint-Germain,Strasbourg,Away,True,Forward,1,True,0.598586842009103,1.12,0.67
+3838017,2023-06-03,2022-23,35,Paris Saint-Germain,Clermont Foot,Home,True,Forward,0,False,0.5467611128452329,1.29,0.71

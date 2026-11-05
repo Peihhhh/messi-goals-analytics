@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.metrics import (
     classification_report,
+    confusion_matrix,
     mean_squared_error,
     r2_score,
     roc_auc_score,
@@ -113,14 +114,107 @@ print(f" -> Mean Squared Error (MSE Tang 2): {mean_squared_error(y2_test, y2_pre
 print(f" -> R2 Score (Tang 2): {r2_score(y2_test, y2_pred):.4f}")
 
 # ==========================================
-# XUAT KET QUA RA FILE PHUC VU POWER BI
+# KET NOI 2 TANG: CASCADE PREDICTION
 # ==========================================
-df["pred_scored_prob"] = model_stage1.predict_proba(
-    pd.get_dummies(df[features_stage1], drop_first=True)
-    .reindex(columns=X1.columns, fill_value=0)
-)[
-    :, 1
+print("\n[CASCADE] Dang ket noi 2 tang de du doan tong hop...")
+
+# Buoc 1: Tang 1 du doan xac suat ghi ban cho TOAN BO tran
+X1_all = pd.get_dummies(df[features_stage1], drop_first=True).reindex(
+    columns=X1.columns, fill_value=0
+)
+df["pred_scored_prob"] = model_stage1.predict_proba(X1_all)[:, 1]
+
+# Buoc 2: Tang 2 du doan so ban NHUNG CHI KHI Tang 1 duyet
+THRESHOLD = 0.5  # Nguong quyet dinh: P(scored) > 0.5 moi chuyen sang Tang 2
+
+# Chuan bi features cho Tang 2 tren TOAN BO du lieu
+features_stage2_safe = [f for f in features_stage2 if f in df.columns]
+X2_all = pd.get_dummies(df[features_stage2_safe], drop_first=True).reindex(
+    columns=X2.columns, fill_value=0
+)
+
+# Tang 2 chi chay khi Tang 1 "duyet" (prob > threshold)
+mask_scored = df["pred_scored_prob"] > THRESHOLD
+df["pred_goals_if_scored"] = 0.0
+df.loc[mask_scored, "pred_goals_if_scored"] = model_stage2.predict(
+    X2_all.loc[mask_scored]
+)
+
+# Lam tron va gioi han ket qua trong khoang hop ly [1, 4]
+df.loc[mask_scored, "pred_goals_if_scored"] = (
+    df.loc[mask_scored, "pred_goals_if_scored"].clip(1, 4).round(2)
+)
+
+# Buoc 3: Tinh ky vong so ban thang = P(scored) x E[goals | scored]
+df["expected_goals"] = (df["pred_scored_prob"] * df["pred_goals_if_scored"]).round(2)
+
+# ==========================================
+# HIEN THI KET QUA CASCADE
+# ==========================================
+print(f"\n{'='*60}")
+print(f"  KET QUA DU DOAN PHAN TANG (CASCADE)")
+print(f"{'='*60}")
+
+total = len(df)
+predicted_scored = mask_scored.sum()
+predicted_not_scored = total - predicted_scored
+
+print(f"\n[TANG 1] Phan loai co ghi ban hay khong (Threshold = {THRESHOLD}):")
+print(f"   - Du doan GHI BAN:     {predicted_scored}/{total} tran ({predicted_scored/total*100:.1f}%)")
+print(f"   - Du doan KHONG ghi:   {predicted_not_scored}/{total} tran ({predicted_not_scored/total*100:.1f}%)")
+
+print(f"\n[TANG 2] Du doan so ban (chi tinh tran duoc Tang 1 duyet):")
+scored_preds = df.loc[mask_scored, "pred_goals_if_scored"]
+print(f"   - So tran duoc dua vao Tang 2:  {len(scored_preds)}")
+print(f"   - Trung binh du doan:           {scored_preds.mean():.2f} ban/tran")
+print(f"   - Khoang du doan:               [{scored_preds.min():.2f} - {scored_preds.max():.2f}]")
+
+print(f"\n[TONG HOP] Ky vong so ban thang (E[goals] = P(scored) x E[goals|scored]):")
+print(f"   - Trung binh ky vong:           {df['expected_goals'].mean():.2f} ban/tran")
+print(f"   - Thuc te trung binh:           {df['messi_goals'].mean():.2f} ban/tran")
+
+# So sanh tren tap test (Tang 1)
+print(f"\n[KIEM TRA] So sanh du doan vs thuc te tren tap test Tang 1:")
+test_idx = X1_test.index
+df_test = df.loc[test_idx].copy()
+
+actual_scored = df_test["scored"].astype(int)
+pred_scored = (df_test["pred_scored_prob"] > THRESHOLD).astype(int)
+cm = confusion_matrix(actual_scored, pred_scored)
+tn, fp, fn, tp = cm.ravel()
+print(f"   Confusion Matrix:")
+print(f"                      Du doan KHONG  |  Du doan CO")
+print(f"   Thuc te KHONG:         {tn:>4}         |     {fp:>4}")
+print(f"   Thuc te CO:            {fn:>4}         |     {tp:>4}")
+
+# Vi du cu the
+print(f"\n[VI DU] 10 tran dau tien voi du doan cascade:")
+print(f"{'':>3} {'Opponent':<20} {'Venue':<6} {'P(scored)':<12} {'Tang2 pred':<12} {'E[goals]':<10} {'Actual':<8}")
+print(f"   {'-'*68}")
+sample = df.head(10)
+for _, row in sample.iterrows():
+    status = "-> Tang 2" if row["pred_scored_prob"] > THRESHOLD else "   STOP"
+    print(
+        f"   {row['opponent']:<20} {row['venue']:<6} "
+        f"{row['pred_scored_prob']:<12.3f} "
+        f"{row['pred_goals_if_scored']:<12.2f} "
+        f"{row['expected_goals']:<10.2f} "
+        f"{int(row['messi_goals']):<8} {status}"
+    )
+
+# ==========================================
+# XUAT FILE CHO POWER BI
+# ==========================================
+output_cols = [
+    "match_id", "date", "season", "age", "club", "opponent", "venue",
+    "started", "position_group", "messi_goals", "scored",
+    "pred_scored_prob", "pred_goals_if_scored", "expected_goals",
 ]
+output_df = df[[c for c in output_cols if c in df.columns]]
+
 output_file = DATA_DIR / "messi_ai_predictions.csv"
-df.to_csv(output_file, index=False)
+output_df.to_csv(output_file, index=False)
 print(f"\n[HOAN TAT] Da luu file ket qua du doan tai: {output_file}")
+print(f"   - Cot 'pred_scored_prob':      Xac suat ghi ban (Tang 1)")
+print(f"   - Cot 'pred_goals_if_scored':  So ban du doan (Tang 2, = 0 neu Tang 1 khong duyet)")
+print(f"   - Cot 'expected_goals':        Ky vong ban thang = P x E[goals|scored]")
