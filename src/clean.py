@@ -7,7 +7,11 @@ import pandas as pd
 # CONSTANTS
 
 DEFAULT_INPUT_PATH = Path("data/raw/messi_all_goals.csv")
+DEFAULT_STATSBOMB_MATCHES_PATH = Path("data/raw/matches.csv")
 DEFAULT_OUTPUT_PATH = Path("data/clean/messi_goals_clean.csv")
+
+# StatsBomb competition names -> names used in the Kaggle file.
+STATSBOMB_COMPETITION_MAP = {"La Liga": "LaLiga", "Ligue 1": "Ligue 1"}
 
 EXCLUDED_CLUBS = ["FC Barcelona B"]
 # Value used in the raw file when a goal has no assist (penalty, solo run, ...).
@@ -191,22 +195,58 @@ def clean_flags_and_categories(dataframe):
     return dataframe
  
  
-def add_match_id(dataframe):
+def add_goal_match_id(dataframe):
     """
-    Create 'match_id' (one id per match) and 'goal_number_in_match'.
-    A match is identified by its date, club and opponent.
+    Create 'goal_match_id' (one id per match in THIS file, all competitions)
+    and 'goal_number_in_match'. A match is identified by its date, club and opponent.
+
+    This is a local id (1, 2, 3, ...). It is NOT the StatsBomb match_id,
+    which is added separately by add_statsbomb_match_id.
     """
     dataframe = dataframe.sort_values(["date", "goal_minute"], kind="stable").reset_index(drop=True)
     match_keys = ["date", "club", "opponent"]
-    dataframe["match_id"] = dataframe.groupby(match_keys, sort=False).ngroup() + 1
-    dataframe["goal_number_in_match"] = dataframe.groupby("match_id").cumcount() + 1
+    dataframe["goal_match_id"] = dataframe.groupby(match_keys, sort=False).ngroup() + 1
+    dataframe["goal_number_in_match"] = dataframe.groupby("goal_match_id").cumcount() + 1
+    return dataframe
+
+
+def add_statsbomb_match_id(dataframe, statsbomb_matches_path):
+    """
+    Add 'match_id' = the StatsBomb match id, so this file joins directly with
+    messi_league_matches.csv on match_id.
+
+    Only league goals (La Liga, Ligue 1) can have one. Cup goals, and league
+    matches missing from StatsBomb open data, keep an empty value.
+    The join key is (date, competition) because the two sources spell
+    opponents differently.
+    """
+    statsbomb_matches = pd.read_csv(statsbomb_matches_path, parse_dates=["date"])
+    statsbomb_matches["competition"] = statsbomb_matches["competition"].map(STATSBOMB_COMPETITION_MAP)
+    statsbomb_keys = statsbomb_matches[["date", "competition", "match_id"]]
+
+    # many_to_one: several goals can share a match, but each match appears once in StatsBomb.
+    dataframe = dataframe.merge(
+        statsbomb_keys, on=["date", "competition"], how="left", validate="many_to_one"
+    )
+    dataframe["match_id"] = dataframe["match_id"].astype("Int64")  # integer that allows NaN
+
+    is_league_goal = dataframe["competition"].isin(STATSBOMB_COMPETITION_MAP.values())
+    unmatched = dataframe[is_league_goal & dataframe["match_id"].isna()]
+    print(
+        f"League goals: {int(is_league_goal.sum())}, "
+        f"with a StatsBomb match_id: {int(dataframe['match_id'].notna().sum())}"
+    )
+    if len(unmatched) > 0:
+        print("League goals with no StatsBomb match (kept, match_id left empty):")
+        print(unmatched[["date", "competition", "opponent", "goal_minute"]].to_string(index=False))
     return dataframe
  
  
 def reorder_columns(dataframe):
     """Put the columns in a readable order."""
     ordered_columns = [
-        "match_id", "goal_number_in_match", "date", "year", "month", "season", "goal_decade",
+        "goal_match_id", "match_id", "goal_number_in_match",
+        "date", "year", "month", "season", "goal_decade",
         "club", "competition", "stage_name", "matchday", "opponent", "venue", "is_home_goal",
         "player_position", "goal_minute", "goal_minute_bucket",
         "goal_type", "goal_type_raw", "assist_player", "has_assist",
@@ -245,8 +285,8 @@ def run_sanity_checks(dataframe):
     print(f"Rows where is_home_goal disagrees with venue: {int(disagree.sum())}")
  
     # 5. Messi cannot score more goals in a match than his team's final total.
-    goals_per_match = dataframe.groupby("match_id").size()
-    team_final_per_match = dataframe.groupby("match_id")["team_goals_final"].first()
+    goals_per_match = dataframe.groupby("goal_match_id").size()
+    team_final_per_match = dataframe.groupby("goal_match_id")["team_goals_final"].first()
     impossible = (goals_per_match > team_final_per_match).sum()
     print(f"Matches where Messi goals > team final goals: {int(impossible)}")
  
@@ -255,13 +295,18 @@ def run_sanity_checks(dataframe):
         (dataframe["stage_name"] == "League") & dataframe["matchday"].isna()
     ).sum()
     print(f"League rows without matchday: {int(league_without_matchday)}")
+
+    # 7. A StatsBomb match_id must belong to exactly one local goal_match_id.
+    linked = dataframe.dropna(subset=["match_id"])
+    ids_per_statsbomb_match = linked.groupby("match_id")["goal_match_id"].nunique()
+    print(f"StatsBomb match_id linked to more than one match: {int((ids_per_statsbomb_match > 1).sum())}")
  
  
 # ---------------------------------------------------------------------------
 # Entry point
 # ---------------------------------------------------------------------------
  
-def clean_messi_goals(input_path, output_path):
+def clean_messi_goals(input_path, statsbomb_matches_path, output_path):
     """Run every cleaning step in order and save the result."""
     dataframe = load_raw_data(input_path)
     dataframe = remove_excluded_clubs(dataframe)
@@ -271,7 +316,8 @@ def clean_messi_goals(input_path, output_path):
     dataframe = clean_assists(dataframe)
     dataframe = clean_goal_types(dataframe)
     dataframe = clean_flags_and_categories(dataframe)
-    dataframe = add_match_id(dataframe)
+    dataframe = add_goal_match_id(dataframe)
+    dataframe = add_statsbomb_match_id(dataframe, statsbomb_matches_path)
     dataframe = reorder_columns(dataframe)
  
     run_sanity_checks(dataframe)
@@ -285,11 +331,11 @@ def clean_messi_goals(input_path, output_path):
 def parse_arguments():
     parser = argparse.ArgumentParser(description="Clean the Messi goals dataset.")
     parser.add_argument("--input", type=Path, default=DEFAULT_INPUT_PATH)
+    parser.add_argument("--statsbomb-matches", type=Path, default=DEFAULT_STATSBOMB_MATCHES_PATH)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT_PATH)
     return parser.parse_args()
  
  
 if __name__ == "__main__":
     arguments = parse_arguments()
-    clean_messi_goals(arguments.input, arguments.output)
- 
+    clean_messi_goals(arguments.input, arguments.statsbomb_matches, arguments.output)
