@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore", message="credentials were not supplied")
 # ---------------------------------------------------------------------------
 
 MESSI_PLAYER_ID = 5503
-MESSI_BIRTH_YEAR = 1987
+MESSI_BIRTH_DATE = pd.Timestamp("1987-06-24")
 REGULATION_MINUTES = 90
 
 LEAGUE_CONFIGS = [
@@ -139,6 +139,17 @@ def compute_minutes_from_positions(position_spells):
     return max(end_minute - start_minute, 1)
 
 
+def spell_starts_at_kickoff(position_spell):
+    """True if a position spell begins at 00:00 of the first half.
+
+    Do not rely on start_reason == "Starting XI": StatsBomb sometimes labels a
+    starter's first spell as "Tactical Shift" (e.g. match 70294, Granada 2013),
+    which made a starter look like a substitute with 90 minutes.
+    """
+    starts_in_first_half = position_spell.get("from_period", 1) == 1
+    return starts_in_first_half and clock_string_to_minute(position_spell["from"]) == 0
+
+
 def get_messi_appearance(match_id, club):
     """Return an appearance dict for Messi, or None if he did not play."""
     lineups_by_team = sb.lineups(match_id=match_id)
@@ -163,7 +174,7 @@ def get_messi_appearance(match_id, club):
 
     return {
         "match_id": int(match_id),
-        "started": int(first_spell["start_reason"] == "Starting XI"),
+        "started": int(spell_starts_at_kickoff(first_spell)),
         "minutes_played": minutes_played,
         "starting_position": first_spell["position"],
         "end_reason": last_spell["end_reason"],
@@ -218,6 +229,20 @@ def get_messi_shots(match_id):
 # Match row builder
 # ---------------------------------------------------------------------------
 
+def age_on_date(match_date):
+    """Messi's age in whole years on the match date.
+
+    The season start year is not enough: matches played after 24 June
+    (e.g. June-July 2020, after the COVID break) would get an age one too low.
+    """
+    match_date = pd.Timestamp(match_date)
+    had_birthday_this_year = (match_date.month, match_date.day) >= (
+        MESSI_BIRTH_DATE.month,
+        MESSI_BIRTH_DATE.day,
+    )
+    return match_date.year - MESSI_BIRTH_DATE.year - (0 if had_birthday_this_year else 1)
+
+
 def build_match_row(statsbomb_match, season):
     """Convert one StatsBomb match row to the project's matches format."""
     club = season["club"]
@@ -238,7 +263,7 @@ def build_match_row(statsbomb_match, season):
         "match_id": int(statsbomb_match["match_id"]),
         "date": str(statsbomb_match["match_date"]),
         "season": season["season_name"],
-        "age": season["season_start_year"] - MESSI_BIRTH_YEAR,
+        "age": age_on_date(statsbomb_match["match_date"]),
         "competition": season["competition_name"],
         "match_week": int(statsbomb_match["match_week"]),
         "club": club,

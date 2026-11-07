@@ -476,13 +476,13 @@ match_id,date,season,age,competition,match_week,club,opponent,venue,home_score,a
 303532,2020-06-16,2019/2020,32,La Liga,29,Barcelona,Leganés,home,2,0,2,0
 303674,2020-06-19,2019/2020,32,La Liga,30,Barcelona,Sevilla,away,0,0,0,0
 303493,2020-06-23,2019/2020,32,La Liga,31,Barcelona,Athletic Club,home,1,0,1,0
-303516,2020-06-27,2019/2020,32,La Liga,32,Barcelona,Celta Vigo,away,2,2,2,2
-303696,2020-06-30,2019/2020,32,La Liga,33,Barcelona,Atlético Madrid,home,2,2,2,2
-303725,2020-07-05,2019/2020,32,La Liga,34,Barcelona,Villarreal,away,1,4,4,1
-303615,2020-07-08,2019/2020,32,La Liga,35,Barcelona,Espanyol,home,1,0,1,0
-303680,2020-07-11,2019/2020,32,La Liga,36,Barcelona,Real Valladolid,away,0,1,1,0
-303634,2020-07-16,2019/2020,32,La Liga,37,Barcelona,Osasuna,home,1,2,1,2
-303421,2020-07-19,2019/2020,32,La Liga,38,Barcelona,Deportivo Alavés,away,0,5,5,0
+303516,2020-06-27,2019/2020,33,La Liga,32,Barcelona,Celta Vigo,away,2,2,2,2
+303696,2020-06-30,2019/2020,33,La Liga,33,Barcelona,Atlético Madrid,home,2,2,2,2
+303725,2020-07-05,2019/2020,33,La Liga,34,Barcelona,Villarreal,away,1,4,4,1
+303615,2020-07-08,2019/2020,33,La Liga,35,Barcelona,Espanyol,home,1,0,1,0
+303680,2020-07-11,2019/2020,33,La Liga,36,Barcelona,Real Valladolid,away,0,1,1,0
+303634,2020-07-16,2019/2020,33,La Liga,37,Barcelona,Osasuna,home,1,2,1,2
+303421,2020-07-19,2019/2020,33,La Liga,38,Barcelona,Deportivo Alavés,away,0,5,5,0
 3773593,2020-09-27,2020/2021,33,La Liga,3,Barcelona,Villarreal,home,4,0,4,0
 3773466,2020-10-01,2020/2021,33,La Liga,4,Barcelona,Celta Vigo,away,0,3,3,0
 3773672,2020-10-04,2020/2021,33,La Liga,5,Barcelona,Sevilla,home,1,1,1,1
