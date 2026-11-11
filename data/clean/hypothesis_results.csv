@@ -1,0 +1,5 @@
+hypothesis,claim,method,effect,estimate,ci_low,ci_high,p_value,p_holm,significant,direction,conclusion
+H1,Ít cơ hội tốt hơn,Permutation test,Tỉ số npxG/90',0.8063741100279189,0.6434966808326117,1.0219836374282305,0.0633873225354929,0.1267746450709858,False,PSG thấp hơn,Chưa đủ bằng chứng bác bỏ H0
+H2,Sút ít hơn,"Hồi quy Poisson, offset log(phút)",Tỉ số cú sút/90',0.7168285771531339,0.6121134657330914,0.8394574499484132,3.597511943373068e-05,0.00014390047773492272,True,PSG thấp hơn,Bác bỏ H0 (PSG thấp hơn)
+H3,Dứt điểm kém hơn so với xG,"Hồi quy logistic, SE cluster theo trận",Odds ratio ghi bàn ở cùng xG,0.4890543386457834,0.29214148569862264,0.8186928521168679,0.006509590166243083,0.019528770498729246,True,PSG thấp hơn,Bác bỏ H0 (PSG thấp hơn)
+H4,Không chỉ do tuổi,"Hồi quy Poisson, tuổi + tuổi², offset log(phút)",Tỉ số bàn không pen/90' sau khi tính tuổi,0.6784002143390483,0.3850163102866892,1.1953437777027536,0.17941124711605771,0.17941124711605771,False,PSG thấp hơn,Chưa đủ bằng chứng bác bỏ H0
